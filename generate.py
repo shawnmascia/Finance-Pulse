@@ -47,7 +47,7 @@ WSJ What's News, Bloomberg Surveillance, Bloomberg Odd Lots, FT News Briefing, \
 Morning Brew) for macro, plus targeted banking, regulatory, and AI-in-finance news.
 
 Anchor competitive positioning on the super-regional cohort: PNC, U.S. Bancorp, \
-Truist, Fifth Third, KeyCorp, Regions, M&T, Citizens. Treat megabanks as context.
+Truist, Fifth Third, KeyCorp, Regions, M&T, Citizens. Treat megabanks as a comparison point.
 
 Required coverage: macro and rates; banking finance-function metrics (NIM, deposit \
 beta and mix, funding costs, credit and provisioning, efficiency, capital); a \

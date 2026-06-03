@@ -11,7 +11,7 @@ PODCAST_DESCRIPTION = (
     "A daily banking finance-function intelligence briefing: macro, "
     "banking, regulatory, and AI in finance, built for client conversations."
 )
-PODCAST_EMAIL = "you@example.com"           # used in the RSS owner tag
+PODCAST_EMAIL = "shawn.mascia@gmail.com"           # used in the RSS owner tag
 PODCAST_LANGUAGE = "en-us"
 
 # ---- Your GitHub Pages base URL (NO trailing slash) ----

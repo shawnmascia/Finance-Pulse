@@ -17,7 +17,7 @@ PODCAST_LANGUAGE = "en-us"
 # ---- Your GitHub Pages base URL (NO trailing slash) ----
 # Format: https://<your-github-username>.github.io/<repo-name>
 # Example: https://smascia.github.io/finance-pulse-podcast
-BASE_URL = "https://YOURNAME.github.io/finance-pulse-podcast"
+BASE_URL = "https://shawnmascia.github.io/finance-pulse-podcast"
 
 # ---- Claude (content generation) ----
 # Verify the current model id at https://docs.claude.com (Models page).

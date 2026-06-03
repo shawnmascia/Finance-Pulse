@@ -31,7 +31,7 @@ TTS_PROVIDER = "openai"
 
 # OpenAI TTS settings (used if TTS_PROVIDER == "openai")
 OPENAI_TTS_MODEL = "gpt-4o-mini-tts"         # or "tts-1-hd"
-OPENAI_TTS_VOICE = "onyx"                     # default. Alternatives: alloy, echo, fable, nova, shimmer
+OPENAI_TTS_VOICE = "fable"                     # default. Alternatives: alloy, echo, fable, nova, shimmer
 
 # ElevenLabs settings (used if TTS_PROVIDER == "elevenlabs")
 ELEVENLABS_VOICE_ID = "JBFqnCBsd6RMkjVDRZzb"  # pick a voice id from your account

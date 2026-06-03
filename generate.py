@@ -36,7 +36,7 @@ DELIM = "===AUDIO_SCRIPT==="
 # 1. Generate the briefing with Claude + web search
 # ---------------------------------------------------------------------
 SYSTEM_PROMPT = """You are a banking finance-function intelligence analyst. \
-Your reader is a Deloitte finance transformation consultant who works primarily \
+Your reader is a finance transformation consultant who works primarily \
 with banks and uses this briefing in client conversations. The test for every \
 item: does it affect a bank CFO, controller, treasurer, or the finance \
 transformation agenda?

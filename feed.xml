@@ -15,7 +15,223 @@
       <itunes:email>shawn.mascia@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://shawnmascia.github.io/Finance-Pulse/cover.jpg"/>
-    <lastBuildDate>Mon, 08 Jun 2026 18:15:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 09:30:40 +0000</lastBuildDate>
+    <item>
+      <title>Finance Pulse - Jun 9, 2026</title>
+      <description><![CDATA[I now have sufficient data to produce both outputs. Let me compile the full briefing.
+
+---
+
+# Finance Pulse | Banking Edition
+## Tuesday, June 9, 2026
+
+---
+
+**Bottom line: With the June 16-17 FOMC decision now a near-certainty hold, super-regional banks are entering mid-year in a structurally better position than feared a year ago -- NIM is stabilizing, commercial lending is recovering, and the Basel III re-proposal creates a capital windfall that could reshape capital return and transformation investment decisions for Q3 and beyond.**
+
+---
+
+### Top Takeaways
+
+1. Markets price a 99.3% probability of no change at the June 16-17 FOMC meeting. April CPI rose to 3.8% year-over-year on energy price shocks, with May data due tomorrow (June 10) expected near 4.2%, while May nonfarm payrolls came in at 172,000 jobs with unemployment holding at 4.3%.
+
+2. The June 16-17 meeting is an SEP meeting and will include an updated Summary of Economic Projections and dot plot -- the first revised dot plot under new Fed Chair Kevin Warsh, who is expected to preside over the June meeting after Senate confirmation.
+
+3. The Federal Reserve, FDIC, and OCC have jointly proposed overhauling U.S. bank capital rules, replacing the 2023 Basel III Endgame proposal with a reduced-stringency framework estimated to provide $87.7 billion in system-wide CET1 relief. Comments on the proposals are due June 18, 2026.
+
+4. KeyCorp reported Q1 2026 EPS of $0.44, up 33% year-over-year; NIM of 2.87%, up 5 bps quarter-over-quarter; and a CET1 ratio of 11.4%, with management noting 100+ basis points of anticipated benefit to its marked CET1 ratio under the proposed Basel III revised standardized approach.
+
+5. On April 14, BlackLine announced "Agentic Financial Operations," a new operating model aimed at solving the governance and trust gap for AI in finance, announced at its BeyondTheBlack London conference -- providing the control layer the Office of the CFO requires to harness AI safely at scale.
+
+---
+
+### Key Themes
+
+**1. Rate Plateau and NIM Stabilization [Evolving]**
+
+NIM in 2026 will depend on whether the Fed holds rates steady or resumes cutting, but the outlook -- given stable rates and continued deposit repricing -- is generally for modest further expansion or flat margins. 2026 may be the first year since the rate-hike cycle where year-over-year NIM comparisons are relatively flat. A critical performance metric will be the race between NIM compression and fee income acceleration; monitoring this dynamic is essential for assessing a bank's earnings trajectory.
+
+**2. Basel III Endgame Re-proposal as Capital Catalyst [New]**
+
+The March 2026 proposals revisit Basel III Endgame for the largest firms, introduce a separate approach for regional and smaller banks, and revise the GSIB surcharge framework. Taken together, the package lowers capital requirements overall, reduces duplication, and improves the economics of traditional lending -- but also creates new strategic and operational questions for treasury, risk, finance, reporting, and data teams.
+
+**3. Agentic AI Moving from Pilot to Production [Evolving]**
+
+According to Wolters Kluwer, 44% of finance teams will use agentic AI in 2026, representing an increase of over 600%. But 99% of companies plan to put agents into production while only 11% have done so, due to implementation challenges related to data, governance, and security. The gap between vendor marketing and real deployment is stark.
+
+---
+
+### Banking Finance-Function
+
+**NIM and Funding:** As of early 2026, the U.S. benchmark rate stands at 3.75%. NIMs at U.S. banks continued to increase in Q1 2025 after rising throughout 2024, as all sizes of banks saw decreasing funding costs, primarily through lowering interest rates paid to depositors. That tailwind is fading in 2026 as deposit repricing slows.
+
+**Super-Regional Cohort:** Q1 2026 earnings from PNC, KeyCorp, U.S. Bancorp, Truist, Fifth Third, and Regions showed commercial lending gaining momentum, fee-based businesses carrying more weight, and technology investments beginning to reshape how banks compete for client relationships. At Regions, CFO Anil Chadha told analysts that approximately half of loan growth was driven by higher line utilization, with the remainder from new loan originations, primarily to existing clients -- underscoring a return to activity among established corporate relationships.
+
+**Fee Diversification:** U.S. Bancorp highlighted sustained fee-based growth tied to merchant services, small business cards, and embedded payment tools. KeyCorp reported a 12% increase in priority fee-based businesses, including commercial payments and investment banking.
+
+**Credit:** TransUnion projects that credit card delinquency rates are expected to remain virtually flat, with the 90+ days past due rate forecast to rise by just one basis point to 2.57% in 2026. KeyCorp reported NCOs of 38 bps, down 5 bps year-over-year.
+
+---
+
+### Regulatory Radar
+
+**Basel III Endgame:** CET1 reductions by category are estimated at approximately 4.8% for GSIBs (Category I and II), approximately 5.2% for large regional banks (Category III and IV), and approximately 7.8% for smaller banking organizations. Key structural reforms include AOCI inclusion mandated for Category III/IV banks with a five-year phase-in from 2027, MSA capital deductions eliminated, market risk methodology shifts from VaR to expected shortfall, and CVA capital requirements introduced.
+
+Most significantly for the super-regional sector, Category III and IV banks would be required to include accumulated other comprehensive income in their regulatory capital -- a direct response to lessons from the 2023 regional banking stress when unrealized losses contributed to the failures of Silicon Valley Bank and Signature Bank.
+
+Only one Federal Reserve Governor voted against the proposals, signaling a general bipartisan consensus supportive of the proposals among the Federal Reserve Board of Governors and that finalization is likely later this year.
+
+**Fed Leadership:** Chair Powell tied renewed inflation pressure to higher oil prices from the Middle East conflict and confirmed he will remain on the Board after his chairmanship ended May 15.
+
+---
+
+### AI in Finance
+
+**Real Deployments:**
+- FIS's Financial Crimes AI Agent, built with Anthropic, will compress AML alert and case investigations from days to minutes, reduce false positives, and enhance SAR narrative quality. BMO and Amalgamated Bank are in development with the agent today, with general availability planned for second half of 2026.
+- BlackLine's Verity delivers embedded, fully auditable AI capabilities featuring a digital workforce of specialized agents. Verity Prepare automates end-to-end reconciliation with full traceability, reducing creation time by over 90% for early adopters; Verity Match achieves 80-90% match rates in complex reconciliations.
+
+**Vendor Landscape:** OneStream leads the CPM market with Sensible AI embedded in its unified platform, while BlackLine and Workday Adaptive Planning offer strong capabilities in specific areas such as planning or financial close.
+
+**Governance Gap:** The win condition is not autonomous finance -- it is finance that compounds the controls. A modest set of well-instrumented agents that strengthen the audit trail beats a beautiful demo of autonomous close that the auditor refuses to sign off on.
+
+**Workforce Signal:** McKinsey highlights that AI pioneers are set to gain a 4% return on tangible equity advantage, while slow movers are likely to be stuck with an uncompetitive cost base.
+
+---
+
+### CFO Agenda, FP&A, and Transformation Signals
+
+While the hype around AI persists, 2026 is shaping up as the year agentic AI will create scaled transformation in financial services, with a clear gap emerging between market leaders, the chasing pack, and the laggards.
+
+A new "finance agent owner" role is emerging in mature programs -- often sitting under the controller or FP&A lead -- responsible for prompt curation, model-update review, and evidence pipelines. This role does not exist in traditional finance org charts; teams that absorb the work into existing roles often see it deprioritized under cycle pressure. The right move is a named role with a defined fraction of the week dedicated to agent program quality.
+
+The close automation and reconciliation software market has reached an estimated $5.8 billion and is growing at 12% CAGR as finance teams abandon spreadsheet-based reconciliation in favor of purpose-built platforms. McKinsey estimates that GenAI could automate 60-70% of work activities in finance, yet Gartner found that only 46% of CFOs had explicit AI conversations with their boards, suggesting many organizations are still evaluating basic close automation before considering AI-augmented reconciliation.
+
+---
+
+### Contrarian Insight
+
+The Basel III re-proposal is being framed as pure capital relief. But for super-regionals in Categories III and IV, the **AOCI inclusion requirement** -- phased in from 2027 -- is a hidden volatility tax. Banks with large unrealized securities losses will see capital ratios swing with rate moves in ways they did not pre-SVB. Finance teams need ALM, FP&A, and capital planning integrated before the phase-in clock starts. The benefit headline may obscure the modeling burden.
+
+---
+
+### Client Conversation Hooks
+
+1. **"Your Basel III comment period closes June 18 -- does your capital team have a read on the AOCI phase-in impact on your Category III/IV marked CET1 trajectory under rate scenarios?"**
+
+2. **"KeyCorp disclosed 100+ bps of anticipated CET1 benefit from the revised standardized approach. Has your CFO quantified that number for your institution, and is it already informing your buyback or investment pacing?"**
+
+3. **"The FIS-Anthropic AML agent is in production at BMO today. Is your financial crimes team tracking the case-cycle time and false-positive rate benchmarks, and does your finance transformation roadmap account for the investigator headcount implications?"**]]></description>
+      <itunes:summary>I now have sufficient data to produce both outputs. Let me compile the full briefing.
+
+---
+
+# Finance Pulse | Banking Edition
+## Tuesday, June 9, 2026
+
+---
+
+**Bottom line: With the June 16-17 FOMC decision now a near-certainty hold, super-regional banks are entering mid-year in a structurally better position than feared a year ago -- NIM is stabilizing, commercial lending is recovering, and the Basel III re-proposal creates a capital windfall that could reshape capital return and transformation investment decisions for Q3 and beyond.**
+
+---
+
+### Top Takeaways
+
+1. Markets price a 99.3% probability of no change at the June 16-17 FOMC meeting. April CPI rose to 3.8% year-over-year on energy price shocks, with May data due tomorrow (June 10) expected near 4.2%, while May nonfarm payrolls came in at 172,000 jobs with unemployment holding at 4.3%.
+
+2. The June 16-17 meeting is an SEP meeting and will include an updated Summary of Economic Projections and dot plot -- the first revised dot plot under new Fed Chair Kevin Warsh, who is expected to preside over the June meeting after Senate confirmation.
+
+3. The Federal Reserve, FDIC, and OCC have jointly proposed overhauling U.S. bank capital rules, replacing the 2023 Basel III Endgame proposal with a reduced-stringency framework estimated to provide $87.7 billion in system-wide CET1 relief. Comments on the proposals are due June 18, 2026.
+
+4. KeyCorp reported Q1 2026 EPS of $0.44, up 33% year-over-year; NIM of 2.87%, up 5 bps quarter-over-quarter; and a CET1 ratio of 11.4%, with management noting 100+ basis points of anticipated benefit to its marked CET1 ratio under the proposed Basel III revised standardized approach.
+
+5. On April 14, BlackLine announced &quot;Agentic Financial Operations,&quot; a new operating model aimed at solving the governance and trust gap for AI in finance, announced at its BeyondTheBlack London conference -- providing the control layer the Office of the CFO requires to harness AI safely at scale.
+
+---
+
+### Key Themes
+
+**1. Rate Plateau and NIM Stabilization [Evolving]**
+
+NIM in 2026 will depend on whether the Fed holds rates steady or resumes cutting, but the outlook -- given stable rates and continued deposit repricing -- is generally for modest further expansion or flat margins. 2026 may be the first year since the rate-hike cycle where year-over-year NIM comparisons are relatively flat. A critical performance metric will be the race between NIM compression and fee income acceleration; monitoring this dynamic is essential for assessing a bank&#x27;s earnings trajectory.
+
+**2. Basel III Endgame Re-proposal as Capital Catalyst [New]**
+
+The March 2026 proposals revisit Basel III Endgame for the largest firms, introduce a separate approach for regional and smaller banks, and revise the GSIB surcharge framework. Taken together, the package lowers capital requirements overall, reduces duplication, and improves the economics of traditional lending -- but also creates new strategic and operational questions for treasury, risk, finance, reporting, and data teams.
+
+**3. Agentic AI Moving from Pilot to Production [Evolving]**
+
+According to Wolters Kluwer, 44% of finance teams will use agentic AI in 2026, representing an increase of over 600%. But 99% of companies plan to put agents into production while only 11% have done so, due to implementation challenges related to data, governance, and security. The gap between vendor marketing and real deployment is stark.
+
+---
+
+### Banking Finance-Function
+
+**NIM and Funding:** As of early 2026, the U.S. benchmark rate stands at 3.75%. NIMs at U.S. banks continued to increase in Q1 2025 after rising throughout 2024, as all sizes of banks saw decreasing funding costs, primarily through lowering interest rates paid to depositors. That tailwind is fading in 2026 as deposit repricing slows.
+
+**Super-Regional Cohort:** Q1 2026 earnings from PNC, KeyCorp, U.S. Bancorp, Truist, Fifth Third, and Regions showed commercial lending gaining momentum, fee-based businesses carrying more weight, and technology investments beginning to reshape how banks compete for client relationships. At Regions, CFO Anil Chadha told analysts that approximately half of loan growth was driven by higher line utilization, with the remainder from new loan originations, primarily to existing clients -- underscoring a return to activity among established corporate relationships.
+
+**Fee Diversification:** U.S. Bancorp highlighted sustained fee-based growth tied to merchant services, small business cards, and embedded payment tools. KeyCorp reported a 12% increase in priority fee-based businesses, including commercial payments and investment banking.
+
+**Credit:** TransUnion projects that credit card delinquency rates are expected to remain virtually flat, with the 90+ days past due rate forecast to rise by just one basis point to 2.57% in 2026. KeyCorp reported NCOs of 38 bps, down 5 bps year-over-year.
+
+---
+
+### Regulatory Radar
+
+**Basel III Endgame:** CET1 reductions by category are estimated at approximately 4.8% for GSIBs (Category I and II), approximately 5.2% for large regional banks (Category III and IV), and approximately 7.8% for smaller banking organizations. Key structural reforms include AOCI inclusion mandated for Category III/IV banks with a five-year phase-in from 2027, MSA capital deductions eliminated, market risk methodology shifts from VaR to expected shortfall, and CVA capital requirements introduced.
+
+Most significantly for the super-regional sector, Category III and IV banks would be required to include accumulated other comprehensive income in their regulatory capital -- a direct response to lessons from the 2023 regional banking stress when unrealized losses contributed to the failures of Silicon Valley Bank and Signature Bank.
+
+Only one Federal Reserve Governor voted against the proposals, signaling a general bipartisan consensus supportive of the proposals among the Federal Reserve Board of Governors and that finalization is likely later this year.
+
+**Fed Leadership:** Chair Powell tied renewed inflation pressure to higher oil prices from the Middle East conflict and confirmed he will remain on the Board after his chairmanship ended May 15.
+
+---
+
+### AI in Finance
+
+**Real Deployments:**
+- FIS&#x27;s Financial Crimes AI Agent, built with Anthropic, will compress AML alert and case investigations from days to minutes, reduce false positives, and enhance SAR narrative quality. BMO and Amalgamated Bank are in development with the agent today, with general availability planned for second half of 2026.
+- BlackLine&#x27;s Verity delivers embedded, fully auditable AI capabilities featuring a digital workforce of specialized agents. Verity Prepare automates end-to-end reconciliation with full traceability, reducing creation time by over 90% for early adopters; Verity Match achieves 80-90% match rates in complex reconciliations.
+
+**Vendor Landscape:** OneStream leads the CPM market with Sensible AI embedded in its unified platform, while BlackLine and Workday Adaptive Planning offer strong capabilities in specific areas such as planning or financial close.
+
+**Governance Gap:** The win condition is not autonomous finance -- it is finance that compounds the controls. A modest set of well-instrumented agents that strengthen the audit trail beats a beautiful demo of autonomous close that the auditor refuses to sign off on.
+
+**Workforce Signal:** McKinsey highlights that AI pioneers are set to gain a 4% return on tangible equity advantage, while slow movers are likely to be stuck with an uncompetitive cost base.
+
+---
+
+### CFO Agenda, FP&amp;A, and Transformation Signals
+
+While the hype around AI persists, 2026 is shaping up as the year agentic AI will create scaled transformation in financial services, with a clear gap emerging between market leaders, the chasing pack, and the laggards.
+
+A new &quot;finance agent owner&quot; role is emerging in mature programs -- often sitting under the controller or FP&amp;A lead -- responsible for prompt curation, model-update review, and evidence pipelines. This role does not exist in traditional finance org charts; teams that absorb the work into existing roles often see it deprioritized under cycle pressure. The right move is a named role with a defined fraction of the week dedicated to agent program quality.
+
+The close automation and reconciliation software market has reached an estimated $5.8 billion and is growing at 12% CAGR as finance teams abandon spreadsheet-based reconciliation in favor of purpose-built platforms. McKinsey estimates that GenAI could automate 60-70% of work activities in finance, yet Gartner found that only 46% of CFOs had explicit AI conversations with their boards, suggesting many organizations are still evaluating basic close automation before considering AI-augmented reconciliation.
+
+---
+
+### Contrarian Insight
+
+The Basel III re-proposal is being framed as pure capital relief. But for super-regionals in Categories III and IV, the **AOCI inclusion requirement** -- phased in from 2027 -- is a hidden volatility tax. Banks with large unrealized securities losses will see capital ratios swing with rate moves in ways they did not pre-SVB. Finance teams need ALM, FP&amp;A, and capital planning integrated before the phase-in clock starts. The benefit headline may obscure the modeling burden.
+
+---
+
+### Client Conversation Hooks
+
+1. **&quot;Your Basel III comment period closes June 18 -- does your capital team have a read on the AOCI phase-in impact on your Category III/IV marked CET1 trajectory under rate scenarios?&quot;**
+
+2. **&quot;KeyCorp disclosed 100+ bps of anticipated CET1 benefit from the revised standardized approach. Has your CFO quantified that number for your institution, and is it already informing your buyback or investment pacing?&quot;**
+
+3. **&quot;The FIS-Anthropic AML agent is in production at BMO today. Is your financial crimes team tracking the case-cycle time and false-positive rate benchmarks, and does your finance transformation roadmap account for the investigator headcount implications?&quot;**</itunes:summary>
+      <pubDate>Tue, 09 Jun 2026 05:27:48 -0400</pubDate>
+      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-06-09.mp3" length="5943597" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-06-09.mp3</guid>
+      <itunes:duration>6:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Finance Pulse - Jun 8, 2026</title>
       <description><![CDATA[Now I have comprehensive data. Let me compose both parts of the briefing.

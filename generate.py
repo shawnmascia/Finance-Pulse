@@ -32,11 +32,14 @@ os.makedirs(EPISODES_DIR, exist_ok=True)
 
 DELIM = "===AUDIO_SCRIPT==="
 
+# How many recent episodes to feed back in so the model avoids repeating itself.
+RECENT_FOR_CONTEXT = 6
+
 # ---------------------------------------------------------------------
 # 1. Generate the briefing with Claude + web search
 # ---------------------------------------------------------------------
 SYSTEM_PROMPT = """You are a banking finance-function intelligence analyst. \
-Your reader is a finance transformation consultant who works primarily \
+Your reader is a Deloitte finance transformation consultant who works primarily \
 with banks and uses this briefing in client conversations. The test for every \
 item: does it affect a bank CFO, controller, treasurer, or the finance \
 transformation agenda?
@@ -47,7 +50,7 @@ WSJ What's News, Bloomberg Surveillance, Bloomberg Odd Lots, FT News Briefing, \
 Morning Brew) for macro, plus targeted banking, regulatory, and AI-in-finance news.
 
 Anchor competitive positioning on the super-regional cohort: PNC, U.S. Bancorp, \
-Truist, Fifth Third, KeyCorp, Regions, M&T, Citizens. Treat megabanks as a comparison point.
+Truist, Fifth Third, KeyCorp, Regions, M&T, Citizens. Treat megabanks as context.
 
 Required coverage: macro and rates; banking finance-function metrics (NIM, deposit \
 beta and mix, funding costs, credit and provisioning, efficiency, capital); a \
@@ -57,6 +60,18 @@ agentic AI; vendor moves across OneStream, SAP, Oracle, Workday, BlackLine; \
 workforce implications; governance and ROI versus hype); and FP&A and transformation \
 signals. Distinguish real deployments from vendor marketing. Anchor claims in \
 specific facts, numbers, and named sources. No em dashes anywhere.
+
+Continuity and freshness (important): You will be given recaps of your most recent \
+episodes. Treat the listener as someone who heard them. Do NOT repeat the same \
+themes, framings, data points, or contrarian insights that already appeared. Lead \
+each episode with what is genuinely new or has changed since those recaps. If a \
+major ongoing story has not materially moved (for example a regulatory deadline or \
+a geopolitical situation with no fresh development), give it at most one line noting \
+it is unchanged, or omit it, rather than re-explaining it. Every episode must \
+introduce developments, data, or angles not present in the recaps, and the mix of \
+themes should rotate day to day rather than defaulting to the same few topics. If a \
+genuinely slow news day leaves little new, go deeper on one underexplored angle \
+instead of recycling prior coverage.
 
 You must produce TWO outputs separated by a line containing only the delimiter \
 %s
@@ -75,14 +90,22 @@ host reading a morning briefing. Open with a greeting and today's date. Close wi
 the day's three conversation hooks and a brief sign-off.""" % DELIM
 
 
-def generate_briefing(today_str):
+def generate_briefing(today_str, recap=""):
     from anthropic import Anthropic
     client = Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+
+    recap_block = ""
+    if recap:
+        recap_block = (
+            "\n\nBelow are recaps of your most recent episodes. Do not repeat their "
+            "themes, framings, or data. Cover what is new or has changed since these, "
+            "and surface angles they did not.\n\nRECENT EPISODES:\n" + recap
+        )
 
     user_msg = (
         f"Today is {today_str}. Produce today's Finance Pulse briefing now, "
         f"using live web search for the latest developments. Remember the two "
-        f"parts separated by the delimiter."
+        f"parts separated by the delimiter." + recap_block
     )
 
     resp = client.messages.create(
@@ -192,6 +215,18 @@ def save_manifest(items):
         json.dump(items, f, indent=2)
 
 
+def recent_recap(items, n=RECENT_FOR_CONTEXT, per_episode_chars=900):
+    """Build a compact recap of the last n episodes so the model avoids repeats."""
+    recent = sorted(items, key=lambda x: x["date"], reverse=True)[:n]
+    blocks = []
+    for it in recent:
+        notes = (it.get("notes") or "").strip().replace("\n\n", "\n")
+        if len(notes) > per_episode_chars:
+            notes = notes[:per_episode_chars] + " ..."
+        blocks.append(f"[{it['date']}] {it['title']}\n{notes}")
+    return "\n\n".join(blocks)
+
+
 def hms(seconds):
     h, rem = divmod(seconds, 3600)
     m, s = divmod(rem, 60)
@@ -265,7 +300,9 @@ def main():
     pretty = now.strftime("%A, %B %-d, %Y")
     print(f"Generating Finance Pulse for {pretty}")
 
-    written, spoken = generate_briefing(pretty)
+    existing = load_manifest()
+    recap = recent_recap(existing)
+    written, spoken = generate_briefing(pretty, recap)
     print(f"Briefing generated. Written {len(written)} chars, spoken {len(spoken)} chars.")
 
     fname = f"{date_iso}.mp3"
@@ -273,7 +310,7 @@ def main():
     duration_s, byte_size = synthesize(spoken, out_path)
     print(f"Audio written: {fname} ({hms(duration_s)}, {byte_size//1024} KB)")
 
-    items = [x for x in load_manifest() if x["date"] != date_iso]  # replace same-day reruns
+    items = [x for x in existing if x["date"] != date_iso]  # replace same-day reruns
     items.append({
         "date": date_iso,
         "pubdate": now.isoformat(),

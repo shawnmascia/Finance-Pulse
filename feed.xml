@@ -15,181 +15,181 @@
       <itunes:email>shawn.mascia@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://shawnmascia.github.io/Finance-Pulse/cover.jpg"/>
-    <lastBuildDate>Wed, 17 Jun 2026 18:04:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 23:39:50 +0000</lastBuildDate>
     <item>
       <title>Finance Pulse - Jun 17, 2026</title>
-      <description><![CDATA[Now I have rich, current data to construct the full briefing. Let me compile both parts.
+      <description><![CDATA[I'll run multiple searches simultaneously to get the freshest developments across all coverage areas.Good, I have the FOMC results. Now let me search for AI in finance/banking news and super-regional bank developments.Excellent. Now I have the live FOMC results. Let me do one more targeted search for CFO/finance transformation and regulatory topics that are fresh today.I now have all the key data I need to produce a rich, well-sourced briefing. The FOMC decision is live, with the dot plot, Warsh's press conference, five task forces, and the Basel III comment deadline all converging. Let me compile both parts now.
 
 ---
 
-## Finance Pulse | Wednesday, June 17, 2026
+## Finance Pulse | Wednesday, June 18, 2026 *(published evening edition, June 17)*
 
-**Bottom line: Chair Warsh chairs his inaugural FOMC meeting today with a virtually-certain hold, but a repriced dot plot threatening to remove cut projections entirely and signal hike risk will reshape bank treasury assumptions, NIM modeling, and CFO capital planning for the back half of 2026.**
+**Bottom line: The Warsh era opened with a genuine shock -- a 130-word policy statement stripped of forward guidance, a hawkish dot-plot median of three-point-eight percent signaling a hike, nine of eighteen members already projecting a rate increase before year-end, a sixty-point-seven percent market-implied probability of an October hike, and five task forces launched to overhaul the Fed itself -- rewriting every assumption in bank treasury, ALM, and NIM models that were built on a hold-through-2026 base case.**
 
 ---
 
 ### Top Takeaways
 
-1. Today's FOMC is a communication event, not a rate event. The dot plot and Warsh's 2:30 PM press conference are the only numbers that matter to bank finance functions.
-2. The Basel III Endgame comment window closes tomorrow, June 18. The revised proposal offers super-regionals meaningful CET1 relief relative to the 2023 draft, but implementation timing remains open.
-3. OneStream reached general availability of its SensibleAI Agents and Finance Agentic Layer in May, representing the most concrete vendor move in AI-in-finance since SAP launched its Joule suite. The governance story is now the sales pitch.
+1. Warsh's first FOMC meeting concluded with no rate change and the removal of key language indicating a bias toward future cuts, within a dramatically shorter policy statement. The statement was slashed to approximately one hundred thirty words, more than half shorter than the prior conventional length of over three hundred words.
+
+2. The dot plot showed nine of the eighteen voting members projecting an interest rate hike before the end of 2026, with six projecting two twenty-five-basis-point hikes. Based on eighteen of nineteen possible responses, the median estimate for the fed funds rate at end-2026 is now three-point-eight percent, up from three-point-four percent in the prior projections.
+
+3. Following Warsh's press conference comments, the CME FedWatch tool showed traders pricing in a sixty-point-seven percent chance of a rate hike taking place in October.
+
+4. Warsh opted not to submit a forecast for the central bank's dot plot. He stated: "I did not submit a dot for me. It's not helpful in the conduct of policy," adding that a year-end review of communications -- including press conferences, dots, meetings, transcripts, and minutes -- is planned.
+
+5. The Basel III Endgame comment period deadline is tomorrow, June eighteenth. Previous regulatory statements have led the industry to expect a final rule by late 2026, with potential implementation in 2027.
 
 ---
 
-### Key Themes
+### Three Key Themes
 
-**1. Warsh Debut Reprices the Rate Path (New)**
-The FOMC decision arrives at 2:00 PM ET with Chair Kevin Warsh chairing his first session, followed by his inaugural press conference at 2:30 PM. Bank of America is flagging at least three FOMC members projecting 2026 rate hikes, a signal that could reprice rate-sensitive assets well before any actual move. The five-year yield has climbed roughly 30 basis points since the March meeting, and the 30-year sits just under five percent. The front end has barely moved, describing a market that has written off near-term cuts and is rebuilding term premium for a Fed that may sit still longer than anticipated.
+**1. The Warsh Communication Rupture (New)**
+The most consequential development today is not the rate hold -- it is the systematic dismantling of the forward guidance regime. The policy statement is absent of so-called "forward guidance," which the FOMC agreed was not well-suited to the current policy conjuncture. Warsh also established five task forces to reevaluate monetary policy drivers, including AI's labor impact and balance sheet management. The task forces are charged with studying communication, the Fed's balance sheet, the data sources on which it relies, productivity and jobs, the impact of artificial intelligence and other transformative technologies, and the central bank's inflation approach. For bank CFOs and treasurers, the loss of forward guidance removes a key scaffolding in interest rate risk models. Scenario planning replaces point forecasting.
 
-**2. Basel III Endgame Comment Deadline (Recurring)**
-On March 19, 2026, the Fed, OCC, and FDIC issued three proposals that together would comprehensively overhaul the existing U.S. bank capital framework. These represent a dramatic pivot from the 2023 initial attempt, which had called for significantly increased capital requirements. The revised proposal is estimated to provide 87.7 billion dollars in system-wide CET1 relief. The March 2026 proposals revisit Basel III Endgame for the largest firms, introduce a separate approach for regional and smaller banks, and revise the GSIB surcharge framework. Comments are due June 18.
+**2. Hike Probability Is Now Priced, Not Theoretical (Evolving)**
+This was flagged as a tail risk in prior episodes. A sixty-eight percent probability of a twenty-five basis point hike by December 2026 was embedded in rates markets heading into the meeting -- and post-Warsh press conference, FedWatch showed sixty-point-seven percent odds of an October hike. Markets responded with the policy-sensitive two-year Treasury yield soaring by fourteen-point-four basis points. The asset-sensitivity tailwind for super-regionals now has an explicit hike path attached to it. NIM models built on a flat rate path need an upside scenario added immediately.
 
-**3. Agentic AI Moves from Pilot to Production (Evolving)**
-According to Wolters Kluwer, 44 percent of finance teams will use agentic AI in 2026, representing an increase of over 600 percent. Yet 99 percent of companies plan to put agents into production, but only 11 percent have done so, due to implementation challenges related to data and governance.
+**3. Basel III Endgame Comment Window Closes Tomorrow (Recurring -- one line)**
+The June eighteenth deadline is tomorrow; the revised proposal is estimated to provide eighty-seven-point-seven billion dollars in system-wide CET1 relief. No material new developments since yesterday -- watch for agency staff summaries in the weeks ahead.
 
 ---
 
 ### Banking Finance-Function
 
-The industry NIM was 3.28 percent in Q4 2024, rising to 3.39 percent by Q4 2025. With stable rates and continued deposit repricing, the NIM outlook for 2026 is generally for modest further expansion or flat margins. This may be the first year since the rate-hike cycle where year-over-year NIM comparisons are relatively flat.
-
-On the super-regional cohort: Truist reported Q1 2026 NIM of 3.02 percent (taxable equivalent), revenue of 5.197 billion dollars, expense of 2.983 billion dollars, PPNR of 2.214 billion dollars, and ROTCE of 13.8 percent. Truist's Q1 2026 efficiency ratio improved to 57.9 percent from 60.4 percent in Q4 2025, and its NCO ratio was 0.61 percent with an ALLL ratio of 1.53 percent. Truist's CET1 ratio was 10.8 percent, and the company repurchased 1.1 billion dollars of common stock in Q1 2026.
-
-For a regional benchmark, Independent Bank Corp. posted a Q1 2026 operating ROAA of 1.35 percent and operating ROATCE of 14.05 percent, with reported NIM of 3.90 percent improving versus 2025. Guidance targets 3.90 to 3.95 percent NIM in Q4 2026, assuming stable longer-term Treasury yields and neutral Federal Reserve policy.
+The combination of a higher dot-plot median and the elimination of forward guidance creates an immediate model-refresh requirement across the super-regional cohort. Banks that entered 2026 with asset-sensitive balance sheets -- which broadly includes PNC, Fifth Third, and Regions -- now face a more favorable scenario than their models assumed. Banks that extended liability duration or locked in fixed-rate funding in anticipation of cuts face a more complex picture. The Fed's updated projections see PCE inflation at three-point-six percent at year's end, up from two-point-seven percent in the March projection, while real GDP growth is projected at two-point-two percent -- down from two-point-four percent in March. That stagflation-adjacent profile -- lower growth, higher inflation -- directly affects provision modeling: a slowing economy raises credit loss expectations even as NIM may expand. Treasurers at U.S. Bancorp, KeyCorp, M&T, and Citizens now face a revised hedging calculus in which the next move is more likely up than down. Citi's analysis found that the average sell-off in the two-year Treasury is around six basis points during the first meeting led by a new Fed chair -- the actual move today was fourteen-point-four basis points, more than double the historical average for inaugural meetings.
 
 ---
 
 ### Regulatory Radar
 
-On March 19, 2026, U.S. regulators released a landmark proposal to modernize the regulatory capital framework, representing the official U.S. implementation of the final Basel reforms. The proposal moves from internal models to new standardized approaches for credit and operational risk. The consultation period ends June 18, 2026.
+**Basel III Endgame:** Comment deadline tomorrow. CET1 reductions by category: approximately four-point-eight percent for Category I and II banks; approximately five-point-two percent for large regional banks in Category III and IV; approximately seven-point-eight percent for smaller banking organizations. Key structural reforms include AOCI inclusion mandated for Category III and IV banks with a five-year phase-in from 2027, MSA capital deductions eliminated with a two-hundred-fifty percent risk weight substituted, and market risk methodology shifting from VaR to expected shortfall. Finance teams at Truist, Citizens, and M&T -- all Category III or IV -- should finalize their comment letter positioning and begin modeling the AOCI phase-in impact on CET1 ratios starting in 2027.
 
-Federal Reserve Vice Chair Michelle Bowman indicated the update seeks to remove overlapping requirements and better align capital with underlying risk. While certain elements may still increase capital requirements, adjustments to the G-SIB surcharge could offset the impact.
+**Warsh Task Forces as a Regulatory Signal:** Warsh established five task forces to reevaluate monetary policy drivers, including AI's labor impact and balance sheet management. One task force explicitly covers the Fed's own balance sheet strategy -- relevant to QT trajectory and the pace of reserves normalization. Bank treasurers should watch this closely; a change in the Fed's balance sheet doctrine could affect short-term funding market dynamics.
 
-The proposals would take effect two calendar quarters after adoption of any final rule. The AOCI requirement for Category III and IV banks would include a five-year transition period, phasing in at 20 percent per year beginning January 1, 2027. This is the most directly actionable item for super-regional CFOs and treasurers planning AOCI hedging strategies.
+**CBLR Floor:** Recent adjustments to the CBLR framework include a lowered eight percent threshold effective July 2026. Controllers and capital planning teams at community-bank subsidiaries of super-regionals should verify compliance posture ahead of the July effective date.
 
 ---
 
 ### AI in Finance
 
-OneStream announced at its May 19, 2026 Splash User Conference the general availability of SensibleAI Agents, pre-built agents operating natively on the OneStream platform and integrated into Microsoft Office 365. A new Finance Agentic Layer opens those capabilities to third-party AI tools, allowing finance to forecast and report using Copilot, Claude, ChatGPT, and Gemini.
+The framing shifts today because one of Warsh's five task forces explicitly covers artificial intelligence and other transformative technologies -- putting AI's macroeconomic and labor implications formally inside the Fed's analytical framework. That is a new regulatory and modeling signal for bank finance functions.
 
-OneStream reported that AI bookings and customers more than doubled in 2025, and with its SensibleAI, finance leaders are improving forecasting accuracy by 27 percent on average and accelerating planning cycles by 86 percent on average. These are vendor-reported numbers and warrant client-side validation, but the direction is consistent with practitioner experience.
+On the deployment side: in January 2025, fewer than seven percent of finance teams had deployed any form of agentic AI; by Q1 2026, that number is forty-four percent, representing a six hundred percent year-over-year increase. The EU AI Act high-risk deadline falls in August 2026, and the Colorado AI Act has a June 2026 deadline -- both have specific implications for financial services AI. U.S. banks operating in Colorado or with EU-facing entities need governance frameworks in place now, not at year-end.
 
-BlackLine's Agentic Financial Operations launch points to the company trying to deepen its role as a control layer for complex finance teams, rather than simply adding AI features. By framing the model around trust, auditability, and a certified system of record, BlackLine is leaning into areas where pure-play AI providers or broad ERP suites such as SAP, Oracle, or Microsoft may face more scrutiny from controllers and auditors.
-
-On the banking infrastructure side, FIS announced in May 2026 that it is working with Anthropic to bring agentic AI to banking, beginning with a Financial Crimes AI Agent designed to compress AML investigations from hours to minutes. BMO and Amalgamated Bank will be among the first institutions to deploy the agent, with broader availability planned for H2 2026.
-
-A fifth role is emerging in mature AI programs: the finance agent owner, often sitting under the controller or FP&A lead, responsible for prompt curation, model-update review, and the evidence pipeline. This role does not exist in traditional finance org charts; teams that try to absorb the work into existing roles often see it deprioritized under cycle pressure.
+For Deloitte practitioners: benchmarks from financial services deployments show compliance automation typically delivering a thirty to fifty percent reduction in manual workload on AML and KYC workflows. These are the numbers to anchor ROI conversations when clients ask for evidence-based business cases rather than vendor claims.
 
 ---
 
 ### CFO Agenda, FP&A, and Transformation Signals
 
-- **Rate scenario modeling is urgent.** The June dot plot could show the Fed on hold for the rest of this year, according to Bank of America economist Aditya Bhave. At least three FOMC voting members may also project rate hikes this year. Bank FP&A teams running a single base-case NIM model are under-hedged on scenario risk.
-- **AOCI transition planning.** The five-year phased AOCI inclusion for Category III and IV banks starting January 2027 requires treasurer and controller alignment now, not post-finalization.
-- **Governance before scale.** Banks must be cautious as agentic AI's continuous learning demands massive data storage and strict compliance with complex regulatory and ethical requirements. This poses significant risks if not properly governed. The 99-percent-plan, 11-percent-deployed gap is the single most useful data point to anchor a client governance conversation.
+The single most urgent transformation signal today is the collapse of forward guidance as a planning input. For the last two years, FP&A teams at super-regionals have been able to anchor their annual plans to Fed dot plots. When the March projection showed two rate cuts in 2026, that shaped the entire revenue planning cycle. Now investors and finance teams must look to the 2027 median projection for clues about the Fed's desired path for rates beyond this year. Warsh has advocated for a less-is-more approach to forward guidance, which could reduce the Fed's predictability while potentially increasing market volatility. In practical FP&A terms: the annual plan refresh cycle should now be designed around scenario ranges, not point estimates. Banks still running single-path NIM forecasts are carrying unquantified model risk.
+
+On the transformation side, the five Warsh task forces -- particularly on data sourcing and AI -- signal that the Fed itself is entering a period of operational and analytical modernization. For banks under Fed supervision, this may foreshadow changes in examination expectations around data quality, model documentation, and AI governance.
 
 ---
 
 ### Contrarian Insight
 
-Every finance transformation vendor is marketing agentic AI as an efficiency story. The actual constraint is not technology: it is the absence of a documented, auditable data lineage that meets SOX and regulatory reporting standards in a bank environment. Firms that invest in data governance infrastructure first will unlock agent ROI faster than those that bolt agents onto unclean general ledgers. The platform vendors know this; the sales cycle often obscures it.
+Everyone is reading the hawkish dot plot as a straight line to October hike. The contrarian read: Warsh's simultaneous dismantling of forward guidance actually gives the Fed *more* optionality, not less. By removing the commitment architecture, he is free to not hike without it being a credibility event. The task forces -- designed to take months -- also provide institutional cover to stay on hold. For super-regional CFOs, the scenario to stress-test hardest may not be "hike in October" but "rates unchanged through mid-2027 with persistent four-percent-plus inflation eating into real NIM." That scenario -- frozen rates, sticky inflation, softening loan demand -- is harder to manage than a clean hike.
 
 ---
 
-### Client Conversation Hooks
+### Three Client Conversation Hooks
 
-1. **"How many rate scenarios is your FP&A team running for NII and NIM into year-end, and does your model account for the possibility of a 2026 hike?"** The Warsh dot-plot debut resets the base case; single-scenario NIM models are a liability.
-2. **"Where does your bank stand on the Basel III Endgame AOCI phase-in for 2027, and have your controller and treasurer aligned on the hedging and capital disclosure implications?"** The comment window closes tomorrow, and the phased AOCI inclusion is the most under-discussed super-regional capital story.
-3. **"Has your finance AI program named a finance agent owner, and does that person have a defined role with protected capacity?"** The gap between the 99 percent planning and 11 percent deploying is almost always a governance and ownership failure, not a technology failure.]]></description>
-      <itunes:summary>Now I have rich, current data to construct the full briefing. Let me compile both parts.
+1. **The forward guidance vacuum:** Your client's FP&A team built their 2026 NIM forecast off the March dot plot's implied two cuts. Both cuts are gone, forward guidance is gone, and the chair won't even submit a dot. How does the planning process work when the Fed's own communication architecture is being redesigned mid-year?
+
+2. **AOCI phase-in for Category III/IV banks:** The Basel III Endgame comment deadline is tomorrow. For super-regionals in Category III or IV -- Truist, Citizens, M&T -- the five-year AOCI phase-in starting in 2027 will affect reported CET1 in every planning cycle between now and 2032. Has the capital planning model been updated to reflect this?
+
+3. **The Warsh AI task force as a regulatory preview:** The Fed just formalized AI and transformative technology as a monetary policy research topic. For bank CFOs deploying agentic AI in finance functions, this is an early signal that supervisory expectations around AI governance, model risk, and data quality may be revisited. Is your AI governance framework built to withstand a future examination?]]></description>
+      <itunes:summary>I&#x27;ll run multiple searches simultaneously to get the freshest developments across all coverage areas.Good, I have the FOMC results. Now let me search for AI in finance/banking news and super-regional bank developments.Excellent. Now I have the live FOMC results. Let me do one more targeted search for CFO/finance transformation and regulatory topics that are fresh today.I now have all the key data I need to produce a rich, well-sourced briefing. The FOMC decision is live, with the dot plot, Warsh&#x27;s press conference, five task forces, and the Basel III comment deadline all converging. Let me compile both parts now.
 
 ---
 
-## Finance Pulse | Wednesday, June 17, 2026
+## Finance Pulse | Wednesday, June 18, 2026 *(published evening edition, June 17)*
 
-**Bottom line: Chair Warsh chairs his inaugural FOMC meeting today with a virtually-certain hold, but a repriced dot plot threatening to remove cut projections entirely and signal hike risk will reshape bank treasury assumptions, NIM modeling, and CFO capital planning for the back half of 2026.**
+**Bottom line: The Warsh era opened with a genuine shock -- a 130-word policy statement stripped of forward guidance, a hawkish dot-plot median of three-point-eight percent signaling a hike, nine of eighteen members already projecting a rate increase before year-end, a sixty-point-seven percent market-implied probability of an October hike, and five task forces launched to overhaul the Fed itself -- rewriting every assumption in bank treasury, ALM, and NIM models that were built on a hold-through-2026 base case.**
 
 ---
 
 ### Top Takeaways
 
-1. Today&#x27;s FOMC is a communication event, not a rate event. The dot plot and Warsh&#x27;s 2:30 PM press conference are the only numbers that matter to bank finance functions.
-2. The Basel III Endgame comment window closes tomorrow, June 18. The revised proposal offers super-regionals meaningful CET1 relief relative to the 2023 draft, but implementation timing remains open.
-3. OneStream reached general availability of its SensibleAI Agents and Finance Agentic Layer in May, representing the most concrete vendor move in AI-in-finance since SAP launched its Joule suite. The governance story is now the sales pitch.
+1. Warsh&#x27;s first FOMC meeting concluded with no rate change and the removal of key language indicating a bias toward future cuts, within a dramatically shorter policy statement. The statement was slashed to approximately one hundred thirty words, more than half shorter than the prior conventional length of over three hundred words.
+
+2. The dot plot showed nine of the eighteen voting members projecting an interest rate hike before the end of 2026, with six projecting two twenty-five-basis-point hikes. Based on eighteen of nineteen possible responses, the median estimate for the fed funds rate at end-2026 is now three-point-eight percent, up from three-point-four percent in the prior projections.
+
+3. Following Warsh&#x27;s press conference comments, the CME FedWatch tool showed traders pricing in a sixty-point-seven percent chance of a rate hike taking place in October.
+
+4. Warsh opted not to submit a forecast for the central bank&#x27;s dot plot. He stated: &quot;I did not submit a dot for me. It&#x27;s not helpful in the conduct of policy,&quot; adding that a year-end review of communications -- including press conferences, dots, meetings, transcripts, and minutes -- is planned.
+
+5. The Basel III Endgame comment period deadline is tomorrow, June eighteenth. Previous regulatory statements have led the industry to expect a final rule by late 2026, with potential implementation in 2027.
 
 ---
 
-### Key Themes
+### Three Key Themes
 
-**1. Warsh Debut Reprices the Rate Path (New)**
-The FOMC decision arrives at 2:00 PM ET with Chair Kevin Warsh chairing his first session, followed by his inaugural press conference at 2:30 PM. Bank of America is flagging at least three FOMC members projecting 2026 rate hikes, a signal that could reprice rate-sensitive assets well before any actual move. The five-year yield has climbed roughly 30 basis points since the March meeting, and the 30-year sits just under five percent. The front end has barely moved, describing a market that has written off near-term cuts and is rebuilding term premium for a Fed that may sit still longer than anticipated.
+**1. The Warsh Communication Rupture (New)**
+The most consequential development today is not the rate hold -- it is the systematic dismantling of the forward guidance regime. The policy statement is absent of so-called &quot;forward guidance,&quot; which the FOMC agreed was not well-suited to the current policy conjuncture. Warsh also established five task forces to reevaluate monetary policy drivers, including AI&#x27;s labor impact and balance sheet management. The task forces are charged with studying communication, the Fed&#x27;s balance sheet, the data sources on which it relies, productivity and jobs, the impact of artificial intelligence and other transformative technologies, and the central bank&#x27;s inflation approach. For bank CFOs and treasurers, the loss of forward guidance removes a key scaffolding in interest rate risk models. Scenario planning replaces point forecasting.
 
-**2. Basel III Endgame Comment Deadline (Recurring)**
-On March 19, 2026, the Fed, OCC, and FDIC issued three proposals that together would comprehensively overhaul the existing U.S. bank capital framework. These represent a dramatic pivot from the 2023 initial attempt, which had called for significantly increased capital requirements. The revised proposal is estimated to provide 87.7 billion dollars in system-wide CET1 relief. The March 2026 proposals revisit Basel III Endgame for the largest firms, introduce a separate approach for regional and smaller banks, and revise the GSIB surcharge framework. Comments are due June 18.
+**2. Hike Probability Is Now Priced, Not Theoretical (Evolving)**
+This was flagged as a tail risk in prior episodes. A sixty-eight percent probability of a twenty-five basis point hike by December 2026 was embedded in rates markets heading into the meeting -- and post-Warsh press conference, FedWatch showed sixty-point-seven percent odds of an October hike. Markets responded with the policy-sensitive two-year Treasury yield soaring by fourteen-point-four basis points. The asset-sensitivity tailwind for super-regionals now has an explicit hike path attached to it. NIM models built on a flat rate path need an upside scenario added immediately.
 
-**3. Agentic AI Moves from Pilot to Production (Evolving)**
-According to Wolters Kluwer, 44 percent of finance teams will use agentic AI in 2026, representing an increase of over 600 percent. Yet 99 percent of companies plan to put agents into production, but only 11 percent have done so, due to implementation challenges related to data and governance.
+**3. Basel III Endgame Comment Window Closes Tomorrow (Recurring -- one line)**
+The June eighteenth deadline is tomorrow; the revised proposal is estimated to provide eighty-seven-point-seven billion dollars in system-wide CET1 relief. No material new developments since yesterday -- watch for agency staff summaries in the weeks ahead.
 
 ---
 
 ### Banking Finance-Function
 
-The industry NIM was 3.28 percent in Q4 2024, rising to 3.39 percent by Q4 2025. With stable rates and continued deposit repricing, the NIM outlook for 2026 is generally for modest further expansion or flat margins. This may be the first year since the rate-hike cycle where year-over-year NIM comparisons are relatively flat.
-
-On the super-regional cohort: Truist reported Q1 2026 NIM of 3.02 percent (taxable equivalent), revenue of 5.197 billion dollars, expense of 2.983 billion dollars, PPNR of 2.214 billion dollars, and ROTCE of 13.8 percent. Truist&#x27;s Q1 2026 efficiency ratio improved to 57.9 percent from 60.4 percent in Q4 2025, and its NCO ratio was 0.61 percent with an ALLL ratio of 1.53 percent. Truist&#x27;s CET1 ratio was 10.8 percent, and the company repurchased 1.1 billion dollars of common stock in Q1 2026.
-
-For a regional benchmark, Independent Bank Corp. posted a Q1 2026 operating ROAA of 1.35 percent and operating ROATCE of 14.05 percent, with reported NIM of 3.90 percent improving versus 2025. Guidance targets 3.90 to 3.95 percent NIM in Q4 2026, assuming stable longer-term Treasury yields and neutral Federal Reserve policy.
+The combination of a higher dot-plot median and the elimination of forward guidance creates an immediate model-refresh requirement across the super-regional cohort. Banks that entered 2026 with asset-sensitive balance sheets -- which broadly includes PNC, Fifth Third, and Regions -- now face a more favorable scenario than their models assumed. Banks that extended liability duration or locked in fixed-rate funding in anticipation of cuts face a more complex picture. The Fed&#x27;s updated projections see PCE inflation at three-point-six percent at year&#x27;s end, up from two-point-seven percent in the March projection, while real GDP growth is projected at two-point-two percent -- down from two-point-four percent in March. That stagflation-adjacent profile -- lower growth, higher inflation -- directly affects provision modeling: a slowing economy raises credit loss expectations even as NIM may expand. Treasurers at U.S. Bancorp, KeyCorp, M&amp;T, and Citizens now face a revised hedging calculus in which the next move is more likely up than down. Citi&#x27;s analysis found that the average sell-off in the two-year Treasury is around six basis points during the first meeting led by a new Fed chair -- the actual move today was fourteen-point-four basis points, more than double the historical average for inaugural meetings.
 
 ---
 
 ### Regulatory Radar
 
-On March 19, 2026, U.S. regulators released a landmark proposal to modernize the regulatory capital framework, representing the official U.S. implementation of the final Basel reforms. The proposal moves from internal models to new standardized approaches for credit and operational risk. The consultation period ends June 18, 2026.
+**Basel III Endgame:** Comment deadline tomorrow. CET1 reductions by category: approximately four-point-eight percent for Category I and II banks; approximately five-point-two percent for large regional banks in Category III and IV; approximately seven-point-eight percent for smaller banking organizations. Key structural reforms include AOCI inclusion mandated for Category III and IV banks with a five-year phase-in from 2027, MSA capital deductions eliminated with a two-hundred-fifty percent risk weight substituted, and market risk methodology shifting from VaR to expected shortfall. Finance teams at Truist, Citizens, and M&amp;T -- all Category III or IV -- should finalize their comment letter positioning and begin modeling the AOCI phase-in impact on CET1 ratios starting in 2027.
 
-Federal Reserve Vice Chair Michelle Bowman indicated the update seeks to remove overlapping requirements and better align capital with underlying risk. While certain elements may still increase capital requirements, adjustments to the G-SIB surcharge could offset the impact.
+**Warsh Task Forces as a Regulatory Signal:** Warsh established five task forces to reevaluate monetary policy drivers, including AI&#x27;s labor impact and balance sheet management. One task force explicitly covers the Fed&#x27;s own balance sheet strategy -- relevant to QT trajectory and the pace of reserves normalization. Bank treasurers should watch this closely; a change in the Fed&#x27;s balance sheet doctrine could affect short-term funding market dynamics.
 
-The proposals would take effect two calendar quarters after adoption of any final rule. The AOCI requirement for Category III and IV banks would include a five-year transition period, phasing in at 20 percent per year beginning January 1, 2027. This is the most directly actionable item for super-regional CFOs and treasurers planning AOCI hedging strategies.
+**CBLR Floor:** Recent adjustments to the CBLR framework include a lowered eight percent threshold effective July 2026. Controllers and capital planning teams at community-bank subsidiaries of super-regionals should verify compliance posture ahead of the July effective date.
 
 ---
 
 ### AI in Finance
 
-OneStream announced at its May 19, 2026 Splash User Conference the general availability of SensibleAI Agents, pre-built agents operating natively on the OneStream platform and integrated into Microsoft Office 365. A new Finance Agentic Layer opens those capabilities to third-party AI tools, allowing finance to forecast and report using Copilot, Claude, ChatGPT, and Gemini.
+The framing shifts today because one of Warsh&#x27;s five task forces explicitly covers artificial intelligence and other transformative technologies -- putting AI&#x27;s macroeconomic and labor implications formally inside the Fed&#x27;s analytical framework. That is a new regulatory and modeling signal for bank finance functions.
 
-OneStream reported that AI bookings and customers more than doubled in 2025, and with its SensibleAI, finance leaders are improving forecasting accuracy by 27 percent on average and accelerating planning cycles by 86 percent on average. These are vendor-reported numbers and warrant client-side validation, but the direction is consistent with practitioner experience.
+On the deployment side: in January 2025, fewer than seven percent of finance teams had deployed any form of agentic AI; by Q1 2026, that number is forty-four percent, representing a six hundred percent year-over-year increase. The EU AI Act high-risk deadline falls in August 2026, and the Colorado AI Act has a June 2026 deadline -- both have specific implications for financial services AI. U.S. banks operating in Colorado or with EU-facing entities need governance frameworks in place now, not at year-end.
 
-BlackLine&#x27;s Agentic Financial Operations launch points to the company trying to deepen its role as a control layer for complex finance teams, rather than simply adding AI features. By framing the model around trust, auditability, and a certified system of record, BlackLine is leaning into areas where pure-play AI providers or broad ERP suites such as SAP, Oracle, or Microsoft may face more scrutiny from controllers and auditors.
-
-On the banking infrastructure side, FIS announced in May 2026 that it is working with Anthropic to bring agentic AI to banking, beginning with a Financial Crimes AI Agent designed to compress AML investigations from hours to minutes. BMO and Amalgamated Bank will be among the first institutions to deploy the agent, with broader availability planned for H2 2026.
-
-A fifth role is emerging in mature AI programs: the finance agent owner, often sitting under the controller or FP&amp;A lead, responsible for prompt curation, model-update review, and the evidence pipeline. This role does not exist in traditional finance org charts; teams that try to absorb the work into existing roles often see it deprioritized under cycle pressure.
+For Deloitte practitioners: benchmarks from financial services deployments show compliance automation typically delivering a thirty to fifty percent reduction in manual workload on AML and KYC workflows. These are the numbers to anchor ROI conversations when clients ask for evidence-based business cases rather than vendor claims.
 
 ---
 
 ### CFO Agenda, FP&amp;A, and Transformation Signals
 
-- **Rate scenario modeling is urgent.** The June dot plot could show the Fed on hold for the rest of this year, according to Bank of America economist Aditya Bhave. At least three FOMC voting members may also project rate hikes this year. Bank FP&amp;A teams running a single base-case NIM model are under-hedged on scenario risk.
-- **AOCI transition planning.** The five-year phased AOCI inclusion for Category III and IV banks starting January 2027 requires treasurer and controller alignment now, not post-finalization.
-- **Governance before scale.** Banks must be cautious as agentic AI&#x27;s continuous learning demands massive data storage and strict compliance with complex regulatory and ethical requirements. This poses significant risks if not properly governed. The 99-percent-plan, 11-percent-deployed gap is the single most useful data point to anchor a client governance conversation.
+The single most urgent transformation signal today is the collapse of forward guidance as a planning input. For the last two years, FP&amp;A teams at super-regionals have been able to anchor their annual plans to Fed dot plots. When the March projection showed two rate cuts in 2026, that shaped the entire revenue planning cycle. Now investors and finance teams must look to the 2027 median projection for clues about the Fed&#x27;s desired path for rates beyond this year. Warsh has advocated for a less-is-more approach to forward guidance, which could reduce the Fed&#x27;s predictability while potentially increasing market volatility. In practical FP&amp;A terms: the annual plan refresh cycle should now be designed around scenario ranges, not point estimates. Banks still running single-path NIM forecasts are carrying unquantified model risk.
+
+On the transformation side, the five Warsh task forces -- particularly on data sourcing and AI -- signal that the Fed itself is entering a period of operational and analytical modernization. For banks under Fed supervision, this may foreshadow changes in examination expectations around data quality, model documentation, and AI governance.
 
 ---
 
 ### Contrarian Insight
 
-Every finance transformation vendor is marketing agentic AI as an efficiency story. The actual constraint is not technology: it is the absence of a documented, auditable data lineage that meets SOX and regulatory reporting standards in a bank environment. Firms that invest in data governance infrastructure first will unlock agent ROI faster than those that bolt agents onto unclean general ledgers. The platform vendors know this; the sales cycle often obscures it.
+Everyone is reading the hawkish dot plot as a straight line to October hike. The contrarian read: Warsh&#x27;s simultaneous dismantling of forward guidance actually gives the Fed *more* optionality, not less. By removing the commitment architecture, he is free to not hike without it being a credibility event. The task forces -- designed to take months -- also provide institutional cover to stay on hold. For super-regional CFOs, the scenario to stress-test hardest may not be &quot;hike in October&quot; but &quot;rates unchanged through mid-2027 with persistent four-percent-plus inflation eating into real NIM.&quot; That scenario -- frozen rates, sticky inflation, softening loan demand -- is harder to manage than a clean hike.
 
 ---
 
-### Client Conversation Hooks
+### Three Client Conversation Hooks
 
-1. **&quot;How many rate scenarios is your FP&amp;A team running for NII and NIM into year-end, and does your model account for the possibility of a 2026 hike?&quot;** The Warsh dot-plot debut resets the base case; single-scenario NIM models are a liability.
-2. **&quot;Where does your bank stand on the Basel III Endgame AOCI phase-in for 2027, and have your controller and treasurer aligned on the hedging and capital disclosure implications?&quot;** The comment window closes tomorrow, and the phased AOCI inclusion is the most under-discussed super-regional capital story.
-3. **&quot;Has your finance AI program named a finance agent owner, and does that person have a defined role with protected capacity?&quot;** The gap between the 99 percent planning and 11 percent deploying is almost always a governance and ownership failure, not a technology failure.</itunes:summary>
-      <pubDate>Wed, 17 Jun 2026 14:01:03 -0400</pubDate>
-      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-06-17.mp3" length="6531885" type="audio/mpeg"/>
+1. **The forward guidance vacuum:** Your client&#x27;s FP&amp;A team built their 2026 NIM forecast off the March dot plot&#x27;s implied two cuts. Both cuts are gone, forward guidance is gone, and the chair won&#x27;t even submit a dot. How does the planning process work when the Fed&#x27;s own communication architecture is being redesigned mid-year?
+
+2. **AOCI phase-in for Category III/IV banks:** The Basel III Endgame comment deadline is tomorrow. For super-regionals in Category III or IV -- Truist, Citizens, M&amp;T -- the five-year AOCI phase-in starting in 2027 will affect reported CET1 in every planning cycle between now and 2032. Has the capital planning model been updated to reflect this?
+
+3. **The Warsh AI task force as a regulatory preview:** The Fed just formalized AI and transformative technology as a monetary policy research topic. For bank CFOs deploying agentic AI in finance functions, this is an early signal that supervisory expectations around AI governance, model risk, and data quality may be revisited. Is your AI governance framework built to withstand a future examination?</itunes:summary>
+      <pubDate>Wed, 17 Jun 2026 19:36:46 -0400</pubDate>
+      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-06-17.mp3" length="6132909" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-17.mp3</guid>
-      <itunes:duration>6:48</itunes:duration>
+      <itunes:duration>6:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>

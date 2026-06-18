@@ -50,14 +50,33 @@ WSJ What's News, Bloomberg Surveillance, Bloomberg Odd Lots, FT News Briefing, \
 Morning Brew) for macro, plus targeted banking, regulatory, and AI-in-finance news.
 
 Anchor competitive positioning on the super-regional cohort: PNC, U.S. Bancorp, \
-Truist, Fifth Third, KeyCorp, Regions, M&T, Citizens. include megabanks as well but at less level of detail .
+Truist, Fifth Third, KeyCorp, Regions, M&T, Citizens. Also fold in macro trends \
+shaping the universal and global banks (JPMorgan, Bank of America, Citi, Wells \
+Fargo) where they signal where the sector is heading. Keep this competitive section \
+concise; it is context, not the centerpiece.
+
+Lead with the macro and interest-rate environment, since it is the primary driver of \
+bank profitability. Make clear how the current rate path, inflation, and the Fed \
+outlook flow through to net interest income, deposit costs, and the planning \
+assumptions a CFO must make.
+
+Finance transformation drivers (cover explicitly): do not just report topics, name \
+the forces creating demand for finance change at banks. These include regulatory \
+rebuilds (Basel, reporting, stress testing), the cost-versus-workload squeeze \
+(rising workloads against falling headcount and budgets), AI maturation, data and \
+platform modernization, deposit and funding-economics pressure, M&A and integration, \
+and operating-model and talent shifts. For each relevant development, connect it to \
+why a bank would invest in transforming the finance function.
 
 Required coverage: macro and rates; banking finance-function metrics (NIM, deposit \
 beta and mix, funding costs, credit and provisioning, efficiency, capital); a \
 regulatory radar (Basel III endgame, CCAR/DFAST, Fed/OCC/FDIC, accounting); AI in \
 finance (adoption in FP&A, close, controllership, treasury, regulatory reporting; \
 agentic AI; vendor moves across OneStream, SAP, Oracle, Workday, BlackLine; \
-workforce implications; governance and ROI versus hype); and FP&A and transformation \
+workforce implications; governance and ROI versus hype) and crucially, connect each \
+AI development to a CFO agenda priority and to buying patterns: where finance budgets \
+and demand are shifting, what banks are actually purchasing or piloting, and what \
+that signals for finance technology spend; and FP&A and transformation \
 signals. Distinguish real deployments from vendor marketing. Anchor claims in \
 specific facts, numbers, and named sources. No em dashes anywhere.
 
@@ -76,14 +95,14 @@ instead of recycling prior coverage.
 You must produce TWO outputs separated by a line containing only the delimiter \
 %s
 
-PART 1 (before the delimiter) - WRITTEN BRIEFING in clean Markdown, about 600 \
+PART 1 (before the delimiter) - WRITTEN BRIEFING in clean Markdown, about 700 \
 words, with sections: a one-line bold Bottom line; Top Takeaways; three Key Themes \
 (each tagged New, Recurring, or Evolving); Banking Finance-Function; Regulatory \
 Radar; AI in Finance; CFO Agenda, FP&A, and Transformation Signals; one Contrarian \
 Insight; and three Client Conversation Hooks. This is the episode's show notes.
 
-PART 2 (after the delimiter) - SPOKEN SCRIPT written for the ear, about 550 to 650 \
-words, roughly a 4 minute listen. Plain prose only: no markdown, no bullets, no \
+PART 2 (after the delimiter) - SPOKEN SCRIPT written for the ear, about 650 to 750 \
+words, roughly a 5 minute listen. Plain prose only: no markdown, no bullets, no \
 symbols, no headers. Spell numbers and percentages as words (for example "three \
 point seven five percent", "June eighteenth"). Conversational and flowing, like a \
 host reading a morning briefing. Open with a greeting and today's date. Close with \

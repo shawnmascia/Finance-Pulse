@@ -22,8 +22,8 @@ BASE_URL = "https://shawnmascia.github.io/Finance-Pulse"
 # ---- Claude (content generation) ----
 # Verify the current model id at https://docs.claude.com (Models page).
 ANTHROPIC_MODEL = "claude-sonnet-4-6"
-MAX_TOKENS = 8000
-WEB_SEARCH_MAX_USES = 10                     # how many searches Claude may run
+MAX_TOKENS = 6000
+WEB_SEARCH_MAX_USES = 6                     # how many searches Claude may run
 
 # ---- Text to speech ----
 # Provider: "openai" or "elevenlabs"

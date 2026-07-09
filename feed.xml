@@ -15,7 +15,187 @@
       <itunes:email>shawn.mascia@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://shawnmascia.github.io/Finance-Pulse/cover.jpg"/>
-    <lastBuildDate>Wed, 08 Jul 2026 08:49:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 08:49:24 +0000</lastBuildDate>
+    <item>
+      <title>Finance Pulse - Jul 9, 2026</title>
+      <description><![CDATA[I now have comprehensive, fresh data to construct both parts of today's briefing. Let me synthesize what is genuinely new for July 9, 2026, and produce the full output.
+
+---
+
+## Finance Pulse | Thursday, July 9, 2026
+
+**Bottom line: Q2 earnings begin tomorrow at the big banks, and three angles define what is genuinely new today: oil-price disinflation from the Iran ceasefire is quietly reshaping the Fed's rate hike probability toward a hold-for-the-rest-of-2026 scenario, which compresses the tightening tail risk that CFOs have been modeling all quarter; the earnings read-across for super-regionals now pivots on whether deposit-cost discipline held against accelerating C&I loan demand; and the Bain CFO Survey data on workflow debt reveals that deploying AI without redesigning jobs is the dominant failure mode in finance transformation right now -- a structural insight that should reframe every bank AI conversation from "what tool did we buy?" to "what did we change?"**
+
+---
+
+## Top Takeaways
+
+1. The Iran-ceasefire oil shock reversal is now the single biggest swing factor in the near-term rate path. The U.S.-Iran war has morphed into a shaky ceasefire and oil tankers have again started transiting the Strait of Hormuz, pulling energy-driven headline inflation lower. With oil prices plunging and inflation dropping toward four point two percent, the Fed's rate calculus shifts materially. CFO planning assumptions built around a late-2026 hike must now be stress-tested against a prolonged hold scenario.
+
+2. Q2 bank earnings commence imminently with a split story. The higher-for-longer rate environment likely offered banks an opportunity to expand NIM if they could contain rising deposit costs, with total Finance sector Q2 earnings expected to surge twelve point five percent on eight point one percent higher revenues. But analysts will be scrutinizing NIM to see if there is any evidence of compression, noting that while most banks are predicting stable deposit costs for the remainder of the year, there is a risk they could creep higher due to increased competition and a hawkish Fed.
+
+3. The dominant AI failure mode in finance is now named and quantified. Eighty-four percent of organizations that have deployed AI without redesigning jobs have created exactly this problem: technology deployed, adoption low, impact minimal. This is the correct frame for every bank AI conversation in 2026.
+
+---
+
+## Three Key Themes
+
+**Theme 1 (New): The Ceasefire Disinflation Trade and the Hold Scenario**
+The Iran ceasefire is not just a geopolitical footnote; it is a live macro variable. The Strait of Hormuz reopened officially on June eighteenth, having been closed for most of the second quarter, which caused a spike in oil prices due to supply constraints. With energy prices now retreating, the supply-shock inflation narrative that drove Warsh's hawkish June tone is softening. It is now starting to look as if the Fed will not change rates at all this year. For bank CFOs, this is a critical scenario to model: a full-year hold at three and a half to three and three-quarters percent is different from a hike path, because it arrests any further NIM compression from rising deposit repricing costs while providing no new asset-yield uplift. The planning assumption that rates drift toward four percent -- which futures markets were pricing as recently as July second -- now has a credible challenger.
+
+**Theme 2 (Evolving): Q2 Earnings as a Live NIM and Deposit-Beta Stress Test**
+The Federal Reserve's assets and liabilities report reflects a smooth acceleration in loan growth during Q2 2026, with C&I loans surging at an annualized rate of fifteen point nine percent in April alone, surpassing the twelve point two percent growth in Q1, before moderating to a still-strong ten point nine percent in May. For super-regionals, this C&I surge is a double-edged signal: volume supports NII, but aggressive deposit-beta competition from peer money-center institutions like JPMorgan and Wells Fargo poses a persistent pressure point on lower-cost retail deposit retention. The question that earnings calls will answer: did Truist, Citizens, Regions, and KeyCorp absorb that loan growth while keeping funding costs flat, or did they pay up?
+
+**Theme 3 (New): Capital Markets Windfall as a Finance-Function Planning Complexity**
+JPMorgan's pre-earnings signaling is the clearest read-across signal of the season. JPMorgan expects markets revenues to rise eleven percent, reflecting persistent volatility and strong client demand across FICC and equities, with IB fees anticipated to increase ten percent or "a little better." Strong equity capital market activity in Q2, including high-profile IPOs from SpaceX, Cerebras Systems, and Quantinuum, served as earnings tailwinds, with those IPOs providing a "multiplier effect" triggering secondary trading and financing activity. For finance function leaders, this windfall creates a distinct planning complexity: fee income volatility at this scale makes forward revenue modeling materially harder, and FP&A teams without rolling scenario architectures will have struggled to keep pace with the intra-quarter signal.
+
+---
+
+## Banking Finance-Function Metrics
+
+The universals are setting the earnings floor. JPMorgan guided NII ex-Markets of approximately ninety-five billion dollars for full-year 2026, with total NII of approximately one hundred and three billion, and Markets NII expected to decrease to approximately eight billion, predominantly due to rates. Bank of America reports July fourteenth, and in Q1 2026 the firm generated net revenue of thirty point three billion dollars, net income of eight point six billion, and a Return on Tangible Common Equity of sixteen percent, driven by stabilized NIM, rigorous expense control, and expansion in wealth management fee income. For super-regionals, the comparable read-across on ROTCE and efficiency ratio will be the benchmarking baseline for finance transformation conversations: if the universals are running sixteen percent ROTCE with improving efficiency, the implicit question for a PNC or a Truist CFO is what the structural cost gap looks like.
+
+On credit, the forecast for the broader consumer credit landscape is one of controlled risk, with TransUnion projecting credit card delinquency rates to remain virtually flat, the ninety-plus days past due rate forecast to rise by just one basis point to two point five seven percent in 2026.
+
+---
+
+## Regulatory Radar
+
+Basel III finalization is in the processing phase with no material new signal today. The comment window closed June eighteenth. What is worth noting is the operational burden already accumulating: the Basel III Proposal increases risk sensitivity, sets higher expectations for data and technology, and requires banks to review capital allocation, business strategy, and profitability across the organization, with banks needing to upgrade risk data, technology, and governance to meet stricter regulatory standards. This is not just a regulatory story; it is a finance-data modernization mandate. The capital package lowers capital requirements overall and reduces duplication across the framework, but it creates new strategic and operational questions for treasury, risk, finance, reporting, and data teams.
+
+The UK angle provides a timeline benchmark: on January twentieth, 2026, the Prudential Regulation Authority published its final policy statement confirming a general start date of January first, 2027 for Basel three point one. U.S. CFOs watching their UK counterparts are seeing the data and reporting build-out now entering execution mode, which is the clearest forward indicator of what the U.S. implementation sprint will look like.
+
+---
+
+## AI in Finance
+
+The headline insight from the Bain CFO Survey 2026 deserves sharp treatment here because it reframes the whole AI-in-finance conversation. Roughly twelve percent of finance organizations have deployed machine learning in FP&A forecasting at full scale, yet in many cases the underlying process has not changed, with finance teams running AI-generated forecasts alongside existing bottom-up planning cycles: two processes running in parallel, neither fully trusted, with cycle-time, headcount, and accuracy benefits largely unrealized. Bain calls this "workflow debt." If workflow debt is not addressed, AI and automation can multiply complexity instead of productivity; the organizations getting the most from AI use it as a forcing function to ask which steps, handoffs, and approvals are necessary.
+
+On where finance AI budgets are actually going: results to date are strongest in transactional finance, especially invoice-to-cash and procure-to-pay, even as near-term investment attention shifts toward FP&A and financial reporting; the pragmatic path is to first industrialize value streams where the economics are proven, then expand with a mature scaling engine. More than half of CFOs are increasing AI investment by over fifteen percent this year, Bain research shows.
+
+On adoption data: the State of AI in Finance 2026 report finds that fifty-six percent of finance leaders now use AI, double the adoption rate seen in 2023, yet finance still ranks last among all business functions in AI deployment. Forty-five percent of finance teams remain in limited pilot mode; only seventeen percent are using AI in core workflows.
+
+The vendor landscape is converging on embedded AI as the delivery model: the biggest finance technology trend in 2026 is AI moving from standalone features into the daily workflow of ERP, FP&A, payroll, AP, and spend management platforms. For Deloitte, Finance Trends 2026 research shows most finance departments piloting AI use cases, with sixty-three percent actively using AI solutions.
+
+CFO agenda connection: the workflow-debt problem maps directly to the bank finance function. When a bank's FP&A team runs an AI forecast in parallel with a manual bottom-up cycle, the cost of two parallel processes often exceeds any savings from the AI layer. The buying signal for finance platforms at banks should shift from "does this tool produce a better forecast?" to "does this tool replace a process, not augment it?"
+
+---
+
+## CFO Agenda, FP&A, and Transformation Signals
+
+The sequencing question is now the central transformation design issue. AI-first finance transformation requires deliberate sequencing: data foundation first, automation second, intelligence third; CFOs who invest in AI before fixing data quality get poor results; those who sequence correctly get compounding returns.
+
+The talent and job-redesign dimension is equally concrete. AI accelerates prep work, letting humans focus on strategy and oversight, with preparers becoming reviewers and exception managers. For bank controllers and FP&A leaders, the implication is that the finance headcount model needs to be redesigned, not just reduced. Banks that redeploy displaced transactional capacity toward regulatory reporting, capital planning, and business partnering will extract structural value; banks that simply cut headcount will face the compliance and insight gap in the next stress cycle.
+
+The data fragmentation barrier is a direct investment driver: finance leaders consistently raise the issue of data scattered across ERPs, billing systems, CRMs, contract repositories, spreadsheets, and legacy tools, with nine out of ten finance leaders describing their data as an "absolute hot mess." For banks, this maps to the regulatory reporting data lineage problem -- the same fragmentation that prevents clean Basel RWA runs also blocks AI from producing trustworthy forecasts.
+
+---
+
+## Contrarian Insight
+
+Everyone is treating the capital markets fee windfall as unambiguously good news for bank earnings. It is. But the real analytical risk for a finance transformation leader is that strong fee income disguises structural NIM and efficiency weakness at super-regionals. When IPO activity, FICC volatility, and advisory tailwinds are all running hot simultaneously -- as they are in Q2 2026 -- the blended revenue picture flatters efficiency ratios and masks the underlying cost-of-operations problem. A Truist or Citizens CFO who uses Q2 as evidence that transformation investment can be deferred is misreading the signal. The fee tailwind is cyclical; the cost structure is structural.
+
+---
+
+## Client Conversation Hooks
+
+1. **The workflow-debt challenge for bank finance teams**: When you look at your AI deployments in FP&A and financial close, are you running AI alongside the old process or instead of it? Eighty-four percent of organizations that deployed AI without redesigning jobs got minimal impact. The question for your bank client is whether they are in the eighty-four percent.
+
+2. **The C&I loan surge and the planning-cycle mismatch**: C&I loans surged nearly sixteen percent annualized in April. Is your client's FP&A architecture built to refresh NII forecasts at the pace that loan demand is now moving? If the planning cycle refreshes quarterly and loan demand moves monthly, there is a structural decision-speed gap.
+
+3. **Basel data lineage as an AI unlock**: The same data fragmentation that makes Basel RWA calculations difficult is the same fragmentation that blocks AI forecasting accuracy. Banks that fund Basel data infrastructure as a regulatory obligation are underpricing the AI dividend -- a unified, lineage-tracked data model serves both mandates simultaneously.]]></description>
+      <itunes:summary>I now have comprehensive, fresh data to construct both parts of today&#x27;s briefing. Let me synthesize what is genuinely new for July 9, 2026, and produce the full output.
+
+---
+
+## Finance Pulse | Thursday, July 9, 2026
+
+**Bottom line: Q2 earnings begin tomorrow at the big banks, and three angles define what is genuinely new today: oil-price disinflation from the Iran ceasefire is quietly reshaping the Fed&#x27;s rate hike probability toward a hold-for-the-rest-of-2026 scenario, which compresses the tightening tail risk that CFOs have been modeling all quarter; the earnings read-across for super-regionals now pivots on whether deposit-cost discipline held against accelerating C&amp;I loan demand; and the Bain CFO Survey data on workflow debt reveals that deploying AI without redesigning jobs is the dominant failure mode in finance transformation right now -- a structural insight that should reframe every bank AI conversation from &quot;what tool did we buy?&quot; to &quot;what did we change?&quot;**
+
+---
+
+## Top Takeaways
+
+1. The Iran-ceasefire oil shock reversal is now the single biggest swing factor in the near-term rate path. The U.S.-Iran war has morphed into a shaky ceasefire and oil tankers have again started transiting the Strait of Hormuz, pulling energy-driven headline inflation lower. With oil prices plunging and inflation dropping toward four point two percent, the Fed&#x27;s rate calculus shifts materially. CFO planning assumptions built around a late-2026 hike must now be stress-tested against a prolonged hold scenario.
+
+2. Q2 bank earnings commence imminently with a split story. The higher-for-longer rate environment likely offered banks an opportunity to expand NIM if they could contain rising deposit costs, with total Finance sector Q2 earnings expected to surge twelve point five percent on eight point one percent higher revenues. But analysts will be scrutinizing NIM to see if there is any evidence of compression, noting that while most banks are predicting stable deposit costs for the remainder of the year, there is a risk they could creep higher due to increased competition and a hawkish Fed.
+
+3. The dominant AI failure mode in finance is now named and quantified. Eighty-four percent of organizations that have deployed AI without redesigning jobs have created exactly this problem: technology deployed, adoption low, impact minimal. This is the correct frame for every bank AI conversation in 2026.
+
+---
+
+## Three Key Themes
+
+**Theme 1 (New): The Ceasefire Disinflation Trade and the Hold Scenario**
+The Iran ceasefire is not just a geopolitical footnote; it is a live macro variable. The Strait of Hormuz reopened officially on June eighteenth, having been closed for most of the second quarter, which caused a spike in oil prices due to supply constraints. With energy prices now retreating, the supply-shock inflation narrative that drove Warsh&#x27;s hawkish June tone is softening. It is now starting to look as if the Fed will not change rates at all this year. For bank CFOs, this is a critical scenario to model: a full-year hold at three and a half to three and three-quarters percent is different from a hike path, because it arrests any further NIM compression from rising deposit repricing costs while providing no new asset-yield uplift. The planning assumption that rates drift toward four percent -- which futures markets were pricing as recently as July second -- now has a credible challenger.
+
+**Theme 2 (Evolving): Q2 Earnings as a Live NIM and Deposit-Beta Stress Test**
+The Federal Reserve&#x27;s assets and liabilities report reflects a smooth acceleration in loan growth during Q2 2026, with C&amp;I loans surging at an annualized rate of fifteen point nine percent in April alone, surpassing the twelve point two percent growth in Q1, before moderating to a still-strong ten point nine percent in May. For super-regionals, this C&amp;I surge is a double-edged signal: volume supports NII, but aggressive deposit-beta competition from peer money-center institutions like JPMorgan and Wells Fargo poses a persistent pressure point on lower-cost retail deposit retention. The question that earnings calls will answer: did Truist, Citizens, Regions, and KeyCorp absorb that loan growth while keeping funding costs flat, or did they pay up?
+
+**Theme 3 (New): Capital Markets Windfall as a Finance-Function Planning Complexity**
+JPMorgan&#x27;s pre-earnings signaling is the clearest read-across signal of the season. JPMorgan expects markets revenues to rise eleven percent, reflecting persistent volatility and strong client demand across FICC and equities, with IB fees anticipated to increase ten percent or &quot;a little better.&quot; Strong equity capital market activity in Q2, including high-profile IPOs from SpaceX, Cerebras Systems, and Quantinuum, served as earnings tailwinds, with those IPOs providing a &quot;multiplier effect&quot; triggering secondary trading and financing activity. For finance function leaders, this windfall creates a distinct planning complexity: fee income volatility at this scale makes forward revenue modeling materially harder, and FP&amp;A teams without rolling scenario architectures will have struggled to keep pace with the intra-quarter signal.
+
+---
+
+## Banking Finance-Function Metrics
+
+The universals are setting the earnings floor. JPMorgan guided NII ex-Markets of approximately ninety-five billion dollars for full-year 2026, with total NII of approximately one hundred and three billion, and Markets NII expected to decrease to approximately eight billion, predominantly due to rates. Bank of America reports July fourteenth, and in Q1 2026 the firm generated net revenue of thirty point three billion dollars, net income of eight point six billion, and a Return on Tangible Common Equity of sixteen percent, driven by stabilized NIM, rigorous expense control, and expansion in wealth management fee income. For super-regionals, the comparable read-across on ROTCE and efficiency ratio will be the benchmarking baseline for finance transformation conversations: if the universals are running sixteen percent ROTCE with improving efficiency, the implicit question for a PNC or a Truist CFO is what the structural cost gap looks like.
+
+On credit, the forecast for the broader consumer credit landscape is one of controlled risk, with TransUnion projecting credit card delinquency rates to remain virtually flat, the ninety-plus days past due rate forecast to rise by just one basis point to two point five seven percent in 2026.
+
+---
+
+## Regulatory Radar
+
+Basel III finalization is in the processing phase with no material new signal today. The comment window closed June eighteenth. What is worth noting is the operational burden already accumulating: the Basel III Proposal increases risk sensitivity, sets higher expectations for data and technology, and requires banks to review capital allocation, business strategy, and profitability across the organization, with banks needing to upgrade risk data, technology, and governance to meet stricter regulatory standards. This is not just a regulatory story; it is a finance-data modernization mandate. The capital package lowers capital requirements overall and reduces duplication across the framework, but it creates new strategic and operational questions for treasury, risk, finance, reporting, and data teams.
+
+The UK angle provides a timeline benchmark: on January twentieth, 2026, the Prudential Regulation Authority published its final policy statement confirming a general start date of January first, 2027 for Basel three point one. U.S. CFOs watching their UK counterparts are seeing the data and reporting build-out now entering execution mode, which is the clearest forward indicator of what the U.S. implementation sprint will look like.
+
+---
+
+## AI in Finance
+
+The headline insight from the Bain CFO Survey 2026 deserves sharp treatment here because it reframes the whole AI-in-finance conversation. Roughly twelve percent of finance organizations have deployed machine learning in FP&amp;A forecasting at full scale, yet in many cases the underlying process has not changed, with finance teams running AI-generated forecasts alongside existing bottom-up planning cycles: two processes running in parallel, neither fully trusted, with cycle-time, headcount, and accuracy benefits largely unrealized. Bain calls this &quot;workflow debt.&quot; If workflow debt is not addressed, AI and automation can multiply complexity instead of productivity; the organizations getting the most from AI use it as a forcing function to ask which steps, handoffs, and approvals are necessary.
+
+On where finance AI budgets are actually going: results to date are strongest in transactional finance, especially invoice-to-cash and procure-to-pay, even as near-term investment attention shifts toward FP&amp;A and financial reporting; the pragmatic path is to first industrialize value streams where the economics are proven, then expand with a mature scaling engine. More than half of CFOs are increasing AI investment by over fifteen percent this year, Bain research shows.
+
+On adoption data: the State of AI in Finance 2026 report finds that fifty-six percent of finance leaders now use AI, double the adoption rate seen in 2023, yet finance still ranks last among all business functions in AI deployment. Forty-five percent of finance teams remain in limited pilot mode; only seventeen percent are using AI in core workflows.
+
+The vendor landscape is converging on embedded AI as the delivery model: the biggest finance technology trend in 2026 is AI moving from standalone features into the daily workflow of ERP, FP&amp;A, payroll, AP, and spend management platforms. For Deloitte, Finance Trends 2026 research shows most finance departments piloting AI use cases, with sixty-three percent actively using AI solutions.
+
+CFO agenda connection: the workflow-debt problem maps directly to the bank finance function. When a bank&#x27;s FP&amp;A team runs an AI forecast in parallel with a manual bottom-up cycle, the cost of two parallel processes often exceeds any savings from the AI layer. The buying signal for finance platforms at banks should shift from &quot;does this tool produce a better forecast?&quot; to &quot;does this tool replace a process, not augment it?&quot;
+
+---
+
+## CFO Agenda, FP&amp;A, and Transformation Signals
+
+The sequencing question is now the central transformation design issue. AI-first finance transformation requires deliberate sequencing: data foundation first, automation second, intelligence third; CFOs who invest in AI before fixing data quality get poor results; those who sequence correctly get compounding returns.
+
+The talent and job-redesign dimension is equally concrete. AI accelerates prep work, letting humans focus on strategy and oversight, with preparers becoming reviewers and exception managers. For bank controllers and FP&amp;A leaders, the implication is that the finance headcount model needs to be redesigned, not just reduced. Banks that redeploy displaced transactional capacity toward regulatory reporting, capital planning, and business partnering will extract structural value; banks that simply cut headcount will face the compliance and insight gap in the next stress cycle.
+
+The data fragmentation barrier is a direct investment driver: finance leaders consistently raise the issue of data scattered across ERPs, billing systems, CRMs, contract repositories, spreadsheets, and legacy tools, with nine out of ten finance leaders describing their data as an &quot;absolute hot mess.&quot; For banks, this maps to the regulatory reporting data lineage problem -- the same fragmentation that prevents clean Basel RWA runs also blocks AI from producing trustworthy forecasts.
+
+---
+
+## Contrarian Insight
+
+Everyone is treating the capital markets fee windfall as unambiguously good news for bank earnings. It is. But the real analytical risk for a finance transformation leader is that strong fee income disguises structural NIM and efficiency weakness at super-regionals. When IPO activity, FICC volatility, and advisory tailwinds are all running hot simultaneously -- as they are in Q2 2026 -- the blended revenue picture flatters efficiency ratios and masks the underlying cost-of-operations problem. A Truist or Citizens CFO who uses Q2 as evidence that transformation investment can be deferred is misreading the signal. The fee tailwind is cyclical; the cost structure is structural.
+
+---
+
+## Client Conversation Hooks
+
+1. **The workflow-debt challenge for bank finance teams**: When you look at your AI deployments in FP&amp;A and financial close, are you running AI alongside the old process or instead of it? Eighty-four percent of organizations that deployed AI without redesigning jobs got minimal impact. The question for your bank client is whether they are in the eighty-four percent.
+
+2. **The C&amp;I loan surge and the planning-cycle mismatch**: C&amp;I loans surged nearly sixteen percent annualized in April. Is your client&#x27;s FP&amp;A architecture built to refresh NII forecasts at the pace that loan demand is now moving? If the planning cycle refreshes quarterly and loan demand moves monthly, there is a structural decision-speed gap.
+
+3. **Basel data lineage as an AI unlock**: The same data fragmentation that makes Basel RWA calculations difficult is the same fragmentation that blocks AI forecasting accuracy. Banks that fund Basel data infrastructure as a regulatory obligation are underpricing the AI dividend -- a unified, lineage-tracked data model serves both mandates simultaneously.</itunes:summary>
+      <pubDate>Thu, 09 Jul 2026 04:45:56 -0400</pubDate>
+      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-07-09.mp3" length="6897453" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-09.mp3</guid>
+      <itunes:duration>7:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Finance Pulse - Jul 8, 2026</title>
       <description><![CDATA[Now I have enough data to construct the full briefing. Let me synthesize what is genuinely new and distinct for July 8, 2026, avoiding repetition of prior episode themes while anchoring in fresh data.

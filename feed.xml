@@ -15,7 +15,215 @@
       <itunes:email>shawn.mascia@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://shawnmascia.github.io/Finance-Pulse/cover.jpg"/>
-    <lastBuildDate>Wed, 15 Jul 2026 08:50:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:50:09 +0000</lastBuildDate>
+    <item>
+      <title>Finance Pulse - Jul 16, 2026</title>
+      <description><![CDATA[I'll run parallel searches across all key coverage areas simultaneously to surface what's genuinely new for July 16, 2026 — the day after PNC, M&T, and Morgan Stanley reported, and as the broader super-regional cohort prints.Now let me use my final search on U.S. Bancorp Q2 2026 results, which report today, and any PNC-specific results I haven't yet captured.I now have sufficient data across all coverage areas to produce today's briefing. The genuinely new angles for July 16 are: (1) U.S. Bancorp reports this morning (live earnings day for the super-regional cohort's most important payments/efficiency proxy); (2) M&T posted its highest-ever quarterly EPS and the credit quality improvement arc is now nine consecutive quarters, making it a distinct structural story; (3) Truist faces a wall of analyst downgrades pre-print ahead of tomorrow, while Fifth Third's first post-Comerica quarter is Friday, creating an M&A integration read-through angle not yet covered; (4) the Basel III post-comment-period dynamic has sharpened specifically around the Internal Loss Multiplier removal and its implications for operational risk capital; (5) the AI deployment sequencing debate has crystallized into a measurable "copilot-to-agent" production gap with specific ROI timelines; (6) the Warsh-era Fed communication shift away from forward guidance creates a new CFO planning challenge distinct from the rate-level debate covered previously.
+
+---
+
+## Finance Pulse | Thursday, July 16, 2026
+
+**Bottom line: The super-regional earnings window is now live and producing a consistent read-across signal: credit quality has continued to improve, NII is tracking guidance, but deposit beta is a persistent open variable and expense pressure is intensifying just as Basel's Internal Loss Multiplier removal forces banks to rerun their entire operational risk capital stack from scratch.**
+
+---
+
+### Top Takeaways
+
+1. M&T Bank posted its highest quarterly diluted EPS in company history in Q2 2026, with credit metrics strengthening as criticized loans fell for the ninth consecutive quarter and net charge-offs dropping to twenty-three basis points. The nine-quarter credit improvement arc is now long enough to be structural, not cyclical.
+
+2. U.S. Bancorp is releasing Q2 2026 results this morning before market open, with CEO Gunjan Kedia and CFO John Stern hosting the call at seven a.m. Central Time. Management had guided NII on a fully taxable equivalent basis to rise six to seven percent year over year, with the consensus estimate pegged at four point three four billion dollars, indicating a seven percent increase from the year-ago figure. USB is the cohort's most watched efficiency-ratio benchmark.
+
+3. Fed Governor Christopher Waller's recent remarks have intensified speculation about a potential rate hike at the July twenty-eighth to twenty-ninth meeting, with the CME FedWatch tool assigning approximately twenty-five percent probability to a twenty-five basis point hike in July.
+
+4. The single most consequential structural change in the March 2026 Basel III re-proposal is the removal of the Internal Loss Multiplier as a loss-history adjustment, meaning regulators will no longer adjust a firm's operational risk charge based on its loss record, effectively setting the ILM at one-point-zero for all U.S. banks.
+
+5. CFO AI budgets are shifting from pilot experimentation toward structured deployment, with vendor evaluation now emphasizing ERP integration depth and data connector capabilities; CFOs who completed the shift from copilots to agentic AI platforms early are now in year two of production deployment, while pilot-focused organizations face widening competitive gaps.
+
+---
+
+### Three Key Themes
+
+**Theme 1 (New): The M&T credit arc and its NIM compression signal**
+M&T guided full-year NII to the lower half of its seven-point-two to seven-point-three-five billion dollar range, with full-year NIM in the high three-sixty range. Management guided to some NIM compression in the second half relative to the approximately three-point-seven percent posted in the first half, driven by deposit pricing and loan yield dynamics. The cumulative interest-bearing deposit beta is guided to the low-to-mid-fifty percent range, which CFOs should treat as a sector floor assumption for second-half planning. This is the first time a super-regional CFO has explicitly quantified H2 NIM compression in this earnings cycle.
+
+**Theme 2 (Evolving): Truist's multiple analyst downgrades and the operational credibility gap**
+Ahead of Truist's July 17 print, Bank of America Securities downgraded from Buy to Neutral, UBS downgraded from Buy to Neutral cutting the target from fifty-eight to fifty-five dollars, and Morgan Stanley slashed its target from sixty-two to fifty-four dollars while moving to Equal-Weight. Truist is the worst-performing name in the super-regional cohort with only a five percent year-to-date gain. For transformation consultants, this is the clearest live case of the market pricing operational execution risk into a post-merger integration story.
+
+**Theme 3 (New): Basel operational risk ILM removal forces a full capital model rebuild**
+The ILM removal flips the preparation playbook entirely: programs that spent twelve months curating ten-year loss data for ILM inputs face a write-off of that effort, and RWA forecasts built against the 2023 NPR need rerunning against the 2026 numbers before the June eighteenth comment deadline, shifting the board conversation from raising capital to reshaping business mix. This creates immediate demand for capital calculation infrastructure, data re-architecture, and model governance modernization at every bank above one hundred billion dollars in assets.
+
+---
+
+### Banking Finance-Function Metrics
+
+**NIM and NII:** M&T's tax-equivalent NII rose four-point-eight percent year over year to one-point-eight-zero billion dollars, reflecting growth in average loans and investment securities along with favorable repricing of earning assets. Total loans reached one hundred forty-three-point-two billion dollars, up two-point-three percent from the prior quarter, while total deposits increased three-point-one percent sequentially to one hundred sixty-eight-point-nine billion dollars.
+
+**Credit:** Net charge-offs decreased twenty-five-point-nine percent to eighty million dollars from the prior-year quarter, the provision for credit losses was one hundred twenty million dollars down four percent year over year, and non-performing assets declined twenty-three-point-two percent year over year to one-point-two-three billion dollars.
+
+**Capital:** M&T Bank's estimated CET1 ratio was ten-point-one-nine percent, down from ten-point-nine-nine percent as of Q2 2025.
+
+**Expenses:** M&T guided expenses to the high end of the five-point-five to five-point-six billion dollar range as the bank continues enterprise investments while maintaining expense discipline. This is the efficiency paradox in one sentence: banks are simultaneously cutting costs and investing, with the net being that the efficiency ratio is not improving as fast as the income line.
+
+**Fee income:** M&T's fee income is expected at two-point-eight to two-point-eight-five billion dollars, reflecting year-to-date strength, the Bayview distribution, and higher sub-servicing fee income beginning in Q3.
+
+---
+
+### Regulatory Radar
+
+**Basel III Endgame post-comment period:** The June eighteenth comment deadline has now passed. The March 2026 proposals revisit Basel III Endgame for the largest firms, introduce a separate approach for regional and smaller banks, revise the GSIB surcharge framework, lower capital requirements overall, reduce duplication, and improve economics of traditional lending, while creating new strategic and operational questions for treasury, risk, finance, reporting, and data teams.
+
+The critical new operational angle: regulators project aggregate capital in the banking system will modestly decrease under the new framework, a dramatic pivot from the original plus-sixteen-percent CET1 increase, and the core objective is to replace internal models with standardized approaches that produce comparable, transparent requirements across institutions. For finance functions, standardized approaches mean the competitive edge shifts from model sophistication to data quality and reporting infrastructure.
+
+The changes could materially affect bank capital requirements, profitability, product and service offerings, and long-term growth strategies; overall bank capital requirements are expected to decrease due to lower minimum risk weights and less conservative methodologies, though the 2026 capital rules also add complexity and will require careful implementation.
+
+---
+
+### AI in Finance
+
+**What is genuinely deployed vs. marketed:** The headline shift of 2026 is from experimentation to governed deployment; banks started asking how to supervise AI agents, and according to a Wolters Kluwer survey, forty-four percent of finance teams expected to use agentic AI in 2026, a steep increase over the prior year.
+
+**What is working and where:** Compliance and financial crime emerged as the leading use case, with real-time monitoring replacing periodic review in early deployments; among agentic AI use cases, regulatory-change triage, financial-crime detection, and controls monitoring drew the most attention because each pairs high volume with a containable cost of error.
+
+**The governance gap that creates transformation work:** The gap between piloting and impact stems from architectural limitations: most finance teams are adding AI inside existing functional lanes, with AP getting invoice automation, FP&A getting forecasting tools, and close teams getting reconciliation support, but each system carries its own data model, workflow logic, and audit trail, and disconnection shows up at the seams where approved spend becomes an invoice, an invoice becomes a journal entry, and a journal entry becomes a forecast assumption.
+
+**Sequencing and ROI timelines:** Across organizations deploying autonomous finance in production, AP automation typically deploys first due to high volume and measurable baseline metrics, reconciliation and close automation follows, FP&A forecast refresh automates once operational data quality improves, and AR collections automates last due to external data dependencies; each phase builds data quality and governance infrastructure that the next phase depends on.
+
+**CFO budget signal:** Deloitte's Q4 2025 CFO Signals survey found that fifty-four percent of CFOs say integrating AI agents into their finance departments will be a top transformation priority in 2026, and eighty-seven percent believe AI will be extremely or very important to finance operations this year.
+
+**The Gartner warning CFOs must own:** Gartner predicts that over forty percent of agentic AI projects will be canceled by end of 2027. That number is the single most important governance mandate for any bank CFO approving agentic AI spend right now.
+
+---
+
+### CFO Agenda, FP&A, and Transformation Signals
+
+**The new planning uncertainty is not about rate level, it is about Fed communication style.** The rate has been held steady for four consecutive FOMC meetings, the most recent on June seventeenth, under Fed Chair Kevin Warsh's leadership. Chair Warsh's first meeting signaled less forward guidance and a broader review of Fed communications, balance sheet policy, and inflation framework. CFOs who built planning models around Powell-era guidance granularity must now operate with a structurally less transparent signal. That is a direct FP&A infrastructure challenge, not just a macro one.
+
+**The deposit beta number that changes planning assumptions:** M&T's explicit call of cumulative interest-bearing deposit beta in the low-to-mid-fifty percent range is the first publicly quantified anchor from the super-regional cohort this cycle. CFOs at peer institutions should stress-test whether their own deposit cost assumptions are consistent with or divergent from this figure.
+
+**Agentic AI sequencing as a buying signal:** Task-specific agents for invoice processing and reconciliation typically pay back in four to nine months; a single workflow such as AP or close reaches full value in four to six months; a portfolio of agents across the CFO office reaches full value in twelve to eighteen months; and timeline is driven by data readiness and change management, not the underlying AI technology. For bank finance transformation leaders, this is the ROI framing that wins budget approval.
+
+---
+
+### Contrarian Insight
+
+The consensus narrative is that lower Basel III capital requirements are unambiguously good for banks. But the operational cost of compliance with the 2026 re-proposal may be higher, not lower, than the 2023 framework for many super-regionals. The combined 2026 proposals exceed fifteen hundred pages and address nearly every section of the existing regulatory capital requirements. The shift from internal models to standardized approaches does not reduce reporting work; it changes the source of the number while demanding new data pipelines to feed standardized formulas. Banks that invested in sophisticated internal models are not relieved of cost; they are redirecting investment from model maintenance to data infrastructure and regulatory reporting uplift. The finance function workload goes up even as nominal capital requirements come down.
+
+---
+
+### Client Conversation Hooks
+
+1. **M&T's deposit beta anchor vs. your client's assumptions:** M&T has explicitly guided cumulative interest-bearing deposit beta to the low-to-mid-fifty percent range for the full year. Where does your client's deposit cost model sit relative to that, and what does the delta imply for their second-half NII forecast?
+
+2. **The ILM removal write-off problem:** Banks that spent the last twelve months building ten-year loss data programs for Internal Loss Multiplier inputs in the 2023 Basel framework now need to redirect that investment toward standardized approach data infrastructure. Is your client's capital data architecture team aware that the work product has changed, not just the capital outcome?
+
+3. **The Gartner cancellation rate and governance readiness:** With Gartner projecting that more than forty percent of agentic AI projects will be canceled by 2027, what is your client's governance framework for distinguishing projects that survive from those that do not, and is there a CFO-owned kill criteria built into the approval process?]]></description>
+      <itunes:summary>I&#x27;ll run parallel searches across all key coverage areas simultaneously to surface what&#x27;s genuinely new for July 16, 2026 — the day after PNC, M&amp;T, and Morgan Stanley reported, and as the broader super-regional cohort prints.Now let me use my final search on U.S. Bancorp Q2 2026 results, which report today, and any PNC-specific results I haven&#x27;t yet captured.I now have sufficient data across all coverage areas to produce today&#x27;s briefing. The genuinely new angles for July 16 are: (1) U.S. Bancorp reports this morning (live earnings day for the super-regional cohort&#x27;s most important payments/efficiency proxy); (2) M&amp;T posted its highest-ever quarterly EPS and the credit quality improvement arc is now nine consecutive quarters, making it a distinct structural story; (3) Truist faces a wall of analyst downgrades pre-print ahead of tomorrow, while Fifth Third&#x27;s first post-Comerica quarter is Friday, creating an M&amp;A integration read-through angle not yet covered; (4) the Basel III post-comment-period dynamic has sharpened specifically around the Internal Loss Multiplier removal and its implications for operational risk capital; (5) the AI deployment sequencing debate has crystallized into a measurable &quot;copilot-to-agent&quot; production gap with specific ROI timelines; (6) the Warsh-era Fed communication shift away from forward guidance creates a new CFO planning challenge distinct from the rate-level debate covered previously.
+
+---
+
+## Finance Pulse | Thursday, July 16, 2026
+
+**Bottom line: The super-regional earnings window is now live and producing a consistent read-across signal: credit quality has continued to improve, NII is tracking guidance, but deposit beta is a persistent open variable and expense pressure is intensifying just as Basel&#x27;s Internal Loss Multiplier removal forces banks to rerun their entire operational risk capital stack from scratch.**
+
+---
+
+### Top Takeaways
+
+1. M&amp;T Bank posted its highest quarterly diluted EPS in company history in Q2 2026, with credit metrics strengthening as criticized loans fell for the ninth consecutive quarter and net charge-offs dropping to twenty-three basis points. The nine-quarter credit improvement arc is now long enough to be structural, not cyclical.
+
+2. U.S. Bancorp is releasing Q2 2026 results this morning before market open, with CEO Gunjan Kedia and CFO John Stern hosting the call at seven a.m. Central Time. Management had guided NII on a fully taxable equivalent basis to rise six to seven percent year over year, with the consensus estimate pegged at four point three four billion dollars, indicating a seven percent increase from the year-ago figure. USB is the cohort&#x27;s most watched efficiency-ratio benchmark.
+
+3. Fed Governor Christopher Waller&#x27;s recent remarks have intensified speculation about a potential rate hike at the July twenty-eighth to twenty-ninth meeting, with the CME FedWatch tool assigning approximately twenty-five percent probability to a twenty-five basis point hike in July.
+
+4. The single most consequential structural change in the March 2026 Basel III re-proposal is the removal of the Internal Loss Multiplier as a loss-history adjustment, meaning regulators will no longer adjust a firm&#x27;s operational risk charge based on its loss record, effectively setting the ILM at one-point-zero for all U.S. banks.
+
+5. CFO AI budgets are shifting from pilot experimentation toward structured deployment, with vendor evaluation now emphasizing ERP integration depth and data connector capabilities; CFOs who completed the shift from copilots to agentic AI platforms early are now in year two of production deployment, while pilot-focused organizations face widening competitive gaps.
+
+---
+
+### Three Key Themes
+
+**Theme 1 (New): The M&amp;T credit arc and its NIM compression signal**
+M&amp;T guided full-year NII to the lower half of its seven-point-two to seven-point-three-five billion dollar range, with full-year NIM in the high three-sixty range. Management guided to some NIM compression in the second half relative to the approximately three-point-seven percent posted in the first half, driven by deposit pricing and loan yield dynamics. The cumulative interest-bearing deposit beta is guided to the low-to-mid-fifty percent range, which CFOs should treat as a sector floor assumption for second-half planning. This is the first time a super-regional CFO has explicitly quantified H2 NIM compression in this earnings cycle.
+
+**Theme 2 (Evolving): Truist&#x27;s multiple analyst downgrades and the operational credibility gap**
+Ahead of Truist&#x27;s July 17 print, Bank of America Securities downgraded from Buy to Neutral, UBS downgraded from Buy to Neutral cutting the target from fifty-eight to fifty-five dollars, and Morgan Stanley slashed its target from sixty-two to fifty-four dollars while moving to Equal-Weight. Truist is the worst-performing name in the super-regional cohort with only a five percent year-to-date gain. For transformation consultants, this is the clearest live case of the market pricing operational execution risk into a post-merger integration story.
+
+**Theme 3 (New): Basel operational risk ILM removal forces a full capital model rebuild**
+The ILM removal flips the preparation playbook entirely: programs that spent twelve months curating ten-year loss data for ILM inputs face a write-off of that effort, and RWA forecasts built against the 2023 NPR need rerunning against the 2026 numbers before the June eighteenth comment deadline, shifting the board conversation from raising capital to reshaping business mix. This creates immediate demand for capital calculation infrastructure, data re-architecture, and model governance modernization at every bank above one hundred billion dollars in assets.
+
+---
+
+### Banking Finance-Function Metrics
+
+**NIM and NII:** M&amp;T&#x27;s tax-equivalent NII rose four-point-eight percent year over year to one-point-eight-zero billion dollars, reflecting growth in average loans and investment securities along with favorable repricing of earning assets. Total loans reached one hundred forty-three-point-two billion dollars, up two-point-three percent from the prior quarter, while total deposits increased three-point-one percent sequentially to one hundred sixty-eight-point-nine billion dollars.
+
+**Credit:** Net charge-offs decreased twenty-five-point-nine percent to eighty million dollars from the prior-year quarter, the provision for credit losses was one hundred twenty million dollars down four percent year over year, and non-performing assets declined twenty-three-point-two percent year over year to one-point-two-three billion dollars.
+
+**Capital:** M&amp;T Bank&#x27;s estimated CET1 ratio was ten-point-one-nine percent, down from ten-point-nine-nine percent as of Q2 2025.
+
+**Expenses:** M&amp;T guided expenses to the high end of the five-point-five to five-point-six billion dollar range as the bank continues enterprise investments while maintaining expense discipline. This is the efficiency paradox in one sentence: banks are simultaneously cutting costs and investing, with the net being that the efficiency ratio is not improving as fast as the income line.
+
+**Fee income:** M&amp;T&#x27;s fee income is expected at two-point-eight to two-point-eight-five billion dollars, reflecting year-to-date strength, the Bayview distribution, and higher sub-servicing fee income beginning in Q3.
+
+---
+
+### Regulatory Radar
+
+**Basel III Endgame post-comment period:** The June eighteenth comment deadline has now passed. The March 2026 proposals revisit Basel III Endgame for the largest firms, introduce a separate approach for regional and smaller banks, revise the GSIB surcharge framework, lower capital requirements overall, reduce duplication, and improve economics of traditional lending, while creating new strategic and operational questions for treasury, risk, finance, reporting, and data teams.
+
+The critical new operational angle: regulators project aggregate capital in the banking system will modestly decrease under the new framework, a dramatic pivot from the original plus-sixteen-percent CET1 increase, and the core objective is to replace internal models with standardized approaches that produce comparable, transparent requirements across institutions. For finance functions, standardized approaches mean the competitive edge shifts from model sophistication to data quality and reporting infrastructure.
+
+The changes could materially affect bank capital requirements, profitability, product and service offerings, and long-term growth strategies; overall bank capital requirements are expected to decrease due to lower minimum risk weights and less conservative methodologies, though the 2026 capital rules also add complexity and will require careful implementation.
+
+---
+
+### AI in Finance
+
+**What is genuinely deployed vs. marketed:** The headline shift of 2026 is from experimentation to governed deployment; banks started asking how to supervise AI agents, and according to a Wolters Kluwer survey, forty-four percent of finance teams expected to use agentic AI in 2026, a steep increase over the prior year.
+
+**What is working and where:** Compliance and financial crime emerged as the leading use case, with real-time monitoring replacing periodic review in early deployments; among agentic AI use cases, regulatory-change triage, financial-crime detection, and controls monitoring drew the most attention because each pairs high volume with a containable cost of error.
+
+**The governance gap that creates transformation work:** The gap between piloting and impact stems from architectural limitations: most finance teams are adding AI inside existing functional lanes, with AP getting invoice automation, FP&amp;A getting forecasting tools, and close teams getting reconciliation support, but each system carries its own data model, workflow logic, and audit trail, and disconnection shows up at the seams where approved spend becomes an invoice, an invoice becomes a journal entry, and a journal entry becomes a forecast assumption.
+
+**Sequencing and ROI timelines:** Across organizations deploying autonomous finance in production, AP automation typically deploys first due to high volume and measurable baseline metrics, reconciliation and close automation follows, FP&amp;A forecast refresh automates once operational data quality improves, and AR collections automates last due to external data dependencies; each phase builds data quality and governance infrastructure that the next phase depends on.
+
+**CFO budget signal:** Deloitte&#x27;s Q4 2025 CFO Signals survey found that fifty-four percent of CFOs say integrating AI agents into their finance departments will be a top transformation priority in 2026, and eighty-seven percent believe AI will be extremely or very important to finance operations this year.
+
+**The Gartner warning CFOs must own:** Gartner predicts that over forty percent of agentic AI projects will be canceled by end of 2027. That number is the single most important governance mandate for any bank CFO approving agentic AI spend right now.
+
+---
+
+### CFO Agenda, FP&amp;A, and Transformation Signals
+
+**The new planning uncertainty is not about rate level, it is about Fed communication style.** The rate has been held steady for four consecutive FOMC meetings, the most recent on June seventeenth, under Fed Chair Kevin Warsh&#x27;s leadership. Chair Warsh&#x27;s first meeting signaled less forward guidance and a broader review of Fed communications, balance sheet policy, and inflation framework. CFOs who built planning models around Powell-era guidance granularity must now operate with a structurally less transparent signal. That is a direct FP&amp;A infrastructure challenge, not just a macro one.
+
+**The deposit beta number that changes planning assumptions:** M&amp;T&#x27;s explicit call of cumulative interest-bearing deposit beta in the low-to-mid-fifty percent range is the first publicly quantified anchor from the super-regional cohort this cycle. CFOs at peer institutions should stress-test whether their own deposit cost assumptions are consistent with or divergent from this figure.
+
+**Agentic AI sequencing as a buying signal:** Task-specific agents for invoice processing and reconciliation typically pay back in four to nine months; a single workflow such as AP or close reaches full value in four to six months; a portfolio of agents across the CFO office reaches full value in twelve to eighteen months; and timeline is driven by data readiness and change management, not the underlying AI technology. For bank finance transformation leaders, this is the ROI framing that wins budget approval.
+
+---
+
+### Contrarian Insight
+
+The consensus narrative is that lower Basel III capital requirements are unambiguously good for banks. But the operational cost of compliance with the 2026 re-proposal may be higher, not lower, than the 2023 framework for many super-regionals. The combined 2026 proposals exceed fifteen hundred pages and address nearly every section of the existing regulatory capital requirements. The shift from internal models to standardized approaches does not reduce reporting work; it changes the source of the number while demanding new data pipelines to feed standardized formulas. Banks that invested in sophisticated internal models are not relieved of cost; they are redirecting investment from model maintenance to data infrastructure and regulatory reporting uplift. The finance function workload goes up even as nominal capital requirements come down.
+
+---
+
+### Client Conversation Hooks
+
+1. **M&amp;T&#x27;s deposit beta anchor vs. your client&#x27;s assumptions:** M&amp;T has explicitly guided cumulative interest-bearing deposit beta to the low-to-mid-fifty percent range for the full year. Where does your client&#x27;s deposit cost model sit relative to that, and what does the delta imply for their second-half NII forecast?
+
+2. **The ILM removal write-off problem:** Banks that spent the last twelve months building ten-year loss data programs for Internal Loss Multiplier inputs in the 2023 Basel framework now need to redirect that investment toward standardized approach data infrastructure. Is your client&#x27;s capital data architecture team aware that the work product has changed, not just the capital outcome?
+
+3. **The Gartner cancellation rate and governance readiness:** With Gartner projecting that more than forty percent of agentic AI projects will be canceled by 2027, what is your client&#x27;s governance framework for distinguishing projects that survive from those that do not, and is there a CFO-owned kill criteria built into the approval process?</itunes:summary>
+      <pubDate>Thu, 16 Jul 2026 04:46:28 -0400</pubDate>
+      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-07-16.mp3" length="7943085" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-16.mp3</guid>
+      <itunes:duration>8:16</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Finance Pulse - Jul 15, 2026</title>
       <description><![CDATA[I'll run parallel searches across all key coverage areas to surface what's genuinely new for July 15, 2026 -- the morning after the first wave of Q2 earnings prints.Good. Now I have the earnings calendar and macro picture. Let me search for the two most critical remaining areas: the actual Q2 earnings results that came out this morning (PNC, M&T, Morgan Stanley) and the AI-in-finance / regulatory angles.I now have strong data across all coverage areas. Let me synthesize everything into today's briefing. The genuinely new angles for July 15 are: (1) the super-regional earnings window has arrived -- PNC and M&T report this morning, Citizens tomorrow, Regions/Truist/Fifth Third Friday; (2) Fifth Third's Comerica acquisition ($10.9B) is a fresh and unexamined M&A integration angle; (3) Morgan Stanley reports Q2 today, providing the wealth management / fee income read-across; (4) Fed Chair Warsh's Congressional testimony this week (Semiannual Monetary Policy Report) with his "price stability mentioned twelve times" framing; (5) the G-SIB surcharge trajectory (5.2% by 2028, up from 4.5%) creating a $20B capital rebuild story; (6) the Gartner prediction that 40%+ of agentic AI projects will be cancelled by end of 2027; and (7) the BCG/Bain convergence on AI sequencing failure mode -- data foundation before automation before intelligence -- as the CFO buying pattern signal. Let me now construct both outputs.

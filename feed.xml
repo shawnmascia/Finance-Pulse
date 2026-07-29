@@ -15,7 +15,197 @@
       <itunes:email>shawn.mascia@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://shawnmascia.github.io/Finance-Pulse/cover.jpg"/>
-    <lastBuildDate>Tue, 28 Jul 2026 08:49:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 08:50:13 +0000</lastBuildDate>
+    <item>
+      <title>Finance Pulse - Jul 29, 2026</title>
+      <description><![CDATA[I'll run all searches simultaneously to maximize freshness and coverage across macro, banking, regulatory, and AI-in-finance angles.Excellent. I now have strong fresh material across all coverage areas. Let me synthesize carefully, avoiding all themes from prior episodes, and build both parts.
+
+---
+
+## Finance Pulse | Wednesday, July 29, 2026
+
+**Bottom line: The FOMC decision lands at two p.m. Eastern today -- the outcome is now known, but what matters most for bank CFOs is not the hold itself, it is what Warsh says and what he does not say at two-thirty. With no dot plot and a chair committed to minimal guidance, the press conference is the only rate-path signal until September, and CFOs who haven't already stress-tested NII under a Q4 hike scenario are running out of planning runway. Simultaneously, the Basel III re-proposal comment period has closed and finalization is on a Q4 2026 clock -- a capital-neutral pivot that is reshaping RWA planning from a compliance problem into a capital allocation opportunity.**
+
+---
+
+### Top Takeaways
+
+1. Today's FOMC hold was expected, but the real deliverable is Warsh's two-thirty press conference: with no dot plot, statement language and any hawkish signal on September are the only inputs CFOs get until mid-September. Oil futures up roughly twenty percent in July mean headline CPI is likely to stay hot, keeping a September hike on the table.
+2. The Basel III re-proposal has pivoted from a capital-raise of nearly nineteen percent to net capital relief of approximately eighty-seven point seven billion dollars across the industry -- a structural reversal that changes how finance teams model RWA, capital buffers, and deployment capacity heading into 2027 implementation.
+3. PNC's Q2 prints a landmark: the FirstBank system conversion completed June twenty-two, transitioning roughly seven hundred eighty thousand customers and ninety-five branches, making it the largest core-system integration event in the super-regional cohort this cycle -- and the data coming out of that close is the most operationally relevant M&A integration signal in the market right now.
+4. Agentic AI has crossed from experimentation to governed deployment in banking in 2026, with revised federal model-risk guidance (SR 26-2, OCC Bulletin 2026-13) reshaping the governance conversation -- and the fact that regulators explicitly carved AI agents out of its scope is not a reprieve; it is a signal that bespoke frameworks are coming.
+5. Associated Banc-Corp's Q2 results show a fourteen-basis-point NIM expansion to three point one seven percent driven by a deliberate loan-mix remix and acquired-portfolio repositioning -- a real-time case study in how post-merger finance teams can actively engineer margin, not just report it.
+
+---
+
+### Key Themes
+
+**Theme 1 -- NEW: The Post-FOMC Warsh Signal Vacuum and Its Direct Impact on Bank Treasury Planning**
+
+July's meeting does not include a Summary of Economic Projections, so there is no dot plot. That means the statement language and the press conference carry the entire signal until September. It is unlikely that economists and investors will gain insights into Warsh's economic views, given that he has vowed to share less forward guidance. For bank treasurers, this is not an abstract market condition -- it directly compresses the planning horizon for deposit pricing, securities portfolio duration decisions, and interest rate risk hedging. Oil prices have been volatile recently amid on-again, off-again fighting between the U.S. and Iran, and while crude futures are lower to start Fed week, they are up roughly twenty percent for July, which is likely to keep headline inflation readings hot in the near term. If inflation were to reignite amid escalations in the U.S.-Iran war, it could raise the probability of a rate hike later in 2026. CFOs running scenario-based NII planning must now weight a Q4 hike scenario more heavily than consensus would suggest. As of July twenty-four, CME FedWatch priced a hold at sixty-two to sixty-eight percent and a hike at thirty-two to thirty-eight percent, the highest hike probability for any meeting since the Fed stopped tightening.
+
+**Theme 2 -- EVOLVING: Basel III Re-Proposal Enters Final Stretch -- From Capital Threat to Capital Release**
+
+The July 2023 proposal sought a roughly nineteen percent capital increase for the largest U.S. banks; the March 2026 reproposal instead delivers net capital relief of about eighty-seven point seven billion dollars, with finalization expected in late 2026 and implementation in 2027. In the United States, regulators re-proposed the broader Basel endgame package in March 2026, following extensive industry pushback to the 2023 proposal. The Federal Reserve, OCC, and FDIC now project that aggregate capital in the banking system will modestly decrease under the new framework -- a dramatic pivot from the original plus-sixteen percent CET1 increase. But for operational risk managers specifically, the structural change remains significant: internal models are still gone, the Standardized Approach is still coming, and the compliance clock is ticking. For finance transformation consultants, this is the critical nuance: capital neutrality does not mean implementation neutrality. The shift from AMA to the Standardized Approach transforms how operational risk teams organize their work, what data they collect, and how they report to the board. Banks that have underspent on data infrastructure for RWA calculation will face a harder transition regardless of the capital outcome.
+
+**Theme 3 -- NEW: Agentic AI Governance Arrives -- The Regulatory Perimeter Is Being Drawn**
+
+In 2026, agentic AI in financial services moved into production, and the updates that matter most for compliance are no longer about what the technology might do but about how banks are governing what it already does. The pivotal regulatory development: on April seventeen, 2026, the Federal Reserve, OCC, and FDIC issued revised interagency model risk management guidance, designated SR 26-2 by the Federal Reserve and captured in OCC Bulletin 2026-13, which superseded the long-standing SR 11-7. Critically, according to a Wolters Kluwer survey, forty-four percent of finance teams expected to use agentic AI in 2026, a steep increase over the prior year, yet the new guidance explicitly leaves agentic AI outside its defined scope -- meaning banks deploying agents in FP&A, close, or regulatory reporting are operating without a formal regulatory framework, a condition that itself creates audit and controls risk. Deploying agentic AI requires rethinking data governance, process orchestration, and system architecture, and partnering with an organization experienced in enterprise-scale AI accelerates adoption by providing domain expertise, structured frameworks, and prebuilt industry-specific agents.
+
+---
+
+### Banking Finance-Function
+
+**NIM and Deposit Costs:** Across the Q2 reporting cohort, NIM is displaying a bifurcated pattern. PNC's NIM expanded one basis point to two point nine six percent, reflecting lower rates paid on interest-bearing deposits partially offset by a shift toward lower-spread, high-credit-quality loans. PNC CFO Reilly projected that the net interest margin will exceed three percent by the end of the year, supported by the ongoing repricing of fixed-rate assets. Associated Banc-Corp expanded its net interest margin by fourteen basis points to three point one seven percent, benefiting from a strategic remix toward commercial loans and the repositioning of the acquired securities portfolio. At the community-bank level, NBT Bancorp saw deposit costs decline one basis point to one point three three percent while reporting record net interest income of one hundred thirty-seven million dollars, up three million from Q1 2026.
+
+**Provisioning and Credit:** Independent Bank Corp reported non-performing assets of one hundred three point eight million dollars, or fifty-six basis points of total assets, with net charge-offs of just two basis points for Q2 2026. Credit quality across the reporting cohort remains benign, which means provisioning is not yet a significant earnings headwind -- but CFOs are watching CRE pipelines closely given the rate-hike optionality now priced into September.
+
+**Capital Returns:** PNC returned one point three billion dollars to shareholders in Q2, consisting of six hundred ninety million in common dividends and six hundred ten million in share repurchases, and the board approved an eighteen percent increase to the quarterly common stock dividend, raising the payout by thirty cents to two dollars per share.
+
+**System Integration:** PNC completed its FirstBank system conversion on June twenty-two, 2026, which included transitioning approximately seven hundred eighty thousand customers and ninety-five branches. This is the largest discrete integration event in the cohort this cycle and provides a real-world data point on post-conversion cost, customer attrition, and operational friction that peer CFOs should benchmark against.
+
+---
+
+### Regulatory Radar
+
+Basel III endgame: the comment period on the March 2026 re-proposal has closed and the agencies issued the reproposal on March nineteenth, 2026, advancing it on a six-to-one Fed vote, with finalization expected in Q4 2026 and implementation beginning in 2027. The capital-relief story is real, but the operational-risk data and reporting rebuild is not optional regardless. No material news on DFAST or CCAR in the last forty-eight hours -- unchanged from prior coverage. The UK Prudential Regulation Authority finalized the wider Basel three point one package for January first, 2027, and deferred the FRTB Internal Model Approach to January first, 2028, recognizing the added complexity for internationally active firms -- a data point relevant to global banks managing cross-border RWA reporting and for consultants with UK clients.
+
+SR 26-2 / OCC 2026-13: The revised model risk guidance issued April seventeen is now the active operating framework for AI model governance at banks, but its explicit exclusion of agentic AI means every bank CFO deploying finance agents needs to develop its own bespoke oversight framework -- and that gap is increasingly on supervisory radar.
+
+---
+
+### AI in Finance
+
+**Governance gap creates demand:** The SR 26-2 exclusion of agentic AI from formal model-risk scope means banks cannot simply extend SR 11-7 frameworks to cover AI agents in the close process, in FP&A scenario generation, or in regulatory reporting workflows. Among agentic AI use cases, regulatory-change triage, financial-crime detection, and controls monitoring drew the most attention because each pairs high volume with a containable cost of error. This is where finance transformation budgets are concentrating -- not in generalist copilot tools, but in domain-specific agents with auditable decision trails.
+
+**Deployment economics:** The 2026 agentic AI spending market reached twelve point four billion dollars, with seventy-six percent of CFOs allocating budgets specifically for autonomous finance agent deployment rather than copilot or assistance tools. Treasury functions are using agentic AI to optimize cash positioning across bank accounts and currencies, automate payment scheduling based on real-time liquidity data, and flag anomalies in cash flows that traditional reconciliation would miss until month-end. The CFO-agenda connection is direct: for a bank treasurer managing intraday liquidity under LCR constraints and potential rate volatility, that is not a productivity play -- it is a risk management infrastructure investment.
+
+**Audit trail as compliance infrastructure:** Every action taken by an agentic AI system is logged automatically with a timestamp and the full decision rationale -- for CFOs responsible for SOX compliance and industry-specific reporting, this automated audit trail is a compliance infrastructure that manual workflows cannot replicate reliably. This framing -- AI as controls infrastructure, not just cost reduction -- is the argument that gets finance AI past a skeptical audit committee.
+
+**Vendor reality check:** Microsoft's Copilot is being embedded in Dynamics 365 and Power BI, and CFOs are getting demos and offers of Copilot for Finance; all major enterprise finance software is expected to be sold with some AI agent components by 2026, but the challenge is distinguishing which of these promises have substance. Finance leaders buying EPM or ERP upgrades this year should require vendors to demonstrate production deployments at peer banks, not reference architecture decks.
+
+---
+
+### CFO Agenda, FP&A, and Transformation Signals
+
+**The Warsh silence problem for FP&A:** A Fed chair who deliberately withholds forward guidance creates a structural planning asymmetry. FP&A teams at banks that still anchor their annual NII forecasts to a single consensus rate path are now miscalibrated. The discipline shift is toward genuine scenario weighting -- hold through year-end, one hike in September, two hikes -- with explicit probability-weighted NII ranges presented to the board. This is not new in theory but is newly urgent in practice.
+
+**Post-merger finance integration as the hidden transformation driver:** Associated Banc-Corp absorbed twenty-four million dollars in nonrecurring merger costs while maintaining focus on positive operating leverage post-integration. The bank delivered the strongest June-to-June organic core customer deposit growth in five years, attributed to modernized digital banking and a successful mass affluent program. The lesson for transformation consultants: the finance function integration workload following an acquisition is the highest-urgency transformation engagement available, because it combines system consolidation, data migration, process redesign, and talent restructuring simultaneously -- and there is a hard deadline tied to the synergy clock.
+
+**New deposit vertical as finance architecture signal:** Associated Banc-Corp launched a new deposit-focused HOA and title company vertical utilizing upgraded technology to target high-quality commercial funding sources, maintaining disciplined expense posture, and management expects this new vertical to generate two hundred million to three hundred million in deposits by the end of 2027. Building a specialty funding vertical requires data infrastructure, treasury modeling capability, and pricing analytics -- all of which are finance-function capabilities, not just product decisions.
+
+---
+
+### Contrarian Insight
+
+The conventional narrative around Basel III capital neutrality is that it reduces urgency -- banks lobbied hard, got the relief, and can now slow-walk implementation. The contrarian read is the opposite: the shift from the Advanced Measurement Approach to the Standardized Approach for operational risk is operationally more disruptive than the capital number implies. The shift from AMA to the Standardized Approach transforms how operational risk teams organize their work, what data they collect, and how they report to the board. The Standardized Approach eliminates the need for model development and validation but introduces new requirements around loss data quality and Business Indicator calculation. Banks that spent years building AMA infrastructure now need to rebuild data collection and reporting logic from scratch -- on a 2027 clock. That is a data and platform modernization project disguised as a capital exercise, and the banks treating it as purely a regulatory compliance matter will be surprised by the implementation cost.
+
+---
+
+### Client Conversation Hooks
+
+1. **The Warsh press-conference playbook:** Ask your CFO client: how many scenarios does your NII model carry, and what probability weight does each carry? If the answer is still a base case plus a single stress scenario, the planning architecture is pre-Warsh and needs to be rebuilt around genuine rate-path optionality before the September meeting.
+
+2. **Basel Standardized Approach as a data project:** Use the capital-neutral framing to open the operational risk data conversation. The relief on CET1 does not reduce the implementation workload; it reduces the urgency with which management is paying attention to it. That gap between regulatory clock and management attention is exactly where transformation projects get scoped too late.
+
+3. **Post-conversion integration as the benchmark moment:** PNC's FirstBank conversion -- seven hundred eighty thousand customers, ninety-five branches, completed June twenty-two -- is now the most recent large-scale integration data point in the market. Ask peer CFOs what their conversion cost per customer was on their last integration, how long deposit attrition ran post-conversion, and whether their finance systems were ready to consolidate reporting on day one. The answers almost always reveal a gap worth scoping.]]></description>
+      <itunes:summary>I&#x27;ll run all searches simultaneously to maximize freshness and coverage across macro, banking, regulatory, and AI-in-finance angles.Excellent. I now have strong fresh material across all coverage areas. Let me synthesize carefully, avoiding all themes from prior episodes, and build both parts.
+
+---
+
+## Finance Pulse | Wednesday, July 29, 2026
+
+**Bottom line: The FOMC decision lands at two p.m. Eastern today -- the outcome is now known, but what matters most for bank CFOs is not the hold itself, it is what Warsh says and what he does not say at two-thirty. With no dot plot and a chair committed to minimal guidance, the press conference is the only rate-path signal until September, and CFOs who haven&#x27;t already stress-tested NII under a Q4 hike scenario are running out of planning runway. Simultaneously, the Basel III re-proposal comment period has closed and finalization is on a Q4 2026 clock -- a capital-neutral pivot that is reshaping RWA planning from a compliance problem into a capital allocation opportunity.**
+
+---
+
+### Top Takeaways
+
+1. Today&#x27;s FOMC hold was expected, but the real deliverable is Warsh&#x27;s two-thirty press conference: with no dot plot, statement language and any hawkish signal on September are the only inputs CFOs get until mid-September. Oil futures up roughly twenty percent in July mean headline CPI is likely to stay hot, keeping a September hike on the table.
+2. The Basel III re-proposal has pivoted from a capital-raise of nearly nineteen percent to net capital relief of approximately eighty-seven point seven billion dollars across the industry -- a structural reversal that changes how finance teams model RWA, capital buffers, and deployment capacity heading into 2027 implementation.
+3. PNC&#x27;s Q2 prints a landmark: the FirstBank system conversion completed June twenty-two, transitioning roughly seven hundred eighty thousand customers and ninety-five branches, making it the largest core-system integration event in the super-regional cohort this cycle -- and the data coming out of that close is the most operationally relevant M&amp;A integration signal in the market right now.
+4. Agentic AI has crossed from experimentation to governed deployment in banking in 2026, with revised federal model-risk guidance (SR 26-2, OCC Bulletin 2026-13) reshaping the governance conversation -- and the fact that regulators explicitly carved AI agents out of its scope is not a reprieve; it is a signal that bespoke frameworks are coming.
+5. Associated Banc-Corp&#x27;s Q2 results show a fourteen-basis-point NIM expansion to three point one seven percent driven by a deliberate loan-mix remix and acquired-portfolio repositioning -- a real-time case study in how post-merger finance teams can actively engineer margin, not just report it.
+
+---
+
+### Key Themes
+
+**Theme 1 -- NEW: The Post-FOMC Warsh Signal Vacuum and Its Direct Impact on Bank Treasury Planning**
+
+July&#x27;s meeting does not include a Summary of Economic Projections, so there is no dot plot. That means the statement language and the press conference carry the entire signal until September. It is unlikely that economists and investors will gain insights into Warsh&#x27;s economic views, given that he has vowed to share less forward guidance. For bank treasurers, this is not an abstract market condition -- it directly compresses the planning horizon for deposit pricing, securities portfolio duration decisions, and interest rate risk hedging. Oil prices have been volatile recently amid on-again, off-again fighting between the U.S. and Iran, and while crude futures are lower to start Fed week, they are up roughly twenty percent for July, which is likely to keep headline inflation readings hot in the near term. If inflation were to reignite amid escalations in the U.S.-Iran war, it could raise the probability of a rate hike later in 2026. CFOs running scenario-based NII planning must now weight a Q4 hike scenario more heavily than consensus would suggest. As of July twenty-four, CME FedWatch priced a hold at sixty-two to sixty-eight percent and a hike at thirty-two to thirty-eight percent, the highest hike probability for any meeting since the Fed stopped tightening.
+
+**Theme 2 -- EVOLVING: Basel III Re-Proposal Enters Final Stretch -- From Capital Threat to Capital Release**
+
+The July 2023 proposal sought a roughly nineteen percent capital increase for the largest U.S. banks; the March 2026 reproposal instead delivers net capital relief of about eighty-seven point seven billion dollars, with finalization expected in late 2026 and implementation in 2027. In the United States, regulators re-proposed the broader Basel endgame package in March 2026, following extensive industry pushback to the 2023 proposal. The Federal Reserve, OCC, and FDIC now project that aggregate capital in the banking system will modestly decrease under the new framework -- a dramatic pivot from the original plus-sixteen percent CET1 increase. But for operational risk managers specifically, the structural change remains significant: internal models are still gone, the Standardized Approach is still coming, and the compliance clock is ticking. For finance transformation consultants, this is the critical nuance: capital neutrality does not mean implementation neutrality. The shift from AMA to the Standardized Approach transforms how operational risk teams organize their work, what data they collect, and how they report to the board. Banks that have underspent on data infrastructure for RWA calculation will face a harder transition regardless of the capital outcome.
+
+**Theme 3 -- NEW: Agentic AI Governance Arrives -- The Regulatory Perimeter Is Being Drawn**
+
+In 2026, agentic AI in financial services moved into production, and the updates that matter most for compliance are no longer about what the technology might do but about how banks are governing what it already does. The pivotal regulatory development: on April seventeen, 2026, the Federal Reserve, OCC, and FDIC issued revised interagency model risk management guidance, designated SR 26-2 by the Federal Reserve and captured in OCC Bulletin 2026-13, which superseded the long-standing SR 11-7. Critically, according to a Wolters Kluwer survey, forty-four percent of finance teams expected to use agentic AI in 2026, a steep increase over the prior year, yet the new guidance explicitly leaves agentic AI outside its defined scope -- meaning banks deploying agents in FP&amp;A, close, or regulatory reporting are operating without a formal regulatory framework, a condition that itself creates audit and controls risk. Deploying agentic AI requires rethinking data governance, process orchestration, and system architecture, and partnering with an organization experienced in enterprise-scale AI accelerates adoption by providing domain expertise, structured frameworks, and prebuilt industry-specific agents.
+
+---
+
+### Banking Finance-Function
+
+**NIM and Deposit Costs:** Across the Q2 reporting cohort, NIM is displaying a bifurcated pattern. PNC&#x27;s NIM expanded one basis point to two point nine six percent, reflecting lower rates paid on interest-bearing deposits partially offset by a shift toward lower-spread, high-credit-quality loans. PNC CFO Reilly projected that the net interest margin will exceed three percent by the end of the year, supported by the ongoing repricing of fixed-rate assets. Associated Banc-Corp expanded its net interest margin by fourteen basis points to three point one seven percent, benefiting from a strategic remix toward commercial loans and the repositioning of the acquired securities portfolio. At the community-bank level, NBT Bancorp saw deposit costs decline one basis point to one point three three percent while reporting record net interest income of one hundred thirty-seven million dollars, up three million from Q1 2026.
+
+**Provisioning and Credit:** Independent Bank Corp reported non-performing assets of one hundred three point eight million dollars, or fifty-six basis points of total assets, with net charge-offs of just two basis points for Q2 2026. Credit quality across the reporting cohort remains benign, which means provisioning is not yet a significant earnings headwind -- but CFOs are watching CRE pipelines closely given the rate-hike optionality now priced into September.
+
+**Capital Returns:** PNC returned one point three billion dollars to shareholders in Q2, consisting of six hundred ninety million in common dividends and six hundred ten million in share repurchases, and the board approved an eighteen percent increase to the quarterly common stock dividend, raising the payout by thirty cents to two dollars per share.
+
+**System Integration:** PNC completed its FirstBank system conversion on June twenty-two, 2026, which included transitioning approximately seven hundred eighty thousand customers and ninety-five branches. This is the largest discrete integration event in the cohort this cycle and provides a real-world data point on post-conversion cost, customer attrition, and operational friction that peer CFOs should benchmark against.
+
+---
+
+### Regulatory Radar
+
+Basel III endgame: the comment period on the March 2026 re-proposal has closed and the agencies issued the reproposal on March nineteenth, 2026, advancing it on a six-to-one Fed vote, with finalization expected in Q4 2026 and implementation beginning in 2027. The capital-relief story is real, but the operational-risk data and reporting rebuild is not optional regardless. No material news on DFAST or CCAR in the last forty-eight hours -- unchanged from prior coverage. The UK Prudential Regulation Authority finalized the wider Basel three point one package for January first, 2027, and deferred the FRTB Internal Model Approach to January first, 2028, recognizing the added complexity for internationally active firms -- a data point relevant to global banks managing cross-border RWA reporting and for consultants with UK clients.
+
+SR 26-2 / OCC 2026-13: The revised model risk guidance issued April seventeen is now the active operating framework for AI model governance at banks, but its explicit exclusion of agentic AI means every bank CFO deploying finance agents needs to develop its own bespoke oversight framework -- and that gap is increasingly on supervisory radar.
+
+---
+
+### AI in Finance
+
+**Governance gap creates demand:** The SR 26-2 exclusion of agentic AI from formal model-risk scope means banks cannot simply extend SR 11-7 frameworks to cover AI agents in the close process, in FP&amp;A scenario generation, or in regulatory reporting workflows. Among agentic AI use cases, regulatory-change triage, financial-crime detection, and controls monitoring drew the most attention because each pairs high volume with a containable cost of error. This is where finance transformation budgets are concentrating -- not in generalist copilot tools, but in domain-specific agents with auditable decision trails.
+
+**Deployment economics:** The 2026 agentic AI spending market reached twelve point four billion dollars, with seventy-six percent of CFOs allocating budgets specifically for autonomous finance agent deployment rather than copilot or assistance tools. Treasury functions are using agentic AI to optimize cash positioning across bank accounts and currencies, automate payment scheduling based on real-time liquidity data, and flag anomalies in cash flows that traditional reconciliation would miss until month-end. The CFO-agenda connection is direct: for a bank treasurer managing intraday liquidity under LCR constraints and potential rate volatility, that is not a productivity play -- it is a risk management infrastructure investment.
+
+**Audit trail as compliance infrastructure:** Every action taken by an agentic AI system is logged automatically with a timestamp and the full decision rationale -- for CFOs responsible for SOX compliance and industry-specific reporting, this automated audit trail is a compliance infrastructure that manual workflows cannot replicate reliably. This framing -- AI as controls infrastructure, not just cost reduction -- is the argument that gets finance AI past a skeptical audit committee.
+
+**Vendor reality check:** Microsoft&#x27;s Copilot is being embedded in Dynamics 365 and Power BI, and CFOs are getting demos and offers of Copilot for Finance; all major enterprise finance software is expected to be sold with some AI agent components by 2026, but the challenge is distinguishing which of these promises have substance. Finance leaders buying EPM or ERP upgrades this year should require vendors to demonstrate production deployments at peer banks, not reference architecture decks.
+
+---
+
+### CFO Agenda, FP&amp;A, and Transformation Signals
+
+**The Warsh silence problem for FP&amp;A:** A Fed chair who deliberately withholds forward guidance creates a structural planning asymmetry. FP&amp;A teams at banks that still anchor their annual NII forecasts to a single consensus rate path are now miscalibrated. The discipline shift is toward genuine scenario weighting -- hold through year-end, one hike in September, two hikes -- with explicit probability-weighted NII ranges presented to the board. This is not new in theory but is newly urgent in practice.
+
+**Post-merger finance integration as the hidden transformation driver:** Associated Banc-Corp absorbed twenty-four million dollars in nonrecurring merger costs while maintaining focus on positive operating leverage post-integration. The bank delivered the strongest June-to-June organic core customer deposit growth in five years, attributed to modernized digital banking and a successful mass affluent program. The lesson for transformation consultants: the finance function integration workload following an acquisition is the highest-urgency transformation engagement available, because it combines system consolidation, data migration, process redesign, and talent restructuring simultaneously -- and there is a hard deadline tied to the synergy clock.
+
+**New deposit vertical as finance architecture signal:** Associated Banc-Corp launched a new deposit-focused HOA and title company vertical utilizing upgraded technology to target high-quality commercial funding sources, maintaining disciplined expense posture, and management expects this new vertical to generate two hundred million to three hundred million in deposits by the end of 2027. Building a specialty funding vertical requires data infrastructure, treasury modeling capability, and pricing analytics -- all of which are finance-function capabilities, not just product decisions.
+
+---
+
+### Contrarian Insight
+
+The conventional narrative around Basel III capital neutrality is that it reduces urgency -- banks lobbied hard, got the relief, and can now slow-walk implementation. The contrarian read is the opposite: the shift from the Advanced Measurement Approach to the Standardized Approach for operational risk is operationally more disruptive than the capital number implies. The shift from AMA to the Standardized Approach transforms how operational risk teams organize their work, what data they collect, and how they report to the board. The Standardized Approach eliminates the need for model development and validation but introduces new requirements around loss data quality and Business Indicator calculation. Banks that spent years building AMA infrastructure now need to rebuild data collection and reporting logic from scratch -- on a 2027 clock. That is a data and platform modernization project disguised as a capital exercise, and the banks treating it as purely a regulatory compliance matter will be surprised by the implementation cost.
+
+---
+
+### Client Conversation Hooks
+
+1. **The Warsh press-conference playbook:** Ask your CFO client: how many scenarios does your NII model carry, and what probability weight does each carry? If the answer is still a base case plus a single stress scenario, the planning architecture is pre-Warsh and needs to be rebuilt around genuine rate-path optionality before the September meeting.
+
+2. **Basel Standardized Approach as a data project:** Use the capital-neutral framing to open the operational risk data conversation. The relief on CET1 does not reduce the implementation workload; it reduces the urgency with which management is paying attention to it. That gap between regulatory clock and management attention is exactly where transformation projects get scoped too late.
+
+3. **Post-conversion integration as the benchmark moment:** PNC&#x27;s FirstBank conversion -- seven hundred eighty thousand customers, ninety-five branches, completed June twenty-two -- is now the most recent large-scale integration data point in the market. Ask peer CFOs what their conversion cost per customer was on their last integration, how long deposit attrition ran post-conversion, and whether their finance systems were ready to consolidate reporting on day one. The answers almost always reveal a gap worth scoping.</itunes:summary>
+      <pubDate>Wed, 29 Jul 2026 04:46:18 -0400</pubDate>
+      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-07-29.mp3" length="7783341" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-07-29.mp3</guid>
+      <itunes:duration>8:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Finance Pulse - Jul 28, 2026</title>
       <description><![CDATA[Now I have comprehensive data to build today's briefing. Let me synthesize all fresh material, carefully avoiding the themes and data from prior episodes, and constructing both parts.
@@ -6060,212 +6250,6 @@ The consensus is that Basel III re-proposal eases the capital burden, and super-
       <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-06-15.mp3" length="5987373" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-06-15.mp3</guid>
       <itunes:duration>6:14</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Finance Pulse - Jun 12, 2026</title>
-      <description><![CDATA[Now I have all the data I need. Let me compile the full briefing.
-
----
-
-# Finance Pulse | Friday, June 12, 2026
-
-**Bottom line: With the first Warsh-led FOMC decision five days away, banks are holding rate-sensitive NIM forecasts in suspension while a dovish-to-neutral bias shift could reprice the entire deposit cost trajectory; simultaneously the Basel III endgame comment deadline lands next Thursday, and agentic AI is crossing the line from pilot to production across the finance function.**
-
----
-
-## Top Takeaways
-
-1. The FOMC meets June 16-17, marking Kevin Warsh's first meeting as Fed Chair; the rate is widely expected to hold at three point five to three point seven five percent, but fed funds futures now price a rate hike, not a cut, as the more likely year-end outcome.
-2. Comments on the Basel III endgame re-proposals are due June 18, and the directional shift is clear: where the 2023 proposals would have significantly raised capital requirements, these new proposals would modestly reduce them for large banks and moderately reduce them for smaller banks.
-3. First-quarter earnings from PNC, KeyCorp, U.S. Bancorp, Truist, Fifth Third, and Regions show commercial lending gaining momentum, with fee-based businesses carrying more weight alongside technology investments.
-4. Fifth Third Bancorp closed its merger with Comerica to create the ninth-largest U.S. bank with approximately two hundred and ninety-four billion dollars in assets.
-5. BlackLine reported accelerating revenue growth in Q1 2026, with CEO Owen Ryan stating the company is "defining the future of the financial close with Agentic Financial Operations."
-
----
-
-## Key Themes
-
-### 1. Warsh Takes the Wheel (NEW)
-Kevin Warsh was sworn in on May 22, 2026, succeeding Jerome Powell, who stepped down as chair but remains on the Board of Governors. Warsh has long criticized forward guidance, and reporting that originated with the Financial Times indicates he may begin rolling it back as soon as the June 17 meeting, potentially dropping the dot plot's rate forecast and stripping easing or tightening bias language from the statement, making whether the dot plot appears at all one of the biggest questions heading into June 17. For bank CFOs and treasurers, the communication regime change matters as much as the rate decision itself.
-
-### 2. NIM Stabilization vs. Upside Repricing Risk (RECURRING)
-The NIM outlook for 2026 depends on whether the Fed holds rates steady or resumes cutting; given stable rates and continued deposit repricing, the general expectation is for modest further expansion or flat margins, with 2026 potentially being the first year since the rate-hike cycle where year-over-year NIM comparisons are relatively flat. However, a possible bias shift at the June FOMC from easing to neutral or tightening introduces upside rate risk, as inflation runs at four point two percent alongside a strong labor market. The banks best positioned are those whose management teams can not only manage the deposit cost curve but also actively grow fee-generating activities, as the bank that expands its fee base faster than NIMs contract will deliver the more resilient earnings story.
-
-### 3. Agentic AI Crosses the Production Threshold (EVOLVING)
-The shift toward agentic AI in banking represents a significant evolution from traditional reactive chatbots to autonomous systems capable of making real-time decisions, executing complex workflows, and continuously learning from data. According to Wolters Kluwer, forty-four percent of finance teams will use agentic AI in 2026, representing an increase of over six hundred percent. The critical distinction: production deployments are now documentable, not just announced.
-
----
-
-## Banking Finance-Function
-
-**Super-Regional Cohort Scorecard (Q1 2026 actuals):**
-
-Truist reported commercial-led loan growth, with Chairman and CEO William Rogers noting average loans held for investment rose two point three billion dollars driven by one point eight percent growth in commercial loans, even as consumer balances declined. U.S. Bancorp highlighted sustained fee-based growth tied to merchant services, small business cards, and embedded payment tools, while KeyCorp reported a twelve percent increase in priority fee-based businesses including commercial payments and investment banking. At Regions, CFO Anil Chadha told analysts approximately half of loan growth was driven by higher line utilization, with the remainder from new loan originations primarily to existing clients.
-
-**Fifth Third Integration Watch:** The merger builds upon Fifth Third's strong momentum entering 2026 following record revenue, best-in-class profitability, and efficiency, and the combined entity will now operate in seventeen of the twenty fastest-growing large U.S. markets. The combined company now has two one-billion-dollar recurring high-return fee businesses: Commercial Payments and Wealth and Asset Management.
-
-**KeyCorp Snapshot:** As of March 31, 2026, KeyCorp holds one hundred and eighty-nine billion dollars in assets, one hundred and forty-eight billion in deposits, one hundred and nine billion in loans, and approximately seventy billion dollars in assets under management across nine hundred and forty branches.
-
-**Credit Quality:** TransUnion projects credit card delinquency rates will remain virtually flat, with the ninety-plus days past due rate forecast to rise by just one basis point to two point five seven percent in 2026.
-
----
-
-## Regulatory Radar
-
-**Basel III Endgame - Comment Deadline: June 18:** On March 19, 2026, the Federal Reserve, OCC, and FDIC issued three proposals to comprehensively overhaul the existing U.S. bank capital framework, representing a dramatic pivot from the controversial 2023 proposals. The new framework is estimated to provide eighty-seven point seven billion dollars in system-wide CET1 relief, with CET1 reductions of approximately four point eight percent for GSIBs, five point two percent for large regional banks, and seven point eight percent for smaller banking organizations.
-
-**Critical Regional Bank Provision:** Category III and IV banks (generally those with one hundred billion to seven hundred billion dollars in assets) would be required to include accumulated other comprehensive income (AOCI) in regulatory capital, directly responding to lessons from the 2023 regional banking stress when unrealized losses contributed to SVB and Signature Bank failures, with a five-year phase-in period proposed.
-
-**Final Rule Timeline:** All three proposals share the June 18, 2026 comment deadline, and previous statements from regulators have led the industry to expect a final rule by late 2026 with potential implementation in 2027.
-
-**FOMC June 17 Pre-Meeting Context:** FOMC minutes from the April 28-29 meeting confirmed that inflation remained elevated and had moved higher, led by a sharp increase in energy prices, while labor market conditions had stabilized and real GDP continued to expand. A majority of Fed officials highlighted that some policy firming would likely become appropriate if inflation were to continue to run persistently above two percent.
-
----
-
-## AI in Finance
-
-**Agentic AI: Real Deployments vs. Vendor Marketing**
-
-*Real deployment - FIS + Anthropic:* FIS announced on May 4, 2026, that it is working with Anthropic to bring agentic AI to banking beginning with a Financial Crimes AI Agent that will compress anti-money-laundering investigations from hours to minutes; BMO and Amalgamated Bank will be among the first institutions to deploy the agent, with broader availability planned for the second half of 2026.
-
-*Vendor claims requiring scrutiny:* Ninety-nine percent of companies plan to put agents into production but only eleven percent have done so due to implementation challenges related to data. That gap is the hype-to-reality spread that transformation consultants must help clients navigate.
-
-**BlackLine (Financial Close):** BlackLine is positioning "Agentic Financial Operations" as turning its vision for trusted, auditable AI into commercial reality, with growing adoption of its Verity AI capabilities and Studio360 demonstrating that CFOs view the platform as the essential governance layer for the AI era.
-
-**Platform Landscape:** OneStream leads the market with Sensible AI embedded directly in its unified platform, while Anaplan, BlackLine, and Workday Adaptive Planning offer strong capabilities in specific areas such as planning or financial close. The most effective AI finance solutions are not isolated tools; platforms that unify financial close, planning, and reporting provide the strongest foundation for scalable AI adoption across the finance organization.
-
-**Workforce Signal:** A clear gap is emerging between market leaders, the chasing pack, and the laggards, with visionaries now anticipating the rise of the "ten-times bank" where a single individual leads a team of AI co-workers to deliver exponentially greater output, with growth no longer constrained by headcount but by the organization's ability to reinvent work.
-
-**Governance:** Banks must be cautious as agentic AI's continuous learning demands massive data storage and strict compliance with complex regulatory and ethical requirements, and as with large-scale use of generative AI, this poses significant risks if not properly governed.
-
----
-
-## CFO Agenda, FP&A, and Transformation Signals
-
-- **Scenario modeling is urgent:** A potentially significant development at the June 17 FOMC could be a shift in the Fed's bias from an inclination toward easing to a neutral stance or even toward tightening, which might have a notable impact on financial markets. Every bank's NIM sensitivity model needs a rate-hike scenario refreshed before Wednesday.
-- **AOCI volatility modeling:** The proposed five-year AOCI phase-in for Category III/IV banks is a material finance transformation trigger. Controllers and treasurers at Truist, U.S. Bancorp, Citizens, and Regions need to begin modeling the capital volatility implications now, ahead of the final rule.
-- **Integration finance workload:** The combination of Fifth Third's retail banking and digital capabilities with Comerica's middle market franchise creates significant finance function integration work across systems, reporting, and controls.
-- **FP&A platform ROI:** Organizations deploying reconciliation and close automation software reduce close time by thirty to fifty percent within the first year, with best-in-class teams achieving continuous close capabilities. That is the benchmark to anchor client conversations on transformation ROI.
-
----
-
-## Contrarian Insight
-
-The consensus view is that Basel III endgame capital relief is an unalloyed positive for the super-regional cohort. But the AOCI inclusion requirement for Category III and IV banks is a two-sided sword: it may force Truist, U.S. Bancorp, and Citizens to hold higher capital buffers during bond market sell-offs, precisely the condition that a Warsh-led Fed with a tightening bias and elevated energy-driven inflation could produce. The five-year phase-in buys time, but finance teams that treat the re-proposal purely as "capital relief" may be under-modeling duration risk in their securities portfolios.
-
----
-
-## Client Conversation Hooks
-
-1. **"How are you modeling the June 17 FOMC bias shift in your NIM and liquidity scenarios?"** - The Warsh forward-guidance rollback could eliminate the dot plot, removing a key planning anchor; does the client's treasury and FP&A team have a range of rate-path scenarios live and updated?
-
-2. **"Where does your Category III or IV bank stand on AOCI impact modeling for the Basel III endgame final rule?"** - With the comment deadline on June 18 and finalization expected by year-end 2026, the window to influence and prepare is narrowing fast; the AOCI inclusion requirement is a direct finance transformation trigger for capital reporting and forecasting.
-
-3. **"How do you distinguish a real agentic AI deployment from a vendor roadmap promise?"** - With only eleven percent of companies that intend to deploy AI agents actually having done so, the question for every CFO is whether their vendor's "agentic AI" is in production today or still a slide in a pitch deck, and what governance framework is in place when it does go live.]]></description>
-      <itunes:summary>Now I have all the data I need. Let me compile the full briefing.
-
----
-
-# Finance Pulse | Friday, June 12, 2026
-
-**Bottom line: With the first Warsh-led FOMC decision five days away, banks are holding rate-sensitive NIM forecasts in suspension while a dovish-to-neutral bias shift could reprice the entire deposit cost trajectory; simultaneously the Basel III endgame comment deadline lands next Thursday, and agentic AI is crossing the line from pilot to production across the finance function.**
-
----
-
-## Top Takeaways
-
-1. The FOMC meets June 16-17, marking Kevin Warsh&#x27;s first meeting as Fed Chair; the rate is widely expected to hold at three point five to three point seven five percent, but fed funds futures now price a rate hike, not a cut, as the more likely year-end outcome.
-2. Comments on the Basel III endgame re-proposals are due June 18, and the directional shift is clear: where the 2023 proposals would have significantly raised capital requirements, these new proposals would modestly reduce them for large banks and moderately reduce them for smaller banks.
-3. First-quarter earnings from PNC, KeyCorp, U.S. Bancorp, Truist, Fifth Third, and Regions show commercial lending gaining momentum, with fee-based businesses carrying more weight alongside technology investments.
-4. Fifth Third Bancorp closed its merger with Comerica to create the ninth-largest U.S. bank with approximately two hundred and ninety-four billion dollars in assets.
-5. BlackLine reported accelerating revenue growth in Q1 2026, with CEO Owen Ryan stating the company is &quot;defining the future of the financial close with Agentic Financial Operations.&quot;
-
----
-
-## Key Themes
-
-### 1. Warsh Takes the Wheel (NEW)
-Kevin Warsh was sworn in on May 22, 2026, succeeding Jerome Powell, who stepped down as chair but remains on the Board of Governors. Warsh has long criticized forward guidance, and reporting that originated with the Financial Times indicates he may begin rolling it back as soon as the June 17 meeting, potentially dropping the dot plot&#x27;s rate forecast and stripping easing or tightening bias language from the statement, making whether the dot plot appears at all one of the biggest questions heading into June 17. For bank CFOs and treasurers, the communication regime change matters as much as the rate decision itself.
-
-### 2. NIM Stabilization vs. Upside Repricing Risk (RECURRING)
-The NIM outlook for 2026 depends on whether the Fed holds rates steady or resumes cutting; given stable rates and continued deposit repricing, the general expectation is for modest further expansion or flat margins, with 2026 potentially being the first year since the rate-hike cycle where year-over-year NIM comparisons are relatively flat. However, a possible bias shift at the June FOMC from easing to neutral or tightening introduces upside rate risk, as inflation runs at four point two percent alongside a strong labor market. The banks best positioned are those whose management teams can not only manage the deposit cost curve but also actively grow fee-generating activities, as the bank that expands its fee base faster than NIMs contract will deliver the more resilient earnings story.
-
-### 3. Agentic AI Crosses the Production Threshold (EVOLVING)
-The shift toward agentic AI in banking represents a significant evolution from traditional reactive chatbots to autonomous systems capable of making real-time decisions, executing complex workflows, and continuously learning from data. According to Wolters Kluwer, forty-four percent of finance teams will use agentic AI in 2026, representing an increase of over six hundred percent. The critical distinction: production deployments are now documentable, not just announced.
-
----
-
-## Banking Finance-Function
-
-**Super-Regional Cohort Scorecard (Q1 2026 actuals):**
-
-Truist reported commercial-led loan growth, with Chairman and CEO William Rogers noting average loans held for investment rose two point three billion dollars driven by one point eight percent growth in commercial loans, even as consumer balances declined. U.S. Bancorp highlighted sustained fee-based growth tied to merchant services, small business cards, and embedded payment tools, while KeyCorp reported a twelve percent increase in priority fee-based businesses including commercial payments and investment banking. At Regions, CFO Anil Chadha told analysts approximately half of loan growth was driven by higher line utilization, with the remainder from new loan originations primarily to existing clients.
-
-**Fifth Third Integration Watch:** The merger builds upon Fifth Third&#x27;s strong momentum entering 2026 following record revenue, best-in-class profitability, and efficiency, and the combined entity will now operate in seventeen of the twenty fastest-growing large U.S. markets. The combined company now has two one-billion-dollar recurring high-return fee businesses: Commercial Payments and Wealth and Asset Management.
-
-**KeyCorp Snapshot:** As of March 31, 2026, KeyCorp holds one hundred and eighty-nine billion dollars in assets, one hundred and forty-eight billion in deposits, one hundred and nine billion in loans, and approximately seventy billion dollars in assets under management across nine hundred and forty branches.
-
-**Credit Quality:** TransUnion projects credit card delinquency rates will remain virtually flat, with the ninety-plus days past due rate forecast to rise by just one basis point to two point five seven percent in 2026.
-
----
-
-## Regulatory Radar
-
-**Basel III Endgame - Comment Deadline: June 18:** On March 19, 2026, the Federal Reserve, OCC, and FDIC issued three proposals to comprehensively overhaul the existing U.S. bank capital framework, representing a dramatic pivot from the controversial 2023 proposals. The new framework is estimated to provide eighty-seven point seven billion dollars in system-wide CET1 relief, with CET1 reductions of approximately four point eight percent for GSIBs, five point two percent for large regional banks, and seven point eight percent for smaller banking organizations.
-
-**Critical Regional Bank Provision:** Category III and IV banks (generally those with one hundred billion to seven hundred billion dollars in assets) would be required to include accumulated other comprehensive income (AOCI) in regulatory capital, directly responding to lessons from the 2023 regional banking stress when unrealized losses contributed to SVB and Signature Bank failures, with a five-year phase-in period proposed.
-
-**Final Rule Timeline:** All three proposals share the June 18, 2026 comment deadline, and previous statements from regulators have led the industry to expect a final rule by late 2026 with potential implementation in 2027.
-
-**FOMC June 17 Pre-Meeting Context:** FOMC minutes from the April 28-29 meeting confirmed that inflation remained elevated and had moved higher, led by a sharp increase in energy prices, while labor market conditions had stabilized and real GDP continued to expand. A majority of Fed officials highlighted that some policy firming would likely become appropriate if inflation were to continue to run persistently above two percent.
-
----
-
-## AI in Finance
-
-**Agentic AI: Real Deployments vs. Vendor Marketing**
-
-*Real deployment - FIS + Anthropic:* FIS announced on May 4, 2026, that it is working with Anthropic to bring agentic AI to banking beginning with a Financial Crimes AI Agent that will compress anti-money-laundering investigations from hours to minutes; BMO and Amalgamated Bank will be among the first institutions to deploy the agent, with broader availability planned for the second half of 2026.
-
-*Vendor claims requiring scrutiny:* Ninety-nine percent of companies plan to put agents into production but only eleven percent have done so due to implementation challenges related to data. That gap is the hype-to-reality spread that transformation consultants must help clients navigate.
-
-**BlackLine (Financial Close):** BlackLine is positioning &quot;Agentic Financial Operations&quot; as turning its vision for trusted, auditable AI into commercial reality, with growing adoption of its Verity AI capabilities and Studio360 demonstrating that CFOs view the platform as the essential governance layer for the AI era.
-
-**Platform Landscape:** OneStream leads the market with Sensible AI embedded directly in its unified platform, while Anaplan, BlackLine, and Workday Adaptive Planning offer strong capabilities in specific areas such as planning or financial close. The most effective AI finance solutions are not isolated tools; platforms that unify financial close, planning, and reporting provide the strongest foundation for scalable AI adoption across the finance organization.
-
-**Workforce Signal:** A clear gap is emerging between market leaders, the chasing pack, and the laggards, with visionaries now anticipating the rise of the &quot;ten-times bank&quot; where a single individual leads a team of AI co-workers to deliver exponentially greater output, with growth no longer constrained by headcount but by the organization&#x27;s ability to reinvent work.
-
-**Governance:** Banks must be cautious as agentic AI&#x27;s continuous learning demands massive data storage and strict compliance with complex regulatory and ethical requirements, and as with large-scale use of generative AI, this poses significant risks if not properly governed.
-
----
-
-## CFO Agenda, FP&amp;A, and Transformation Signals
-
-- **Scenario modeling is urgent:** A potentially significant development at the June 17 FOMC could be a shift in the Fed&#x27;s bias from an inclination toward easing to a neutral stance or even toward tightening, which might have a notable impact on financial markets. Every bank&#x27;s NIM sensitivity model needs a rate-hike scenario refreshed before Wednesday.
-- **AOCI volatility modeling:** The proposed five-year AOCI phase-in for Category III/IV banks is a material finance transformation trigger. Controllers and treasurers at Truist, U.S. Bancorp, Citizens, and Regions need to begin modeling the capital volatility implications now, ahead of the final rule.
-- **Integration finance workload:** The combination of Fifth Third&#x27;s retail banking and digital capabilities with Comerica&#x27;s middle market franchise creates significant finance function integration work across systems, reporting, and controls.
-- **FP&amp;A platform ROI:** Organizations deploying reconciliation and close automation software reduce close time by thirty to fifty percent within the first year, with best-in-class teams achieving continuous close capabilities. That is the benchmark to anchor client conversations on transformation ROI.
-
----
-
-## Contrarian Insight
-
-The consensus view is that Basel III endgame capital relief is an unalloyed positive for the super-regional cohort. But the AOCI inclusion requirement for Category III and IV banks is a two-sided sword: it may force Truist, U.S. Bancorp, and Citizens to hold higher capital buffers during bond market sell-offs, precisely the condition that a Warsh-led Fed with a tightening bias and elevated energy-driven inflation could produce. The five-year phase-in buys time, but finance teams that treat the re-proposal purely as &quot;capital relief&quot; may be under-modeling duration risk in their securities portfolios.
-
----
-
-## Client Conversation Hooks
-
-1. **&quot;How are you modeling the June 17 FOMC bias shift in your NIM and liquidity scenarios?&quot;** - The Warsh forward-guidance rollback could eliminate the dot plot, removing a key planning anchor; does the client&#x27;s treasury and FP&amp;A team have a range of rate-path scenarios live and updated?
-
-2. **&quot;Where does your Category III or IV bank stand on AOCI impact modeling for the Basel III endgame final rule?&quot;** - With the comment deadline on June 18 and finalization expected by year-end 2026, the window to influence and prepare is narrowing fast; the AOCI inclusion requirement is a direct finance transformation trigger for capital reporting and forecasting.
-
-3. **&quot;How do you distinguish a real agentic AI deployment from a vendor roadmap promise?&quot;** - With only eleven percent of companies that intend to deploy AI agents actually having done so, the question for every CFO is whether their vendor&#x27;s &quot;agentic AI&quot; is in production today or still a slide in a pitch deck, and what governance framework is in place when it does go live.</itunes:summary>
-      <pubDate>Fri, 12 Jun 2026 13:42:30 -0400</pubDate>
-      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-06-12.mp3" length="6847533" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-06-12.mp3</guid>
-      <itunes:duration>7:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

@@ -15,7 +15,201 @@
       <itunes:email>shawn.mascia@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://shawnmascia.github.io/Finance-Pulse/cover.jpg"/>
-    <lastBuildDate>Mon, 09 Nov 2026 09:49:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:52:52 +0000</lastBuildDate>
+    <item>
+      <title>Finance Pulse - Nov 10, 2026</title>
+      <description><![CDATA[I now have strong sourced material across all required domains. Let me compile both outputs, making sure everything genuinely new for November 10 is foregrounded, with no recycled themes from prior episodes.
+
+---
+
+## Finance Pulse | Tuesday, November 10, 2026
+
+**Bottom line: The October CPI print lands this morning as the final inflation data point before the December ninth Fed decision, and with no year-over-year comparison available, the month-over-month read is the only honest signal the market has; December hike odds have climbed to eighty-four percent on CME FedWatch, the highest of this tightening cycle, introducing a new and underappreciated scenario where the Fed hikes twice more into 2027 rather than stopping in December -- a possibility that rewrites bank CFO planning assumptions on funding costs, deposit beta, and NIM trajectory for the full year ahead.**
+
+---
+
+### Top Takeaways
+
+1. CME FedWatch printed an eighty-four point four percent December hike probability this morning, up from seventy-seven percent just four days ago, with UBS now projecting a second hike in March 2027. The "one and done" framing that dominated last week's planning conversations is now a minority view.
+
+2. The October CPI is released today at eight-thirty Eastern. Street consensus is zero point three percent month-over-month headline and zero point two percent core. A hot print above zero point three percent effectively seals December; a print of zero point one percent core or below, per Bank of America's analysis, is the only scenario that meaningfully shifts expectations toward a pause.
+
+3. Capgemini data published November fifth shows roughly half of financial services firms cannot consistently demonstrate ROI on their agentic AI initiatives and only five percent have achieved enterprise-wide orchestration -- the first credible quantitative reality check on agentic AI hype that finance transformation buyers at banks should be anchoring.
+
+4. The Basel III Endgame re-proposal, with its comment period closed on June eighteenth, remains pending a final rule, but its structure has materially shifted: Category I and II banks face a projected one point six percent capital increase, far below the nine percent increase contemplated in the 2023 original.
+
+5. A new DataTrek analysis argues that Wall Street's equity volatility is doing some of the Fed's tightening work for it, reducing the probability of additional hikes beyond December -- a nuanced point that matters for bank treasury teams modeling asset sensitivity and deposit repricing timelines.
+
+---
+
+### Key Themes
+
+**Theme 1 (New): The "one and done" December hike assumption is breaking down.** Markets now price an eighty-four percent probability of a December hike and a meaningful probability of a March 2027 follow-through. This is a qualitatively new rate-path framing not present in any prior episode and is the dominant CFO planning variable today.
+
+**Theme 2 (Evolving): Agentic AI hits the ROI wall.** The Capgemini report is the first sector-specific, quantified reality check on agentic finance deployments: half of firms cannot demonstrate return and only five percent have scaled to enterprise level. This shifts the client conversation from "are you piloting?" to "can you prove value?"
+
+**Theme 3 (New): AI infrastructure spending as an inflation input.** Richmond Fed President Barkin flagged on November ninth that the massive wave of AI infrastructure spending is actively adding to near-term inflation by driving robust demand -- a linkage between the technology transformation agenda and the macro rate environment that has not appeared in any prior episode.
+
+---
+
+### Banking Finance-Function
+
+The October jobs print of one hundred sixty-five thousand, against a consensus of sixty-five thousand, combined with today's CPI release, is now the dominant input to Q4 bank NIM planning. Banks that guided to static or modest NIM expansion assuming no December hike will need to revisit those assumptions. BankUnited's management guided Q4 2026 NIM to approximately three point two percent and net interest income to two hundred sixty-five million, explicitly assuming a December rate hike. That guidance now looks like the base case across asset-sensitive banks in the super-regional cohort.
+
+Management noted the expected Q4 margin expansion is primarily tied to asset sensitivity, with loan yields expected to reprice faster than deposit costs, though BankUnited aims to keep its static balance sheet close to rate-neutral rather than make a directional rate bet. That posture -- asset-sensitive but not aggressively positioned -- captures where most super-regionals currently sit.
+
+The new wrinkle for CFOs is the March 2027 hike scenario. UBS Wealth Management projected a continued, measured tightening cycle, starting with a twenty-five basis point hike in December followed by another twenty-five basis point hike in March 2027. If that materializes, deposit beta assumptions embedded in 2027 budget models constructed in October become stale almost immediately.
+
+DataTrek co-founder Nicholas Colas argues that equity market volatility is doing heavy lifting for the Fed and may remove the need for subsequent hikes next year, with futures seeing the market action as reducing the central bank's need to intervene. After the expected December hike, markets forecast the Fed will stay the course through at least the first quarter of 2027, with chances of the next increase not considered likely until April. Overall odds of a more hawkish rate policy have diminished, with odds for no or one hike in 2027 at sixty-eight percent, up from fifty-seven percent a week prior. This creates a genuine fork in bank NIM planning: asset-liability committees must model both a March follow-through and a prolonged pause simultaneously.
+
+---
+
+### Regulatory Radar
+
+The US Basel III Endgame saw its biggest turn in 2026: the original 2023 proposal was effectively scrapped and replaced with something far less aggressive. The 2026 framework introduced the Expanded Risk-Based Approach, removing the requirement for the largest banks to calculate capital under two parallel methodologies simultaneously.
+
+The public comment period closed on June eighteenth, 2026, and no specific effective date has yet been set for the final rule. Status: unchanged from last week. What is new is the article analysis published by Holland and Knight this month in the Journal of Federal Agency Action, which notes the 2026 proposals formally rescind the 2023 framework and notably bring activities such as mortgage origination and servicing back within the agencies' regulatory perimeter.
+
+For Category I and II banks, the Basel III Endgame re-proposal is projected to require banks to hold one point six percent more capital, far less than the 2023 proposal, which would have increased required capital by nine percent for Category I through IV banks.
+
+Also from the November sixth BBVA Research financial regulation weekly: the OCC issued a supervisory framework on bank use of Super Intelligence, and separately, the BCBS is consulting on consequential amendments to the Basel Framework, with a comment deadline of December twenty-first, 2026. Finance transformation leaders should track the December twenty-first BCBS comment deadline, as it may shape the final rule timeline.
+
+---
+
+### AI in Finance
+
+The most consequential development this week is not a vendor announcement -- it is the Capgemini data quantifying the agentic AI value gap. Financial institutions are moving beyond isolated agentic AI experiments to multi-agent AI across core banking and insurance workflows, but the pressure to prove value is intensifying. Roughly half of financial services firms cannot consistently demonstrate a return on their agentic AI initiatives and lack clear frameworks for assessing whether those initiatives deliver sufficient value to justify continued investment. Only five percent of those surveyed have already institutionalized the capabilities required to operate agentic AI at enterprise scale.
+
+The buying signal embedded in this data: firms are converging on a hybrid sourcing model for agentic AI capabilities that balances building capabilities in-house for differentiation, buying packaged agentic solutions to accelerate deployment at scale, and working with partners for ecosystem depth. For finance transformation vendors -- OneStream, Oracle, Workday, BlackLine -- the implication is that packaged agentic capabilities with demonstrable ROI metrics are becoming a purchasing prerequisite, not a differentiator.
+
+A separate PYMNTS Intelligence report adds granularity to where CFOs draw the line on AI autonomy: fifty-two percent of CFOs would use autonomous AI to recommend changes to liquidity or payment timing, but fewer than one in three would allow AI to reallocate budgets. Close to seven percent of enterprise CFOs had deployed agentic AI in finance workflows and five percent were running pilots as of September 2025. Deployment rates remain low; the advice-versus-action distinction is where bank governance frameworks are being drawn.
+
+The macro-AI linkage flagged by Barkin is new terrain: the Richmond Fed president said in prepared remarks on November ninth that the massive wave of AI infrastructure spending is actively adding to near-term inflation by driving robust demand. For bank CFOs building capital expenditure assumptions and long-range plans, this means AI investment is not just a cost-efficiency story but a macro feedback loop they must model explicitly.
+
+---
+
+### CFO Agenda, FP&A, and Transformation Signals
+
+The rate-path fork described above is the most immediate FP&A demand driver. Banks whose 2027 planning cycles assumed a single December hike and then a prolonged pause must now run a parallel scenario with a March 2027 follow-through. That is not a small revision: it changes deposit cost curves, loan repricing assumptions, funding mix targets, and the efficiency ratio trajectory simultaneously.
+
+The Capgemini ROI finding creates a new buying filter. Finance transformation clients asking about agentic AI investments should now be asked: does the vendor provide a pre-built ROI measurement framework, or are you building governance and measurement from scratch? The five percent who have scaled agentic AI did so with structured frameworks, not exploratory pilots.
+
+KPMG's webcast series from March 2026, "The Agentic Close: From Month-End Sprint to Always-Ready Finance," highlighted how coordinated AI agents can orchestrate an end-to-end financial close process. This is now a live purchasing conversation, not a theoretical one, as banks look to compress close cycles while managing flat-to-declining finance headcount against rising workloads from regulatory reporting demands.
+
+---
+
+### Contrarian Insight
+
+The consensus framing treats today's CPI as a binary December-hike trigger. The more interesting signal is in what happens to market pricing if core comes in at zero point two percent exactly -- consensus -- with no surprise either way. In that scenario, the eighty-four percent December hike odds stay locked in, the market's attention shifts entirely to the March 2027 question, and bank CFOs who front-ran deposit repricing in Q3 on the assumption of a December-then-pause cycle face an uncomfortable realization: they may have locked in funding costs and balance sheet positioning for a tightening cycle that is not finished. The risk is not a hot print; it is a benign print that leaves every planning assumption intact but quietly extends the duration of the problem.
+
+---
+
+### Client Conversation Hooks
+
+1. **The March 2027 scenario:** "Your 2027 budget was built assuming December is the last hike. UBS and the Mortgage Bankers Association both see a March follow-through. What does your NIM model look like if deposit costs keep climbing into Q2 2027, and how quickly can your FP&A infrastructure re-run that scenario?"
+
+2. **The agentic AI ROI gap:** "Capgemini just published that half of financial services firms can't demonstrate ROI on agentic AI and only five percent have scaled to enterprise level. Before your next vendor conversation, do you have a measurement framework that would put you in that five percent, or are you in the fifty percent flying blind?"
+
+3. **AI infrastructure as an inflation input:** "Richmond Fed President Barkin is now connecting AI capital spending to near-term inflation pressures. If the Fed is partly hiking because of tech investment demand, your AI transformation budget and your rate environment are no longer independent variables. How are you modeling that in your long-range plan?"]]></description>
+      <itunes:summary>I now have strong sourced material across all required domains. Let me compile both outputs, making sure everything genuinely new for November 10 is foregrounded, with no recycled themes from prior episodes.
+
+---
+
+## Finance Pulse | Tuesday, November 10, 2026
+
+**Bottom line: The October CPI print lands this morning as the final inflation data point before the December ninth Fed decision, and with no year-over-year comparison available, the month-over-month read is the only honest signal the market has; December hike odds have climbed to eighty-four percent on CME FedWatch, the highest of this tightening cycle, introducing a new and underappreciated scenario where the Fed hikes twice more into 2027 rather than stopping in December -- a possibility that rewrites bank CFO planning assumptions on funding costs, deposit beta, and NIM trajectory for the full year ahead.**
+
+---
+
+### Top Takeaways
+
+1. CME FedWatch printed an eighty-four point four percent December hike probability this morning, up from seventy-seven percent just four days ago, with UBS now projecting a second hike in March 2027. The &quot;one and done&quot; framing that dominated last week&#x27;s planning conversations is now a minority view.
+
+2. The October CPI is released today at eight-thirty Eastern. Street consensus is zero point three percent month-over-month headline and zero point two percent core. A hot print above zero point three percent effectively seals December; a print of zero point one percent core or below, per Bank of America&#x27;s analysis, is the only scenario that meaningfully shifts expectations toward a pause.
+
+3. Capgemini data published November fifth shows roughly half of financial services firms cannot consistently demonstrate ROI on their agentic AI initiatives and only five percent have achieved enterprise-wide orchestration -- the first credible quantitative reality check on agentic AI hype that finance transformation buyers at banks should be anchoring.
+
+4. The Basel III Endgame re-proposal, with its comment period closed on June eighteenth, remains pending a final rule, but its structure has materially shifted: Category I and II banks face a projected one point six percent capital increase, far below the nine percent increase contemplated in the 2023 original.
+
+5. A new DataTrek analysis argues that Wall Street&#x27;s equity volatility is doing some of the Fed&#x27;s tightening work for it, reducing the probability of additional hikes beyond December -- a nuanced point that matters for bank treasury teams modeling asset sensitivity and deposit repricing timelines.
+
+---
+
+### Key Themes
+
+**Theme 1 (New): The &quot;one and done&quot; December hike assumption is breaking down.** Markets now price an eighty-four percent probability of a December hike and a meaningful probability of a March 2027 follow-through. This is a qualitatively new rate-path framing not present in any prior episode and is the dominant CFO planning variable today.
+
+**Theme 2 (Evolving): Agentic AI hits the ROI wall.** The Capgemini report is the first sector-specific, quantified reality check on agentic finance deployments: half of firms cannot demonstrate return and only five percent have scaled to enterprise level. This shifts the client conversation from &quot;are you piloting?&quot; to &quot;can you prove value?&quot;
+
+**Theme 3 (New): AI infrastructure spending as an inflation input.** Richmond Fed President Barkin flagged on November ninth that the massive wave of AI infrastructure spending is actively adding to near-term inflation by driving robust demand -- a linkage between the technology transformation agenda and the macro rate environment that has not appeared in any prior episode.
+
+---
+
+### Banking Finance-Function
+
+The October jobs print of one hundred sixty-five thousand, against a consensus of sixty-five thousand, combined with today&#x27;s CPI release, is now the dominant input to Q4 bank NIM planning. Banks that guided to static or modest NIM expansion assuming no December hike will need to revisit those assumptions. BankUnited&#x27;s management guided Q4 2026 NIM to approximately three point two percent and net interest income to two hundred sixty-five million, explicitly assuming a December rate hike. That guidance now looks like the base case across asset-sensitive banks in the super-regional cohort.
+
+Management noted the expected Q4 margin expansion is primarily tied to asset sensitivity, with loan yields expected to reprice faster than deposit costs, though BankUnited aims to keep its static balance sheet close to rate-neutral rather than make a directional rate bet. That posture -- asset-sensitive but not aggressively positioned -- captures where most super-regionals currently sit.
+
+The new wrinkle for CFOs is the March 2027 hike scenario. UBS Wealth Management projected a continued, measured tightening cycle, starting with a twenty-five basis point hike in December followed by another twenty-five basis point hike in March 2027. If that materializes, deposit beta assumptions embedded in 2027 budget models constructed in October become stale almost immediately.
+
+DataTrek co-founder Nicholas Colas argues that equity market volatility is doing heavy lifting for the Fed and may remove the need for subsequent hikes next year, with futures seeing the market action as reducing the central bank&#x27;s need to intervene. After the expected December hike, markets forecast the Fed will stay the course through at least the first quarter of 2027, with chances of the next increase not considered likely until April. Overall odds of a more hawkish rate policy have diminished, with odds for no or one hike in 2027 at sixty-eight percent, up from fifty-seven percent a week prior. This creates a genuine fork in bank NIM planning: asset-liability committees must model both a March follow-through and a prolonged pause simultaneously.
+
+---
+
+### Regulatory Radar
+
+The US Basel III Endgame saw its biggest turn in 2026: the original 2023 proposal was effectively scrapped and replaced with something far less aggressive. The 2026 framework introduced the Expanded Risk-Based Approach, removing the requirement for the largest banks to calculate capital under two parallel methodologies simultaneously.
+
+The public comment period closed on June eighteenth, 2026, and no specific effective date has yet been set for the final rule. Status: unchanged from last week. What is new is the article analysis published by Holland and Knight this month in the Journal of Federal Agency Action, which notes the 2026 proposals formally rescind the 2023 framework and notably bring activities such as mortgage origination and servicing back within the agencies&#x27; regulatory perimeter.
+
+For Category I and II banks, the Basel III Endgame re-proposal is projected to require banks to hold one point six percent more capital, far less than the 2023 proposal, which would have increased required capital by nine percent for Category I through IV banks.
+
+Also from the November sixth BBVA Research financial regulation weekly: the OCC issued a supervisory framework on bank use of Super Intelligence, and separately, the BCBS is consulting on consequential amendments to the Basel Framework, with a comment deadline of December twenty-first, 2026. Finance transformation leaders should track the December twenty-first BCBS comment deadline, as it may shape the final rule timeline.
+
+---
+
+### AI in Finance
+
+The most consequential development this week is not a vendor announcement -- it is the Capgemini data quantifying the agentic AI value gap. Financial institutions are moving beyond isolated agentic AI experiments to multi-agent AI across core banking and insurance workflows, but the pressure to prove value is intensifying. Roughly half of financial services firms cannot consistently demonstrate a return on their agentic AI initiatives and lack clear frameworks for assessing whether those initiatives deliver sufficient value to justify continued investment. Only five percent of those surveyed have already institutionalized the capabilities required to operate agentic AI at enterprise scale.
+
+The buying signal embedded in this data: firms are converging on a hybrid sourcing model for agentic AI capabilities that balances building capabilities in-house for differentiation, buying packaged agentic solutions to accelerate deployment at scale, and working with partners for ecosystem depth. For finance transformation vendors -- OneStream, Oracle, Workday, BlackLine -- the implication is that packaged agentic capabilities with demonstrable ROI metrics are becoming a purchasing prerequisite, not a differentiator.
+
+A separate PYMNTS Intelligence report adds granularity to where CFOs draw the line on AI autonomy: fifty-two percent of CFOs would use autonomous AI to recommend changes to liquidity or payment timing, but fewer than one in three would allow AI to reallocate budgets. Close to seven percent of enterprise CFOs had deployed agentic AI in finance workflows and five percent were running pilots as of September 2025. Deployment rates remain low; the advice-versus-action distinction is where bank governance frameworks are being drawn.
+
+The macro-AI linkage flagged by Barkin is new terrain: the Richmond Fed president said in prepared remarks on November ninth that the massive wave of AI infrastructure spending is actively adding to near-term inflation by driving robust demand. For bank CFOs building capital expenditure assumptions and long-range plans, this means AI investment is not just a cost-efficiency story but a macro feedback loop they must model explicitly.
+
+---
+
+### CFO Agenda, FP&amp;A, and Transformation Signals
+
+The rate-path fork described above is the most immediate FP&amp;A demand driver. Banks whose 2027 planning cycles assumed a single December hike and then a prolonged pause must now run a parallel scenario with a March 2027 follow-through. That is not a small revision: it changes deposit cost curves, loan repricing assumptions, funding mix targets, and the efficiency ratio trajectory simultaneously.
+
+The Capgemini ROI finding creates a new buying filter. Finance transformation clients asking about agentic AI investments should now be asked: does the vendor provide a pre-built ROI measurement framework, or are you building governance and measurement from scratch? The five percent who have scaled agentic AI did so with structured frameworks, not exploratory pilots.
+
+KPMG&#x27;s webcast series from March 2026, &quot;The Agentic Close: From Month-End Sprint to Always-Ready Finance,&quot; highlighted how coordinated AI agents can orchestrate an end-to-end financial close process. This is now a live purchasing conversation, not a theoretical one, as banks look to compress close cycles while managing flat-to-declining finance headcount against rising workloads from regulatory reporting demands.
+
+---
+
+### Contrarian Insight
+
+The consensus framing treats today&#x27;s CPI as a binary December-hike trigger. The more interesting signal is in what happens to market pricing if core comes in at zero point two percent exactly -- consensus -- with no surprise either way. In that scenario, the eighty-four percent December hike odds stay locked in, the market&#x27;s attention shifts entirely to the March 2027 question, and bank CFOs who front-ran deposit repricing in Q3 on the assumption of a December-then-pause cycle face an uncomfortable realization: they may have locked in funding costs and balance sheet positioning for a tightening cycle that is not finished. The risk is not a hot print; it is a benign print that leaves every planning assumption intact but quietly extends the duration of the problem.
+
+---
+
+### Client Conversation Hooks
+
+1. **The March 2027 scenario:** &quot;Your 2027 budget was built assuming December is the last hike. UBS and the Mortgage Bankers Association both see a March follow-through. What does your NIM model look like if deposit costs keep climbing into Q2 2027, and how quickly can your FP&amp;A infrastructure re-run that scenario?&quot;
+
+2. **The agentic AI ROI gap:** &quot;Capgemini just published that half of financial services firms can&#x27;t demonstrate ROI on agentic AI and only five percent have scaled to enterprise level. Before your next vendor conversation, do you have a measurement framework that would put you in that five percent, or are you in the fifty percent flying blind?&quot;
+
+3. **AI infrastructure as an inflation input:** &quot;Richmond Fed President Barkin is now connecting AI capital spending to near-term inflation pressures. If the Fed is partly hiking because of tech investment demand, your AI transformation budget and your rate environment are no longer independent variables. How are you modeling that in your long-range plan?&quot;</itunes:summary>
+      <pubDate>Tue, 10 Nov 2026 04:49:38 -0500</pubDate>
+      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-11-10.mp3" length="6466988" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-10.mp3</guid>
+      <itunes:duration>6:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Finance Pulse - Nov 9, 2026</title>
       <description><![CDATA[I now have comprehensive, fresh data across all required domains. Here is today's Finance Pulse briefing for November 9, 2026.
@@ -5920,182 +6114,6 @@ The conventional wisdom entering Jackson Hole is that Warsh&#x27;s speech will r
       <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-08-24.mp3" length="7648557" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-08-24.mp3</guid>
       <itunes:duration>7:57</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Finance Pulse - Aug 21, 2026</title>
-      <description><![CDATA[I now have rich, freshly sourced material from the last 24 to 48 hours. Let me synthesize both parts of today's briefing, ensuring every development is genuinely new relative to the recent episode recaps and every claim is anchored in specific, named facts.
-
----
-
-## Finance Pulse | Friday, August 21, 2026
-
-**Bottom line: The Treasury's doubling of long-dated bond buybacks to four billion dollars per operation gave yields a one-day reprieve that fully unwound by Thursday morning -- the thirty-year is back at five point two five percent and the ten-year at four point seven percent -- signaling that fiscal and inflation fundamentals are overwhelming tactical intervention; the buyback reversal is the single most important new fact for bank ALM planning this week, and it arrives just as Q2 2026 earnings data reveal a structurally bifurcated NIM story in which banks actively managing both sides of the spread are pulling decisively ahead of those still waiting on the Fed.**
-
----
-
-### Top Takeaways
-
-1. Treasury's buyback surprise is already fading. The thirty-year bond bounced back to near its nineteen-year highs by Thursday, and JP Morgan's senior research analyst called the interventions unable to address underlying structural challenges. Bank ALM desks cannot model the long end as stabilized.
-2. Q2 2026 NIM data confirm a spread-management bifurcation: banks simultaneously cutting deposit rates and repositioning securities portfolios are expanding margins; those passively waiting on rate cuts are seeing NII guided to the low end of their own ranges.
-3. The AI-in-finance market is cleaving sharply between vendors and buyers who can prove operational embedding and those still selling transformation potential. Fifty-three percent of organizations still use no AI in any FP&A process, making the "AI is everywhere" narrative a vendor story, not yet a bank reality.
-
----
-
-### Key Themes
-
-**Theme 1 (New): The Treasury Buyback Reversal as an ALM Forcing Event**
-Secretary Bessent doubled the long-dated buyback operation size from two billion to four billion dollars on August nineteenth, covering the ten-to-thirty-year sector, effective September ninth through November fourth. Yields initially dropped ten basis points on the thirty-year and six on the ten-year. By Thursday morning, both had fully retraced. ING noted the move signals the administration's discomfort but is unlikely to change the trajectory for long-end yields on its own.
-
-**Theme 2 (New): NIM Spread-Management as an Active Finance-Function Discipline**
-Q2 2026 earnings data show NIM improvement is not passive. Northwest Bancshares expanded NIM five basis points to three point seven five percent while guiding flat assuming no Fed change, achieved by cutting average deposit costs five basis points to one point four three percent. Huntington's deposit-cost-driven NII pressure directly links the rate scenario shift from expected cuts to potential hikes. Central Bancompany repositioned two hundred ten million dollars of securities from a two percent yield book into paper yielding four point five percent, extending duration from one point seven to three point three years. This is active ALM requiring real-time modeling infrastructure.
-
-**Theme 3 (Evolving): The AI-in-Finance Adoption Gap Is Now a Budget Signal**
-The AFP FP&A Forum's 2026 practitioner sessions explicitly moved from conceptual AI to operational deployment -- sessions titled "Orchestrating an FP&A Agent: Architecture, Prompts, and Packaging for Month-End Commentary" signal that leading finance shops are industrializing agents. Yet fifty-three percent of organizations still use no AI in any FP&A process, per the FP&A Trends Survey. The gap between the early movers and the laggard majority is where transformation consulting demand is concentrating.
-
----
-
-### Banking Finance-Function Metrics
-
-**NIM and Deposit Costs:** Northwest Bancshares expanded NIM five basis points to three point seven five percent in Q2, with average deposit costs falling to one point four three percent, down five basis points. Management guided NIM to stay in the three point seven three to three point seven five percent band for 2026, assuming no change in Fed funds. Huntington's NIM increased ten basis points year-over-year but declined three basis points sequentially. Management noted the biggest change in NII outlook is deposit costs and the pricing environment, with the interest rate environment having shifted from expectations of rate cuts to potential hikes, intensifying deposit competition.
-
-**Securities Repositioning as a NIM Lever:** Central Bancompany achieved a NIM of four point four three percent, improving thirteen basis points year-over-year, while deposit costs declined nine basis points to one point one zero percent. Management sold approximately two hundred ten million dollars of securities with a book yield of roughly two percent and reinvested into securities yielding about four point five percent with a longer duration, a move expected to enhance future NII while extending the portfolio's duration profile.
-
-**Credit Quality Divergence:** Enterprise Financial reported solid NIM expansion alongside loan growth, but elevated credit costs drove earnings below expectations. Two large commercial charge-offs totaling approximately fourteen million dollars pressured results, with net income falling to one dollar and nine cents per diluted share from one dollar and thirty cents in the prior quarter. Huntington guided net charge-offs to the lower half of a twenty-five to thirty-five basis point range.
-
-**NII Guidance and Rate Scenario:** Among the super-regional cohort (including Fifth Third, KeyCorp, PNC, M&T, Truist, U.S. Bancorp, Huntington, and Zions), the interest-bearing deposit beta has been outperforming mid-thirty-percent guidance, and full-year 2026 NII is guided to grow between two point five and four percent, with fixed-rate asset turnover, funding cost management, and loan growth as the key drivers.
-
----
-
-### Regulatory Radar
-
-**Basel III Endgame (Evolving):** On March nineteenth, 2026, the Fed, OCC, and FDIC issued a comprehensive overhaul of the U.S. bank capital framework. The agencies anticipate that overall capital in the banking system would modestly decrease if the proposals are implemented, while remaining substantially higher than pre-financial crisis levels. Taken together, the package lowers capital requirements overall, reduces duplication across the framework, and improves the economics of traditional lending. It also creates new strategic and operational questions for treasury, risk, finance, reporting, and data teams as firms assess the proposal's impact and prepare for implementation. The comment period closed June eighteenth; no final rule has emerged yet.
-
-**Long-End Yield Pressure as a Regulatory Stress Variable:** Fixed income strategists attribute the recent sell-off in longer-dated debt, which began in June, to intensified concerns over a budget deficit set to eclipse its 2025 level, persistently above-target inflation, and a rash of corporate debt issuance competing with Treasuries for investors' favor. This directly affects AOCI calculations for banks newly required to include unrealized losses in regulatory capital under the standardized approach proposal.
-
----
-
-### AI in Finance
-
-**Where the Demand Is Actually Landing:** AI adoption in finance is moving beyond experimentation into operational necessity. High-performing financial institutions are embedding intelligence across core FP&A workflows. Technavio projects the AI in FP&A market to grow by forty-eight point eight seven billion dollars by 2029. Yet the FP&A Trends Survey reveals that fifty-three percent of organizations still do not use AI in any FP&A process.
-
-**Practitioner Deployment Signals:** The 2026 AFP FP&A Forum workshops, including "Designing Finance Bots that Don't Derail the Reporting Cycle" and "Orchestrating an FP&A Agent: Architecture, Prompts, and Packaging for Month-End Commentary," signal that leading finance teams are building AI into core month-end functionality. The AFP's FP&A Practice Director characterized AI in finance as having moved beyond experimentation.
-
-**The Close-Cycle Problem AI Is Being Bought to Solve:** FP&A teams spend roughly three-quarters of their time gathering data and building reports; AI is designed to flip that ratio. The practical wins include automated data extraction, first-draft forecasts and models, and first-draft variance commentary, with the analyst reviewing rather than producing. For banks where the controller's team is both running the monthly close and feeding regulatory reporting, this is the highest-ROI entry point.
-
-**CFO-to-AI Role Shift:** The CFO role continues to expand beyond financial stewardship into the orchestration of human-AI collaboration. Finance leaders must design and monitor AI-driven processes, build data literacy across teams, and act as translators between machine outputs and business strategy. This framing resonates with bank CFOs managing DFAST narrative production and segment-level NII scenario commentary simultaneously.
-
-**Governance Prerequisite:** Banking finance professionals need to understand why AI is making a choice or recommendation so they can know when to challenge and override it, since people remain accountable for decisions and outputs. That requires finance professionals to cultivate broader process awareness.
-
----
-
-### CFO Agenda, FP&A, and Transformation Signals
-
-**The Buyback Reversal as a Planning Trigger:** The ten-year Treasury yield traded around four point seven percent Friday after rebounding sharply Thursday. The thirty-year climbed to around five point two five percent, nearly erasing Wednesday's decline. Treasury Secretary Bessent said accelerated debt buybacks could exceed the announced four billion per issue, while also stating that the U.S. budget deficit has likely peaked. A CFO who reset long-end rate assumptions downward on Wednesday now faces a second reset upward within forty-eight hours. Scenario model lockdown before the September sixteenth FOMC is effectively impossible.
-
-**Transformation Budget Signal:** As AI confidence grows, businesses expand into more advanced planning and strategic functions. Successful adoption requires the right foundations. Data quality and security are prerequisites: AI is only as effective as the data it relies on, and poor data quality, inconsistent systems, and weak governance limit results. For banks with fragmented core systems, data modernization is the prerequisite spend before AI tools can generate ROI -- and that is where advisory demand is concentrated right now.
-
----
-
-### Contrarian Insight
-
-The IEA's August report says oil markets face a shortfall of one point eight million barrels per day due to renewed Iran hostilities, which is the most direct inflationary driver on the Fed's September decision. But the bond market's message this week is actually about fiscal policy, not oil. Longer-dated Treasury yields have surged since July amid increased debt issuance by AI companies and rising federal deficit spending, with higher oil prices adding to inflation concerns. The distinction matters for bank CFOs: oil-driven inflation is potentially transitory and rate-path-sensitive, but fiscal-supply-driven term premium is structural and will keep the long end elevated regardless of what the Fed does in September. Banks still modeling the yield curve as primarily rate-path-driven are mis-specifying the most important input to their 2027 NII planning assumptions.
-
----
-
-### Client Conversation Hooks
-
-1. **The buyback bounce-back test:** The thirty-year yield is back above five point two five percent forty-eight hours after the Treasury's surprise intervention. Ask your client: how many scenario models does your ALM team run simultaneously, and does your planning infrastructure allow a rate-assumption pivot within a business day?
-2. **The NIM split:** Q2 data show banks actively repositioning securities portfolios and cutting deposit rates in tandem are outperforming peers waiting on Fed cuts. Is your client managing both levers dynamically, or is their finance function producing static rate-path scenarios quarterly?
-3. **The AI adoption gap as a sales signal:** Fifty-three percent of finance organizations still use no AI in any FP&A process. For every bank finance leader who tells you AI is already transforming their function, there is a statistically likely counterpart whose team is still spending three-quarters of their time in spreadsheets. That gap is where the most durable transformation demand lives.]]></description>
-      <itunes:summary>I now have rich, freshly sourced material from the last 24 to 48 hours. Let me synthesize both parts of today&#x27;s briefing, ensuring every development is genuinely new relative to the recent episode recaps and every claim is anchored in specific, named facts.
-
----
-
-## Finance Pulse | Friday, August 21, 2026
-
-**Bottom line: The Treasury&#x27;s doubling of long-dated bond buybacks to four billion dollars per operation gave yields a one-day reprieve that fully unwound by Thursday morning -- the thirty-year is back at five point two five percent and the ten-year at four point seven percent -- signaling that fiscal and inflation fundamentals are overwhelming tactical intervention; the buyback reversal is the single most important new fact for bank ALM planning this week, and it arrives just as Q2 2026 earnings data reveal a structurally bifurcated NIM story in which banks actively managing both sides of the spread are pulling decisively ahead of those still waiting on the Fed.**
-
----
-
-### Top Takeaways
-
-1. Treasury&#x27;s buyback surprise is already fading. The thirty-year bond bounced back to near its nineteen-year highs by Thursday, and JP Morgan&#x27;s senior research analyst called the interventions unable to address underlying structural challenges. Bank ALM desks cannot model the long end as stabilized.
-2. Q2 2026 NIM data confirm a spread-management bifurcation: banks simultaneously cutting deposit rates and repositioning securities portfolios are expanding margins; those passively waiting on rate cuts are seeing NII guided to the low end of their own ranges.
-3. The AI-in-finance market is cleaving sharply between vendors and buyers who can prove operational embedding and those still selling transformation potential. Fifty-three percent of organizations still use no AI in any FP&amp;A process, making the &quot;AI is everywhere&quot; narrative a vendor story, not yet a bank reality.
-
----
-
-### Key Themes
-
-**Theme 1 (New): The Treasury Buyback Reversal as an ALM Forcing Event**
-Secretary Bessent doubled the long-dated buyback operation size from two billion to four billion dollars on August nineteenth, covering the ten-to-thirty-year sector, effective September ninth through November fourth. Yields initially dropped ten basis points on the thirty-year and six on the ten-year. By Thursday morning, both had fully retraced. ING noted the move signals the administration&#x27;s discomfort but is unlikely to change the trajectory for long-end yields on its own.
-
-**Theme 2 (New): NIM Spread-Management as an Active Finance-Function Discipline**
-Q2 2026 earnings data show NIM improvement is not passive. Northwest Bancshares expanded NIM five basis points to three point seven five percent while guiding flat assuming no Fed change, achieved by cutting average deposit costs five basis points to one point four three percent. Huntington&#x27;s deposit-cost-driven NII pressure directly links the rate scenario shift from expected cuts to potential hikes. Central Bancompany repositioned two hundred ten million dollars of securities from a two percent yield book into paper yielding four point five percent, extending duration from one point seven to three point three years. This is active ALM requiring real-time modeling infrastructure.
-
-**Theme 3 (Evolving): The AI-in-Finance Adoption Gap Is Now a Budget Signal**
-The AFP FP&amp;A Forum&#x27;s 2026 practitioner sessions explicitly moved from conceptual AI to operational deployment -- sessions titled &quot;Orchestrating an FP&amp;A Agent: Architecture, Prompts, and Packaging for Month-End Commentary&quot; signal that leading finance shops are industrializing agents. Yet fifty-three percent of organizations still use no AI in any FP&amp;A process, per the FP&amp;A Trends Survey. The gap between the early movers and the laggard majority is where transformation consulting demand is concentrating.
-
----
-
-### Banking Finance-Function Metrics
-
-**NIM and Deposit Costs:** Northwest Bancshares expanded NIM five basis points to three point seven five percent in Q2, with average deposit costs falling to one point four three percent, down five basis points. Management guided NIM to stay in the three point seven three to three point seven five percent band for 2026, assuming no change in Fed funds. Huntington&#x27;s NIM increased ten basis points year-over-year but declined three basis points sequentially. Management noted the biggest change in NII outlook is deposit costs and the pricing environment, with the interest rate environment having shifted from expectations of rate cuts to potential hikes, intensifying deposit competition.
-
-**Securities Repositioning as a NIM Lever:** Central Bancompany achieved a NIM of four point four three percent, improving thirteen basis points year-over-year, while deposit costs declined nine basis points to one point one zero percent. Management sold approximately two hundred ten million dollars of securities with a book yield of roughly two percent and reinvested into securities yielding about four point five percent with a longer duration, a move expected to enhance future NII while extending the portfolio&#x27;s duration profile.
-
-**Credit Quality Divergence:** Enterprise Financial reported solid NIM expansion alongside loan growth, but elevated credit costs drove earnings below expectations. Two large commercial charge-offs totaling approximately fourteen million dollars pressured results, with net income falling to one dollar and nine cents per diluted share from one dollar and thirty cents in the prior quarter. Huntington guided net charge-offs to the lower half of a twenty-five to thirty-five basis point range.
-
-**NII Guidance and Rate Scenario:** Among the super-regional cohort (including Fifth Third, KeyCorp, PNC, M&amp;T, Truist, U.S. Bancorp, Huntington, and Zions), the interest-bearing deposit beta has been outperforming mid-thirty-percent guidance, and full-year 2026 NII is guided to grow between two point five and four percent, with fixed-rate asset turnover, funding cost management, and loan growth as the key drivers.
-
----
-
-### Regulatory Radar
-
-**Basel III Endgame (Evolving):** On March nineteenth, 2026, the Fed, OCC, and FDIC issued a comprehensive overhaul of the U.S. bank capital framework. The agencies anticipate that overall capital in the banking system would modestly decrease if the proposals are implemented, while remaining substantially higher than pre-financial crisis levels. Taken together, the package lowers capital requirements overall, reduces duplication across the framework, and improves the economics of traditional lending. It also creates new strategic and operational questions for treasury, risk, finance, reporting, and data teams as firms assess the proposal&#x27;s impact and prepare for implementation. The comment period closed June eighteenth; no final rule has emerged yet.
-
-**Long-End Yield Pressure as a Regulatory Stress Variable:** Fixed income strategists attribute the recent sell-off in longer-dated debt, which began in June, to intensified concerns over a budget deficit set to eclipse its 2025 level, persistently above-target inflation, and a rash of corporate debt issuance competing with Treasuries for investors&#x27; favor. This directly affects AOCI calculations for banks newly required to include unrealized losses in regulatory capital under the standardized approach proposal.
-
----
-
-### AI in Finance
-
-**Where the Demand Is Actually Landing:** AI adoption in finance is moving beyond experimentation into operational necessity. High-performing financial institutions are embedding intelligence across core FP&amp;A workflows. Technavio projects the AI in FP&amp;A market to grow by forty-eight point eight seven billion dollars by 2029. Yet the FP&amp;A Trends Survey reveals that fifty-three percent of organizations still do not use AI in any FP&amp;A process.
-
-**Practitioner Deployment Signals:** The 2026 AFP FP&amp;A Forum workshops, including &quot;Designing Finance Bots that Don&#x27;t Derail the Reporting Cycle&quot; and &quot;Orchestrating an FP&amp;A Agent: Architecture, Prompts, and Packaging for Month-End Commentary,&quot; signal that leading finance teams are building AI into core month-end functionality. The AFP&#x27;s FP&amp;A Practice Director characterized AI in finance as having moved beyond experimentation.
-
-**The Close-Cycle Problem AI Is Being Bought to Solve:** FP&amp;A teams spend roughly three-quarters of their time gathering data and building reports; AI is designed to flip that ratio. The practical wins include automated data extraction, first-draft forecasts and models, and first-draft variance commentary, with the analyst reviewing rather than producing. For banks where the controller&#x27;s team is both running the monthly close and feeding regulatory reporting, this is the highest-ROI entry point.
-
-**CFO-to-AI Role Shift:** The CFO role continues to expand beyond financial stewardship into the orchestration of human-AI collaboration. Finance leaders must design and monitor AI-driven processes, build data literacy across teams, and act as translators between machine outputs and business strategy. This framing resonates with bank CFOs managing DFAST narrative production and segment-level NII scenario commentary simultaneously.
-
-**Governance Prerequisite:** Banking finance professionals need to understand why AI is making a choice or recommendation so they can know when to challenge and override it, since people remain accountable for decisions and outputs. That requires finance professionals to cultivate broader process awareness.
-
----
-
-### CFO Agenda, FP&amp;A, and Transformation Signals
-
-**The Buyback Reversal as a Planning Trigger:** The ten-year Treasury yield traded around four point seven percent Friday after rebounding sharply Thursday. The thirty-year climbed to around five point two five percent, nearly erasing Wednesday&#x27;s decline. Treasury Secretary Bessent said accelerated debt buybacks could exceed the announced four billion per issue, while also stating that the U.S. budget deficit has likely peaked. A CFO who reset long-end rate assumptions downward on Wednesday now faces a second reset upward within forty-eight hours. Scenario model lockdown before the September sixteenth FOMC is effectively impossible.
-
-**Transformation Budget Signal:** As AI confidence grows, businesses expand into more advanced planning and strategic functions. Successful adoption requires the right foundations. Data quality and security are prerequisites: AI is only as effective as the data it relies on, and poor data quality, inconsistent systems, and weak governance limit results. For banks with fragmented core systems, data modernization is the prerequisite spend before AI tools can generate ROI -- and that is where advisory demand is concentrated right now.
-
----
-
-### Contrarian Insight
-
-The IEA&#x27;s August report says oil markets face a shortfall of one point eight million barrels per day due to renewed Iran hostilities, which is the most direct inflationary driver on the Fed&#x27;s September decision. But the bond market&#x27;s message this week is actually about fiscal policy, not oil. Longer-dated Treasury yields have surged since July amid increased debt issuance by AI companies and rising federal deficit spending, with higher oil prices adding to inflation concerns. The distinction matters for bank CFOs: oil-driven inflation is potentially transitory and rate-path-sensitive, but fiscal-supply-driven term premium is structural and will keep the long end elevated regardless of what the Fed does in September. Banks still modeling the yield curve as primarily rate-path-driven are mis-specifying the most important input to their 2027 NII planning assumptions.
-
----
-
-### Client Conversation Hooks
-
-1. **The buyback bounce-back test:** The thirty-year yield is back above five point two five percent forty-eight hours after the Treasury&#x27;s surprise intervention. Ask your client: how many scenario models does your ALM team run simultaneously, and does your planning infrastructure allow a rate-assumption pivot within a business day?
-2. **The NIM split:** Q2 data show banks actively repositioning securities portfolios and cutting deposit rates in tandem are outperforming peers waiting on Fed cuts. Is your client managing both levers dynamically, or is their finance function producing static rate-path scenarios quarterly?
-3. **The AI adoption gap as a sales signal:** Fifty-three percent of finance organizations still use no AI in any FP&amp;A process. For every bank finance leader who tells you AI is already transforming their function, there is a statistically likely counterpart whose team is still spending three-quarters of their time in spreadsheets. That gap is where the most durable transformation demand lives.</itunes:summary>
-      <pubDate>Fri, 21 Aug 2026 04:46:06 -0400</pubDate>
-      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-08-21.mp3" length="7231149" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-08-21.mp3</guid>
-      <itunes:duration>7:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

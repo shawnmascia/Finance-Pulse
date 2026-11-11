@@ -15,7 +15,215 @@
       <itunes:email>shawn.mascia@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://shawnmascia.github.io/Finance-Pulse/cover.jpg"/>
-    <lastBuildDate>Tue, 10 Nov 2026 09:52:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:49:02 +0000</lastBuildDate>
+    <item>
+      <title>Finance Pulse - Nov 11, 2026</title>
+      <description><![CDATA[I now have comprehensive, fresh data across all required domains. Here are the genuinely new angles for November 11, 2026, not covered in prior episodes:
+
+1. **Goldman Sachs has just added a March 2027 hike to its forecast**, making it the first major bank to revise post-CPI. The rate-path implication for bank CFOs is now a peak of four point two five to four point five percent, with first cut deferred to December 2027. This is a materially different planning horizon than yesterday's briefing.
+
+2. **The 50-basis-point December debate is entirely new territory**: Governor Waller opened the door to a supersized hike, with market odds briefly touching fifteen percent before settling near eleven percent. This is a new asymmetric risk for bank CFO scenario planning.
+
+3. **McKinsey's Global Banking Annual Review (published November 10) drops a landmark warning**: AI agent token costs at banks could reach twenty percent of total labor costs, prompting a new institutional response -- dedicated "AI FinOps" teams. This is a completely new angle on AI ROI at banks.
+
+4. **Dallas Fed survey (October 27 to November 4)**: Eleven point four percent of banks have already restricted customer AI agent access to online banking. The funding cost secondary effect of customer-facing AI is a new and underexplored angle.
+
+5. **Basel III Endgame**: No final rule as of September 30, 2026 -- finalization in Q4 2026 still the target, but this is unchanged. One line and move on.
+
+6. **KBRA data point**: Average bank NIM hit three point nine four percent in Q2 2026, up forty-three basis points from the Q3 2024 trough -- but the September hike and now December's near-certain move threaten to re-widen deposit cost spreads. This reversal story is fresh.
+
+---
+
+## Finance Pulse | Wednesday, November 11, 2026
+
+**Bottom line: Goldman Sachs became the first major bank to add a March 2027 hike to its Fed forecast this morning, extending the peak funds rate to as high as four point two five to four point five percent and deferring first rate cuts to December 2027 -- a planning-horizon shift that invalidates most bank CFO NIM and deposit-cost models built in Q3; simultaneously, McKinsey's new Global Banking Annual Review warns that AI agent token spending at banks could reach twenty percent of total labor costs, triggering a new institutional discipline called "AI FinOps" that is fast becoming the most consequential finance-function operating model question of the cycle.**
+
+---
+
+### Top Takeaways
+
+1. Goldman Sachs has added a March 2027 rate hike to its forecast after the third consecutive month of above-consensus inflation, pushing its projected peak funds rate to four point two five to four point five percent and deferring the first cut to December 2027 -- the most hawkish major-bank call now on the table.
+2. The December meeting is no longer just a twenty-five-basis-point certainty: Governor Waller explicitly said fifty basis points "should be considered" if inflation stays hot, briefly pushing supersized hike odds to fifteen percent and permanently changing the CFO scenario-planning distribution.
+3. McKinsey's Global Banking Annual Review (published November 10) finds that AI agent token costs at banks could reach twenty percent of total labor costs, with banks now forming dedicated "AI FinOps" teams to manage spending -- a structural shift in how finance transformation investments are governed and budgeted.
+4. KBRA data shows average bank NIM recovered to three point nine four percent in Q2 2026 from its three point five one percent trough -- but the resuming hike cycle threatens to re-accelerate deposit repricing and erode those gains through 2027.
+5. A Dallas Fed survey of seventy bankers finds eleven point four percent of institutions have already restricted customer AI agent access to online banking systems -- and McKinsey warns those same customer AI agents are already being used to hunt for higher-yield savings accounts, creating a new and AI-driven deposit migration risk.
+
+---
+
+### Key Themes
+
+**Theme 1 (New): The 50bps December Debate Changes CFO Scenario Architecture**
+Until yesterday, bank CFOs were stress-testing one scenario: a twenty-five-basis-point December hike followed by a possible pause. The opening of a fifty-basis-point debate by a voting Fed governor introduces a genuinely asymmetric risk. For a CFO building the 2027 budget, the difference between a four percent and four point five percent terminal rate is not marginal -- it reshapes deposit beta assumptions, funding mix optimization, and the entire NIM trajectory.
+
+**Theme 2 (New): AI Agent Costs as a Finance P&L Line**
+McKinsey's finding that token costs could hit twenty percent of labor spend reframes AI in finance from a capability question to a cost-structure question. For bank CFOs who have been authorizing pilot expansions on the assumption that agentic AI is fundamentally deflationary, this is a corrective signal. The emergence of "AI FinOps" as an institutional function -- with dedicated teams managing token budgets -- signals that AI spend is now competing directly with headcount in the finance cost base.
+
+**Theme 3 (Evolving): NIM Recovery Under Renewed Threat**
+KBRA documents a forty-three-basis-point NIM recovery from Q3 2024 to Q2 2026, driven primarily by declining deposit costs rather than rising asset yields. That improvement is now at risk. The September hike already re-introduced funding pressure; Goldman's March 2027 call means deposit repricing could run for another eighteen months.
+
+---
+
+### Banking Finance-Function Metrics
+
+Average cost of total funding fell thirty-six basis points to one point eight seven percent in Q2 2026, and average cost of total deposits dropped thirty-one basis points to one point eight one percent over the same period from their Q3 2024 peaks. Average NIM increased to three point nine four percent in Q2 2026 from three point five one percent in Q3 2024, a forty-three-basis-point improvement, while earning-asset yields increased only modestly over the same period. Those funding cost gains are now squarely in the crosshairs of the renewed tightening cycle.
+
+Despite the relief banks enjoyed through easing deposit costs, the Fed's September hike and consequent October hold stand to reintroduce funding pressures and competition in the marketplace. With Goldman now forecasting a March 2027 follow-on, the deposit repricing clock resets again.
+
+---
+
+### Regulatory Radar
+
+**Basel III Endgame:** No change since the June 18 comment-period close. As of September 30, 2026, no final rule appeared in the Federal Register. Compliance and finance teams at covered banks should treat the endgame as a proposal whose scope, calibration, and dates can still change. Implementation is diverging globally: the UK's PRA finalized its "Basel 3.1" package for January 2027 and the EU is phasing in temporary mitigations through 2029. The divergence itself is a CFO risk: banks with cross-border books face a patchwork of go-live dates rather than a synchronized international standard.
+
+---
+
+### AI in Finance
+
+**The McKinsey Cost Warning (the day's dominant signal):** Banks worldwide are trying to curb the soaring cost of AI agents, as spending on the tokens that power them could easily reach twenty percent of total labor costs, according to McKinsey's Global Banking Annual Review. When AI agents are working and communicating with each other, tokens quickly add up, breaking traditional cost-management approaches.
+
+Some banks have already created "AI FinOps" teams to control spending, while increasingly focusing deployments on areas with the strongest expected returns. This is the clearest signal yet that AI in banking has moved from pilot enthusiasm to a disciplined ROI conversation.
+
+**The human oversight cost revelation:** When an agent performs a customer service task in banking, token costs account for only twenty to twenty-five percent of variable run costs, while human oversight accounts for seventy to seventy-five percent, with sixty percent of an agentic task's cost tied to refining answers rather than producing the first answer. This overturns the assumption that agentic AI primarily saves headcount -- supervision cost is currently the dominant cost driver.
+
+**Customer-facing AI as a deposit threat:** A McKinsey survey of forty-six thousand retail banking customers worldwide found that most already use AI to compare banking services, locate higher-yield savings accounts, and refinance or consolidate debt. Among those AI users, seventy-two percent said they would let a banking agent complete one financial task, though they would limit autonomous approvals to five hundred dollars. McKinsey notes that while AI agents may help banks raise revenue and reduce costs, they could also weigh on profits by moving deposits out of non-interest-bearing accounts and into higher-yielding ones.
+
+**Banks' institutional response:** In a recently released survey of seventy bankers, the Federal Reserve Bank of Dallas found that eleven point four percent said their institution or service provider had taken steps to restrict existing or prospective customers' AI agent activity on online banking platforms. More than a quarter of respondents said they did not know whether their institution had restricted AI agent activity, while thirty-eight point six percent said no restrictions had been implemented and were not planned.
+
+**CFO Agenda connection:** The convergence of token cost escalation and AI-driven deposit migration creates a double-sided CFO problem. On the cost side, uncontrolled agentic deployments in finance (FP&A, close, treasury) are eroding the efficiency savings they were meant to generate. On the revenue side, customer-facing AI is accelerating the deposit repricing that the September hike had already re-ignited. Banks need to manage both simultaneously.
+
+**OneStream Finance Agentic Layer:** OneStream recently announced the general availability of its Finance Agentic Layer, allowing CFO offices to deploy AI agents that interact directly with financial data models. This is a named, production-stage vendor move -- not a roadmap promise -- and directly relevant to bank finance-platform buying decisions.
+
+---
+
+### CFO Agenda, FP&A, and Transformation Signals
+
+The Goldman March 2027 call is a planning event, not just a market data point. Goldman Sachs now sees twenty-five-basis-point Fed hikes in both December 2026 and March 2027, adding a third hike to the cycle after a third straight month of hot inflation, and David Mericle said the recent readings will lead most FOMC participants to signal a third hike in the December dot plot. Goldman now expects rate cuts to begin in December 2027, three months later than previously forecast, followed by additional cuts in March, June, and September 2028. Any bank CFO whose 2027 operating plan assumed a mid-year cut needs to rebuild that model today.
+
+Deloitte's Q4 2025 CFO Signals survey found that fifty-four percent of CFOs say integrating AI agents into their finance departments will be a top transformation priority in 2026, and eighty-seven percent believe AI will be extremely or very important to finance operations. But the McKinsey cost data now puts a price tag on that priority -- and it is not cheap.
+
+A Gartner report found that close to sixty percent of finance teams are piloting or implementing AI projects, while only seven percent of CFOs say those investments are having a strong impact. The gap between pilot breadth and demonstrated impact is the central governance challenge for bank finance transformation leaders heading into 2027 budget season.
+
+---
+
+### Contrarian Insight
+
+The McKinsey report is being read as a cost-escalation warning. But the more strategically important finding is the deposit migration signal buried in the same report. Customer AI agents are already hunting for yield on behalf of depositors. Banks that restrict access to external AI agents -- the eleven percent doing so today -- are protecting their non-interest-bearing deposit base in the short term. But that is a defensive posture, not a strategy. The banks that build their own customer-facing AI agents, with controlled access and embedded product cross-sell, will shape where deposits flow rather than simply trying to dam them. For a CFO, this reframes AI platform investment from a cost-reduction project to a funding-economics defense.
+
+---
+
+### Client Conversation Hooks
+
+1. **"Your 2027 NIM model assumes cuts starting when?"** Goldman now has the first cut in December 2027. If your client's plan has mid-2027 relief baked in, that model needs a rebuild -- and the deposit beta trajectory through eighteen more months of elevated rates is the core assumption to pressure-test.
+
+2. **"Have you sized your AI agent token budget?"** McKinsey says token costs could reach twenty percent of labor spend, and some banks are already building dedicated AI FinOps teams. Ask your client whether their finance transformation business case includes a token-cost assumption -- and whether the human oversight cost (seventy to seventy-five percent of agentic task costs) is in the model.
+
+3. **"What is your strategy if customer AI agents start routing your depositors to competitors?"** McKinsey's survey of forty-six thousand customers shows most already use AI to find higher-yield accounts. The banks blocking external agent access are buying time, not solving the problem. What is your client's answer?]]></description>
+      <itunes:summary>I now have comprehensive, fresh data across all required domains. Here are the genuinely new angles for November 11, 2026, not covered in prior episodes:
+
+1. **Goldman Sachs has just added a March 2027 hike to its forecast**, making it the first major bank to revise post-CPI. The rate-path implication for bank CFOs is now a peak of four point two five to four point five percent, with first cut deferred to December 2027. This is a materially different planning horizon than yesterday&#x27;s briefing.
+
+2. **The 50-basis-point December debate is entirely new territory**: Governor Waller opened the door to a supersized hike, with market odds briefly touching fifteen percent before settling near eleven percent. This is a new asymmetric risk for bank CFO scenario planning.
+
+3. **McKinsey&#x27;s Global Banking Annual Review (published November 10) drops a landmark warning**: AI agent token costs at banks could reach twenty percent of total labor costs, prompting a new institutional response -- dedicated &quot;AI FinOps&quot; teams. This is a completely new angle on AI ROI at banks.
+
+4. **Dallas Fed survey (October 27 to November 4)**: Eleven point four percent of banks have already restricted customer AI agent access to online banking. The funding cost secondary effect of customer-facing AI is a new and underexplored angle.
+
+5. **Basel III Endgame**: No final rule as of September 30, 2026 -- finalization in Q4 2026 still the target, but this is unchanged. One line and move on.
+
+6. **KBRA data point**: Average bank NIM hit three point nine four percent in Q2 2026, up forty-three basis points from the Q3 2024 trough -- but the September hike and now December&#x27;s near-certain move threaten to re-widen deposit cost spreads. This reversal story is fresh.
+
+---
+
+## Finance Pulse | Wednesday, November 11, 2026
+
+**Bottom line: Goldman Sachs became the first major bank to add a March 2027 hike to its Fed forecast this morning, extending the peak funds rate to as high as four point two five to four point five percent and deferring first rate cuts to December 2027 -- a planning-horizon shift that invalidates most bank CFO NIM and deposit-cost models built in Q3; simultaneously, McKinsey&#x27;s new Global Banking Annual Review warns that AI agent token spending at banks could reach twenty percent of total labor costs, triggering a new institutional discipline called &quot;AI FinOps&quot; that is fast becoming the most consequential finance-function operating model question of the cycle.**
+
+---
+
+### Top Takeaways
+
+1. Goldman Sachs has added a March 2027 rate hike to its forecast after the third consecutive month of above-consensus inflation, pushing its projected peak funds rate to four point two five to four point five percent and deferring the first cut to December 2027 -- the most hawkish major-bank call now on the table.
+2. The December meeting is no longer just a twenty-five-basis-point certainty: Governor Waller explicitly said fifty basis points &quot;should be considered&quot; if inflation stays hot, briefly pushing supersized hike odds to fifteen percent and permanently changing the CFO scenario-planning distribution.
+3. McKinsey&#x27;s Global Banking Annual Review (published November 10) finds that AI agent token costs at banks could reach twenty percent of total labor costs, with banks now forming dedicated &quot;AI FinOps&quot; teams to manage spending -- a structural shift in how finance transformation investments are governed and budgeted.
+4. KBRA data shows average bank NIM recovered to three point nine four percent in Q2 2026 from its three point five one percent trough -- but the resuming hike cycle threatens to re-accelerate deposit repricing and erode those gains through 2027.
+5. A Dallas Fed survey of seventy bankers finds eleven point four percent of institutions have already restricted customer AI agent access to online banking systems -- and McKinsey warns those same customer AI agents are already being used to hunt for higher-yield savings accounts, creating a new and AI-driven deposit migration risk.
+
+---
+
+### Key Themes
+
+**Theme 1 (New): The 50bps December Debate Changes CFO Scenario Architecture**
+Until yesterday, bank CFOs were stress-testing one scenario: a twenty-five-basis-point December hike followed by a possible pause. The opening of a fifty-basis-point debate by a voting Fed governor introduces a genuinely asymmetric risk. For a CFO building the 2027 budget, the difference between a four percent and four point five percent terminal rate is not marginal -- it reshapes deposit beta assumptions, funding mix optimization, and the entire NIM trajectory.
+
+**Theme 2 (New): AI Agent Costs as a Finance P&amp;L Line**
+McKinsey&#x27;s finding that token costs could hit twenty percent of labor spend reframes AI in finance from a capability question to a cost-structure question. For bank CFOs who have been authorizing pilot expansions on the assumption that agentic AI is fundamentally deflationary, this is a corrective signal. The emergence of &quot;AI FinOps&quot; as an institutional function -- with dedicated teams managing token budgets -- signals that AI spend is now competing directly with headcount in the finance cost base.
+
+**Theme 3 (Evolving): NIM Recovery Under Renewed Threat**
+KBRA documents a forty-three-basis-point NIM recovery from Q3 2024 to Q2 2026, driven primarily by declining deposit costs rather than rising asset yields. That improvement is now at risk. The September hike already re-introduced funding pressure; Goldman&#x27;s March 2027 call means deposit repricing could run for another eighteen months.
+
+---
+
+### Banking Finance-Function Metrics
+
+Average cost of total funding fell thirty-six basis points to one point eight seven percent in Q2 2026, and average cost of total deposits dropped thirty-one basis points to one point eight one percent over the same period from their Q3 2024 peaks. Average NIM increased to three point nine four percent in Q2 2026 from three point five one percent in Q3 2024, a forty-three-basis-point improvement, while earning-asset yields increased only modestly over the same period. Those funding cost gains are now squarely in the crosshairs of the renewed tightening cycle.
+
+Despite the relief banks enjoyed through easing deposit costs, the Fed&#x27;s September hike and consequent October hold stand to reintroduce funding pressures and competition in the marketplace. With Goldman now forecasting a March 2027 follow-on, the deposit repricing clock resets again.
+
+---
+
+### Regulatory Radar
+
+**Basel III Endgame:** No change since the June 18 comment-period close. As of September 30, 2026, no final rule appeared in the Federal Register. Compliance and finance teams at covered banks should treat the endgame as a proposal whose scope, calibration, and dates can still change. Implementation is diverging globally: the UK&#x27;s PRA finalized its &quot;Basel 3.1&quot; package for January 2027 and the EU is phasing in temporary mitigations through 2029. The divergence itself is a CFO risk: banks with cross-border books face a patchwork of go-live dates rather than a synchronized international standard.
+
+---
+
+### AI in Finance
+
+**The McKinsey Cost Warning (the day&#x27;s dominant signal):** Banks worldwide are trying to curb the soaring cost of AI agents, as spending on the tokens that power them could easily reach twenty percent of total labor costs, according to McKinsey&#x27;s Global Banking Annual Review. When AI agents are working and communicating with each other, tokens quickly add up, breaking traditional cost-management approaches.
+
+Some banks have already created &quot;AI FinOps&quot; teams to control spending, while increasingly focusing deployments on areas with the strongest expected returns. This is the clearest signal yet that AI in banking has moved from pilot enthusiasm to a disciplined ROI conversation.
+
+**The human oversight cost revelation:** When an agent performs a customer service task in banking, token costs account for only twenty to twenty-five percent of variable run costs, while human oversight accounts for seventy to seventy-five percent, with sixty percent of an agentic task&#x27;s cost tied to refining answers rather than producing the first answer. This overturns the assumption that agentic AI primarily saves headcount -- supervision cost is currently the dominant cost driver.
+
+**Customer-facing AI as a deposit threat:** A McKinsey survey of forty-six thousand retail banking customers worldwide found that most already use AI to compare banking services, locate higher-yield savings accounts, and refinance or consolidate debt. Among those AI users, seventy-two percent said they would let a banking agent complete one financial task, though they would limit autonomous approvals to five hundred dollars. McKinsey notes that while AI agents may help banks raise revenue and reduce costs, they could also weigh on profits by moving deposits out of non-interest-bearing accounts and into higher-yielding ones.
+
+**Banks&#x27; institutional response:** In a recently released survey of seventy bankers, the Federal Reserve Bank of Dallas found that eleven point four percent said their institution or service provider had taken steps to restrict existing or prospective customers&#x27; AI agent activity on online banking platforms. More than a quarter of respondents said they did not know whether their institution had restricted AI agent activity, while thirty-eight point six percent said no restrictions had been implemented and were not planned.
+
+**CFO Agenda connection:** The convergence of token cost escalation and AI-driven deposit migration creates a double-sided CFO problem. On the cost side, uncontrolled agentic deployments in finance (FP&amp;A, close, treasury) are eroding the efficiency savings they were meant to generate. On the revenue side, customer-facing AI is accelerating the deposit repricing that the September hike had already re-ignited. Banks need to manage both simultaneously.
+
+**OneStream Finance Agentic Layer:** OneStream recently announced the general availability of its Finance Agentic Layer, allowing CFO offices to deploy AI agents that interact directly with financial data models. This is a named, production-stage vendor move -- not a roadmap promise -- and directly relevant to bank finance-platform buying decisions.
+
+---
+
+### CFO Agenda, FP&amp;A, and Transformation Signals
+
+The Goldman March 2027 call is a planning event, not just a market data point. Goldman Sachs now sees twenty-five-basis-point Fed hikes in both December 2026 and March 2027, adding a third hike to the cycle after a third straight month of hot inflation, and David Mericle said the recent readings will lead most FOMC participants to signal a third hike in the December dot plot. Goldman now expects rate cuts to begin in December 2027, three months later than previously forecast, followed by additional cuts in March, June, and September 2028. Any bank CFO whose 2027 operating plan assumed a mid-year cut needs to rebuild that model today.
+
+Deloitte&#x27;s Q4 2025 CFO Signals survey found that fifty-four percent of CFOs say integrating AI agents into their finance departments will be a top transformation priority in 2026, and eighty-seven percent believe AI will be extremely or very important to finance operations. But the McKinsey cost data now puts a price tag on that priority -- and it is not cheap.
+
+A Gartner report found that close to sixty percent of finance teams are piloting or implementing AI projects, while only seven percent of CFOs say those investments are having a strong impact. The gap between pilot breadth and demonstrated impact is the central governance challenge for bank finance transformation leaders heading into 2027 budget season.
+
+---
+
+### Contrarian Insight
+
+The McKinsey report is being read as a cost-escalation warning. But the more strategically important finding is the deposit migration signal buried in the same report. Customer AI agents are already hunting for yield on behalf of depositors. Banks that restrict access to external AI agents -- the eleven percent doing so today -- are protecting their non-interest-bearing deposit base in the short term. But that is a defensive posture, not a strategy. The banks that build their own customer-facing AI agents, with controlled access and embedded product cross-sell, will shape where deposits flow rather than simply trying to dam them. For a CFO, this reframes AI platform investment from a cost-reduction project to a funding-economics defense.
+
+---
+
+### Client Conversation Hooks
+
+1. **&quot;Your 2027 NIM model assumes cuts starting when?&quot;** Goldman now has the first cut in December 2027. If your client&#x27;s plan has mid-2027 relief baked in, that model needs a rebuild -- and the deposit beta trajectory through eighteen more months of elevated rates is the core assumption to pressure-test.
+
+2. **&quot;Have you sized your AI agent token budget?&quot;** McKinsey says token costs could reach twenty percent of labor spend, and some banks are already building dedicated AI FinOps teams. Ask your client whether their finance transformation business case includes a token-cost assumption -- and whether the human oversight cost (seventy to seventy-five percent of agentic task costs) is in the model.
+
+3. **&quot;What is your strategy if customer AI agents start routing your depositors to competitors?&quot;** McKinsey&#x27;s survey of forty-six thousand customers shows most already use AI to find higher-yield accounts. The banks blocking external agent access are buying time, not solving the problem. What is your client&#x27;s answer?</itunes:summary>
+      <pubDate>Wed, 11 Nov 2026 04:46:00 -0500</pubDate>
+      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-11-11.mp3" length="6248876" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-11.mp3</guid>
+      <itunes:duration>6:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Finance Pulse - Nov 10, 2026</title>
       <description><![CDATA[I now have strong sourced material across all required domains. Let me compile both outputs, making sure everything genuinely new for November 10 is foregrounded, with no recycled themes from prior episodes.
@@ -5934,186 +6142,6 @@ The conventional narrative is that falling September hike odds are good for bank
       <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-08-25.mp3" length="6874413" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-08-25.mp3</guid>
       <itunes:duration>7:09</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Finance Pulse - Aug 24, 2026</title>
-      <description><![CDATA[I'll run all key searches simultaneously to capture the freshest developments as of Monday, August 24, 2026.Now I have the key data I need. Let me also run one final targeted search on a fresh angle for today.I now have all the material I need for a comprehensive, fully sourced briefing with fresh angles not repeated from prior episodes. Let me synthesize both parts.
-
----
-
-## Finance Pulse | Monday, August 24, 2026
-
-**Bottom line: Jackson Hole this Friday is the most consequential single event for bank CFO planning assumptions since the July FOMC split; Fed Chair Warsh delivers his inaugural keynote on August 28 with September hike odds at fifty-seven percent and a thirty-year yield that clawed back to five point two four percent after last week's Treasury buyback reprieve fully unwound -- and this week the critical new angle is not rates themselves but what Warsh's stated preference for structural frameworks over forward guidance means for the scenario-planning horizon every bank finance function is working against.**
-
----
-
-### Top Takeaways
-
-1. Jackson Hole (August 27-29) is the dominant pre-FOMC signal event; Warsh's speech Friday is being treated as a blank check that could move September hike probability by twenty-plus points in either direction.
-2. The thirty-year yield is back at five point two four percent and the two-year at four point two three percent as of today, confirming that last week's Treasury buyback was a liquidity support tool, not a structural ceiling -- a distinction that matters for bank ALM duration positioning.
-3. The Atlanta Fed's most current reading puts September hike probability at fifty-seven percent, a material shift from the hold consensus that prevailed in early August, and the primary driver of re-pricing in bank deposit-cost models this week.
-4. The Basel III March 2026 re-proposal's comment period closed June 18; the practical story has now shifted from "what is in the proposal" to "what does the bank's data and technology infrastructure need to actually compute it" -- a transformation demand signal that is under-recognized.
-5. Gartner data shows fifty-six percent of CFOs rank enterprise cost optimization in their top five while forty-seven percent simultaneously rank capital allocation to growth -- a tension that is driving finance transformation spend, not slowing it.
-
----
-
-### Key Themes
-
-**1. Jackson Hole as the New Scenario-Planning Pivot (New)**
-Warsh's August 28 keynote is new territory for bank finance teams because, unlike Powell-era Jackson Hole speeches, Warsh has deliberately curtailed forward guidance and omitted specific rate forecasts from the dot plot. That means the speech creates scenario *ambiguity*, not scenario *clarity*. CFO planning teams cannot simply extrapolate from the address -- they must hold multiple rate paths open simultaneously through September 16.
-
-**2. Deposit-Cost Stickiness Persisting Despite a Static Fed Funds Rate (Evolving)**
-Q2 PrecisionLender commercial pricing data released this month shows that despite the Fed cutting short-term rates by seventy-five basis points in autumn 2025, deposit rates in the portfolio have not followed that move lower by anything close to that magnitude. Fixed-rate spreads had been narrowing since January, and July was the first month to reverse that trend. The structural implication: deposit beta asymmetry is now confirmed in live pricing data, not just in earnings commentary, and it is compressing the NIM tailwind that CFOs projected when the Fed eased last year.
-
-**3. The Basel Re-Proposal Implementation Data Gap (New)**
-With the comment period closed and regulators signaling finalization by Q4 2026, the next phase of Basel III Endgame work shifts from policy advocacy to implementation readiness. PwC's analysis notes the March 2026 proposals create new strategic and operational questions for treasury, risk, finance, reporting, and data teams simultaneously. The under-discussed issue: regional banks now face a separate "Standardized Approach" track that extends more granular capital requirements to institutions previously outside the full Endgame scope, and their data infrastructure is generally less prepared than the GSIBs.
-
----
-
-### Banking Finance-Function Metrics
-
-**NIM and Deposit Costs:** July 2026 PrecisionLender data shows fixed NIM improved fourteen basis points (one point seven zero to one point eight four percent) and SOFR NIM improved eight basis points, the first month of spread expansion since January. SOFR funding costs ended July at four point three five percent, reflecting the divergence between fixed and floating funding that is one of the more significant structural shifts in pricing this year. Deposit rates remain sticky well above where liability-sensitive CFO models assumed they would be following last year's Fed cuts. One Citizens Financial Group Q2 filing shows interest-bearing deposit costs at one point six nine percent in Q2, down from one point nine nine percent in Q2 2025, but the pace of decline has slowed materially. Non-interest-bearing deposit growth at banks managing it proactively -- Seacoast Banking reported four percent annualized NIB growth in Q2 -- is becoming a key NIM protection lever.
-
-**Credit and Provisioning:** Enterprise Financial's Q2 result is a warning signal for credit teams: two large commercial charge-offs totaling approximately fourteen million dollars drove earnings fifteen percent below consensus, and the bank guided NIM to remain in the mid-to-upper four point two zero percent range with continued credit cost pressure. The pattern of solid NIM paired with rising credit costs is appearing across the regional cohort and is beginning to reshape provisioning model inputs.
-
-**Efficiency and Capital:** The AI-versus-headcount tradeoff is crystallizing in 2026 budget cycles. Gartner's 2026 CFO Agenda survey found just thirty-six percent of CFOs feel confident they can drive meaningful enterprise impact from AI even as investment climbs, reflecting a gap between spending and realized efficiency gains.
-
----
-
-### Regulatory Radar
-
-**Basel III Endgame:** The March 19, 2026 re-proposal from the Fed, OCC, and FDIC has now entered the post-comment phase. Bloomberg Intelligence analysis had flagged Q4 2026 finalization as the working timeline, with implementation beginning in 2027. PwC notes the package lowers capital requirements overall and reduces duplication, but creates simultaneous new demands on treasury, risk, finance, reporting, and data teams. The EU deferred FRTB to January 2027; the UK's PRA finalized Basel 3.1 for January 2027. The cross-jurisdictional divergence in implementation timelines is a new complexity layer for internationally active U.S. banks with European operations.
-
-**Jackson Hole Digital Finance Angle:** The symposium theme "Financial Innovation: Implications for Payments and Policy" is the first in the event's history to center digital payments and financial technology. The GENIUS Act gave stablecoins their first federal framework, and major U.S. banks are positioning to issue their own dollar-pegged tokens. Any Warsh language on stablecoin regulation, CBDC frameworks, or programmable money has direct implications for bank treasury and controllership teams that are already assessing token-denominated liability accounting treatment.
-
-**Treasury Buyback as Implicit Bank Capital Incentive:** TalkMarkets reporting notes the administration adjusted capital requirements for large banks to incentivize holding more Treasuries, a move paired with the doubling of the buyback program to at least thirty-two billion dollars per quarter. This is a regulatory-market policy hybrid that directly affects HQLA composition decisions and the fair-value marks on securities portfolios -- a controller-level issue.
-
----
-
-### AI in Finance
-
-**The Confidence-Spend Gap Is the Real Story:** Gartner data released in a July 2026 Forbes analysis is the sharpest current benchmark: fifty-six percent of CFOs rank cost optimization in their top five priorities, but only thirty-six percent feel confident they can drive meaningful enterprise impact from AI. That gap between spending and confidence is evidence, as the source notes, that AI adoption in finance has outpaced the operating models and data foundations needed to sustain it. For bank finance technology buyers, this is the buying-pattern signal: demand is now shifting from AI tool procurement toward data infrastructure, governance frameworks, and model validation -- the underpinnings without which AI investments underperform.
-
-**Agentic AI in the Finance Function:** The frontier framing from CFO Connect and FutureCFO reporting is consistent: real-time visibility is now table stakes; the new frontier is agentic AI that actively simulates the future and recommends actions, not just reports on the past. For bank FP&A, the practical implication is that the vendors selling AI-augmented planning tools (OneStream, Oracle EPM, Workday Adaptive) are competing on the quality of their agent architecture -- can the system actually run a rate scenario end-to-end and recommend a funding-mix action, or does it still require a human to interpret outputs and rebuild models manually?
-
-**Governance Before Scale:** The Wolters Kluwer 2026 Future Ready CFO report found fifty-five percent of finance leaders are concerned about loss of human judgment and oversight in AI deployments. The implication for bank finance functions: governance-first deployment is not a soft preference but a control-environment requirement, especially in regulatory reporting and stress testing where model outputs have supervisory consequences. Banks that deployed AI tools without redesigning jobs or establishing governance -- estimated at eighty-four percent of organizations per one advisory source -- are generating low adoption and limited impact.
-
----
-
-### CFO Agenda, FP&A, and Transformation Signals
-
-**The Pre-Jackson Hole Scenario-Planning Problem:** Warsh's deliberate reduction of forward guidance and omission of specific rate forecasts from the dot plot means CFO planning teams cannot anchor their September rate scenario on Fed language. The practical consequence: banks must maintain live, multi-scenario NII models through September 16, with material differences in NIM and deposit-cost trajectories depending on whether the Fed hikes, holds, or signals a pivot. Finance transformation teams selling continuous planning capabilities have a concrete, dated proof point to use with bank clients this week.
-
-**Cost Tension Driving Transformation Spend:** Finance transformation has topped the CFO agenda for the third consecutive year per Gartner's Evanta community, and it is being driven by the need to do more with tighter resources. The fifty-six percent versus forty-seven percent tension between cost optimization and growth allocation is not resolving -- it is structurally persisting -- which is why transformation spend continues even in a cost-containment environment. The investment case is not "spend to grow"; it is "spend to maintain the same output with fewer people."
-
-**Deposit-Beta Modeling Is Broken:** The confirmed asymmetry between Fed rate cuts and actual deposit cost relief -- documented in live commercial pricing data for the first time this month -- means the deposit-cost models that most bank FP&A teams built in 2024 are systematically over-optimistic. Recalibrating those models is an immediate FP&A workload that requires better data integration between treasury and the planning platform, a transformation trigger with a clear, current business case.
-
----
-
-### Contrarian Insight
-
-The conventional wisdom entering Jackson Hole is that Warsh's speech will resolve September rate uncertainty. It almost certainly will not -- and that is the correct CFO planning posture. Warsh has structurally reduced forward guidance; he has appointed task teams rather than issuing policy prescriptions; and the symposium's official theme (digital payments) gives him cover to avoid rate specifics entirely. Bank finance teams that plan for post-speech clarity are setting themselves up for a disrupted weekend. The better posture is to treat August 28 as an input that narrows, but does not resolve, the scenario distribution, and to have scenario-specific NIM and deposit-cost models already running before the speech lands. The CFOs who will be best positioned are those whose planning infrastructure can update scenario outputs overnight on Friday without a manual rebuild.
-
----
-
-### Client Conversation Hooks
-
-1. **"The deposit-beta model recalibration problem"** -- Fresh July 2026 PrecisionLender data shows deposit rates have not followed last year's Fed cuts down by anything close to the magnitude treasury teams modeled. How current is your client's deposit-cost model, and does their planning platform have the data integration to update it in real time as the rate path shifts post-Jackson Hole?
-
-2. **"Basel Endgame moves from advocacy to infrastructure"** -- The comment period is closed and finalization is tracking for Q4 2026. The new question is not "what does the rule say" but "does the bank's data layer actually produce the inputs the new standardized approach requires?" Super-regionals on the separate Standardized Approach track are the most under-prepared cohort for this transition.
-
-3. **"The AI confidence gap is a buying signal, not a warning signal"** -- Only thirty-six percent of CFOs feel confident in AI's enterprise impact despite rising spend. That gap is not an argument against AI investment; it is an argument for investing in the data infrastructure and governance frameworks that make AI deployable in a regulated finance function. Where is your client spending relative to that sequencing?]]></description>
-      <itunes:summary>I&#x27;ll run all key searches simultaneously to capture the freshest developments as of Monday, August 24, 2026.Now I have the key data I need. Let me also run one final targeted search on a fresh angle for today.I now have all the material I need for a comprehensive, fully sourced briefing with fresh angles not repeated from prior episodes. Let me synthesize both parts.
-
----
-
-## Finance Pulse | Monday, August 24, 2026
-
-**Bottom line: Jackson Hole this Friday is the most consequential single event for bank CFO planning assumptions since the July FOMC split; Fed Chair Warsh delivers his inaugural keynote on August 28 with September hike odds at fifty-seven percent and a thirty-year yield that clawed back to five point two four percent after last week&#x27;s Treasury buyback reprieve fully unwound -- and this week the critical new angle is not rates themselves but what Warsh&#x27;s stated preference for structural frameworks over forward guidance means for the scenario-planning horizon every bank finance function is working against.**
-
----
-
-### Top Takeaways
-
-1. Jackson Hole (August 27-29) is the dominant pre-FOMC signal event; Warsh&#x27;s speech Friday is being treated as a blank check that could move September hike probability by twenty-plus points in either direction.
-2. The thirty-year yield is back at five point two four percent and the two-year at four point two three percent as of today, confirming that last week&#x27;s Treasury buyback was a liquidity support tool, not a structural ceiling -- a distinction that matters for bank ALM duration positioning.
-3. The Atlanta Fed&#x27;s most current reading puts September hike probability at fifty-seven percent, a material shift from the hold consensus that prevailed in early August, and the primary driver of re-pricing in bank deposit-cost models this week.
-4. The Basel III March 2026 re-proposal&#x27;s comment period closed June 18; the practical story has now shifted from &quot;what is in the proposal&quot; to &quot;what does the bank&#x27;s data and technology infrastructure need to actually compute it&quot; -- a transformation demand signal that is under-recognized.
-5. Gartner data shows fifty-six percent of CFOs rank enterprise cost optimization in their top five while forty-seven percent simultaneously rank capital allocation to growth -- a tension that is driving finance transformation spend, not slowing it.
-
----
-
-### Key Themes
-
-**1. Jackson Hole as the New Scenario-Planning Pivot (New)**
-Warsh&#x27;s August 28 keynote is new territory for bank finance teams because, unlike Powell-era Jackson Hole speeches, Warsh has deliberately curtailed forward guidance and omitted specific rate forecasts from the dot plot. That means the speech creates scenario *ambiguity*, not scenario *clarity*. CFO planning teams cannot simply extrapolate from the address -- they must hold multiple rate paths open simultaneously through September 16.
-
-**2. Deposit-Cost Stickiness Persisting Despite a Static Fed Funds Rate (Evolving)**
-Q2 PrecisionLender commercial pricing data released this month shows that despite the Fed cutting short-term rates by seventy-five basis points in autumn 2025, deposit rates in the portfolio have not followed that move lower by anything close to that magnitude. Fixed-rate spreads had been narrowing since January, and July was the first month to reverse that trend. The structural implication: deposit beta asymmetry is now confirmed in live pricing data, not just in earnings commentary, and it is compressing the NIM tailwind that CFOs projected when the Fed eased last year.
-
-**3. The Basel Re-Proposal Implementation Data Gap (New)**
-With the comment period closed and regulators signaling finalization by Q4 2026, the next phase of Basel III Endgame work shifts from policy advocacy to implementation readiness. PwC&#x27;s analysis notes the March 2026 proposals create new strategic and operational questions for treasury, risk, finance, reporting, and data teams simultaneously. The under-discussed issue: regional banks now face a separate &quot;Standardized Approach&quot; track that extends more granular capital requirements to institutions previously outside the full Endgame scope, and their data infrastructure is generally less prepared than the GSIBs.
-
----
-
-### Banking Finance-Function Metrics
-
-**NIM and Deposit Costs:** July 2026 PrecisionLender data shows fixed NIM improved fourteen basis points (one point seven zero to one point eight four percent) and SOFR NIM improved eight basis points, the first month of spread expansion since January. SOFR funding costs ended July at four point three five percent, reflecting the divergence between fixed and floating funding that is one of the more significant structural shifts in pricing this year. Deposit rates remain sticky well above where liability-sensitive CFO models assumed they would be following last year&#x27;s Fed cuts. One Citizens Financial Group Q2 filing shows interest-bearing deposit costs at one point six nine percent in Q2, down from one point nine nine percent in Q2 2025, but the pace of decline has slowed materially. Non-interest-bearing deposit growth at banks managing it proactively -- Seacoast Banking reported four percent annualized NIB growth in Q2 -- is becoming a key NIM protection lever.
-
-**Credit and Provisioning:** Enterprise Financial&#x27;s Q2 result is a warning signal for credit teams: two large commercial charge-offs totaling approximately fourteen million dollars drove earnings fifteen percent below consensus, and the bank guided NIM to remain in the mid-to-upper four point two zero percent range with continued credit cost pressure. The pattern of solid NIM paired with rising credit costs is appearing across the regional cohort and is beginning to reshape provisioning model inputs.
-
-**Efficiency and Capital:** The AI-versus-headcount tradeoff is crystallizing in 2026 budget cycles. Gartner&#x27;s 2026 CFO Agenda survey found just thirty-six percent of CFOs feel confident they can drive meaningful enterprise impact from AI even as investment climbs, reflecting a gap between spending and realized efficiency gains.
-
----
-
-### Regulatory Radar
-
-**Basel III Endgame:** The March 19, 2026 re-proposal from the Fed, OCC, and FDIC has now entered the post-comment phase. Bloomberg Intelligence analysis had flagged Q4 2026 finalization as the working timeline, with implementation beginning in 2027. PwC notes the package lowers capital requirements overall and reduces duplication, but creates simultaneous new demands on treasury, risk, finance, reporting, and data teams. The EU deferred FRTB to January 2027; the UK&#x27;s PRA finalized Basel 3.1 for January 2027. The cross-jurisdictional divergence in implementation timelines is a new complexity layer for internationally active U.S. banks with European operations.
-
-**Jackson Hole Digital Finance Angle:** The symposium theme &quot;Financial Innovation: Implications for Payments and Policy&quot; is the first in the event&#x27;s history to center digital payments and financial technology. The GENIUS Act gave stablecoins their first federal framework, and major U.S. banks are positioning to issue their own dollar-pegged tokens. Any Warsh language on stablecoin regulation, CBDC frameworks, or programmable money has direct implications for bank treasury and controllership teams that are already assessing token-denominated liability accounting treatment.
-
-**Treasury Buyback as Implicit Bank Capital Incentive:** TalkMarkets reporting notes the administration adjusted capital requirements for large banks to incentivize holding more Treasuries, a move paired with the doubling of the buyback program to at least thirty-two billion dollars per quarter. This is a regulatory-market policy hybrid that directly affects HQLA composition decisions and the fair-value marks on securities portfolios -- a controller-level issue.
-
----
-
-### AI in Finance
-
-**The Confidence-Spend Gap Is the Real Story:** Gartner data released in a July 2026 Forbes analysis is the sharpest current benchmark: fifty-six percent of CFOs rank cost optimization in their top five priorities, but only thirty-six percent feel confident they can drive meaningful enterprise impact from AI. That gap between spending and confidence is evidence, as the source notes, that AI adoption in finance has outpaced the operating models and data foundations needed to sustain it. For bank finance technology buyers, this is the buying-pattern signal: demand is now shifting from AI tool procurement toward data infrastructure, governance frameworks, and model validation -- the underpinnings without which AI investments underperform.
-
-**Agentic AI in the Finance Function:** The frontier framing from CFO Connect and FutureCFO reporting is consistent: real-time visibility is now table stakes; the new frontier is agentic AI that actively simulates the future and recommends actions, not just reports on the past. For bank FP&amp;A, the practical implication is that the vendors selling AI-augmented planning tools (OneStream, Oracle EPM, Workday Adaptive) are competing on the quality of their agent architecture -- can the system actually run a rate scenario end-to-end and recommend a funding-mix action, or does it still require a human to interpret outputs and rebuild models manually?
-
-**Governance Before Scale:** The Wolters Kluwer 2026 Future Ready CFO report found fifty-five percent of finance leaders are concerned about loss of human judgment and oversight in AI deployments. The implication for bank finance functions: governance-first deployment is not a soft preference but a control-environment requirement, especially in regulatory reporting and stress testing where model outputs have supervisory consequences. Banks that deployed AI tools without redesigning jobs or establishing governance -- estimated at eighty-four percent of organizations per one advisory source -- are generating low adoption and limited impact.
-
----
-
-### CFO Agenda, FP&amp;A, and Transformation Signals
-
-**The Pre-Jackson Hole Scenario-Planning Problem:** Warsh&#x27;s deliberate reduction of forward guidance and omission of specific rate forecasts from the dot plot means CFO planning teams cannot anchor their September rate scenario on Fed language. The practical consequence: banks must maintain live, multi-scenario NII models through September 16, with material differences in NIM and deposit-cost trajectories depending on whether the Fed hikes, holds, or signals a pivot. Finance transformation teams selling continuous planning capabilities have a concrete, dated proof point to use with bank clients this week.
-
-**Cost Tension Driving Transformation Spend:** Finance transformation has topped the CFO agenda for the third consecutive year per Gartner&#x27;s Evanta community, and it is being driven by the need to do more with tighter resources. The fifty-six percent versus forty-seven percent tension between cost optimization and growth allocation is not resolving -- it is structurally persisting -- which is why transformation spend continues even in a cost-containment environment. The investment case is not &quot;spend to grow&quot;; it is &quot;spend to maintain the same output with fewer people.&quot;
-
-**Deposit-Beta Modeling Is Broken:** The confirmed asymmetry between Fed rate cuts and actual deposit cost relief -- documented in live commercial pricing data for the first time this month -- means the deposit-cost models that most bank FP&amp;A teams built in 2024 are systematically over-optimistic. Recalibrating those models is an immediate FP&amp;A workload that requires better data integration between treasury and the planning platform, a transformation trigger with a clear, current business case.
-
----
-
-### Contrarian Insight
-
-The conventional wisdom entering Jackson Hole is that Warsh&#x27;s speech will resolve September rate uncertainty. It almost certainly will not -- and that is the correct CFO planning posture. Warsh has structurally reduced forward guidance; he has appointed task teams rather than issuing policy prescriptions; and the symposium&#x27;s official theme (digital payments) gives him cover to avoid rate specifics entirely. Bank finance teams that plan for post-speech clarity are setting themselves up for a disrupted weekend. The better posture is to treat August 28 as an input that narrows, but does not resolve, the scenario distribution, and to have scenario-specific NIM and deposit-cost models already running before the speech lands. The CFOs who will be best positioned are those whose planning infrastructure can update scenario outputs overnight on Friday without a manual rebuild.
-
----
-
-### Client Conversation Hooks
-
-1. **&quot;The deposit-beta model recalibration problem&quot;** -- Fresh July 2026 PrecisionLender data shows deposit rates have not followed last year&#x27;s Fed cuts down by anything close to the magnitude treasury teams modeled. How current is your client&#x27;s deposit-cost model, and does their planning platform have the data integration to update it in real time as the rate path shifts post-Jackson Hole?
-
-2. **&quot;Basel Endgame moves from advocacy to infrastructure&quot;** -- The comment period is closed and finalization is tracking for Q4 2026. The new question is not &quot;what does the rule say&quot; but &quot;does the bank&#x27;s data layer actually produce the inputs the new standardized approach requires?&quot; Super-regionals on the separate Standardized Approach track are the most under-prepared cohort for this transition.
-
-3. **&quot;The AI confidence gap is a buying signal, not a warning signal&quot;** -- Only thirty-six percent of CFOs feel confident in AI&#x27;s enterprise impact despite rising spend. That gap is not an argument against AI investment; it is an argument for investing in the data infrastructure and governance frameworks that make AI deployable in a regulated finance function. Where is your client spending relative to that sequencing?</itunes:summary>
-      <pubDate>Mon, 24 Aug 2026 04:46:05 -0400</pubDate>
-      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-08-24.mp3" length="7648557" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-08-24.mp3</guid>
-      <itunes:duration>7:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

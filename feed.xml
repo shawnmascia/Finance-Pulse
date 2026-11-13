@@ -15,7 +15,197 @@
       <itunes:email>shawn.mascia@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://shawnmascia.github.io/Finance-Pulse/cover.jpg"/>
-    <lastBuildDate>Thu, 12 Nov 2026 09:49:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:49:32 +0000</lastBuildDate>
+    <item>
+      <title>Finance Pulse - Nov 13, 2026</title>
+      <description><![CDATA[I now have comprehensive fresh data across all required domains. Let me compile both outputs with what is genuinely new for November 13, 2026.
+
+---
+
+## Finance Pulse | Friday, November 13, 2026
+
+**Bottom line: Today's October PPI release, arriving with a consensus forecast of six point six percent year-over-year and sitting squarely on the Fed's desk before December ninth, is the week's closing data punch; New York Fed President Williams speaks this evening as the first permanent FOMC voter to address markets after the hot CPI, and what he says about the fifty-basis-point door will define the weekend rate narrative -- meanwhile the super-regional cohort is absorbing a new and underappreciated balance-sheet shock as rising long-end yields drove a one point six billion dollar AOCI hit at Fifth Third alone, a harbinger of the Q4 mark-to-market pressure CFOs across the cohort are quietly modeling right now.**
+
+---
+
+### Top Takeaways
+
+1. **Today's October PPI is the week's last inflation data point before the December ninth Fed decision.** Consensus expects headline producer prices at six point six percent year-over-year, up from six point three in September, following a September month-over-month that shocked at one point three percent. Even at consensus, this would be the highest annual PPI since November 2022, compressing any residual hope of a Fed pause.
+
+2. **NY Fed President Williams speaks tonight -- and his remarks carry decisive weight.** Williams is a permanent FOMC voter and the Committee's vice chair. He speaks two days after the hot CPI, making this the first scheduled opportunity for a core policymaker to either ratify or push back on the fifty-basis-point scenario that Waller opened. CFOs need to listen.
+
+3. **Fifth Third's post-Comerica integration is producing a new rate-sensitivity signal.** Rising long-end yields drove a one point six billion dollar reduction in Fifth Third's accumulated other comprehensive income in Q3, a direct consequence of combining a larger securities portfolio at a moment of yield volatility. This is a live and underappreciated integration risk that is not fully priced into super-regional comps.
+
+4. **Roughly half of financial services firms cannot consistently demonstrate ROI on agentic AI**, according to a November five report from Paris. Only five percent have institutionalized agentic AI at enterprise scale. This is the most credible current data point on the gap between vendor marketing and actual bank finance deployments.
+
+5. **Basel III Endgame: still not finalized.** As of September thirty, no final rule has appeared in the Federal Register. Finalization is targeted for Q4 2026, but the clock is tight, and finance teams at Category I through III banks should continue treating this as a proposal in flux.
+
+---
+
+### Key Themes
+
+**Theme 1 (New): The PPI-to-PCE pipeline and what it means for bank CFO December assumptions.** October PPI data, releasing this morning, feeds directly into the PCE price index -- the Fed's preferred inflation gauge -- which arrives November twenty-fifth. That PCE read is the last major data point before the December ninth decision. If PPI comes in at or above consensus, the PCE pipeline becomes hotter, reinforcing the case for a faster move. CFOs who are still planning against a single twenty-five-basis-point December hike are running a scenario that the data is steadily dismantling.
+
+**Theme 2 (Evolving): The long-end yield shock is now a balance-sheet event, not just a planning assumption.** The ten-year Treasury crossed five point one two percent this morning, up more than thirteen basis points in a single session on Thursday. For bank treasurers and controllers, this is not an abstract rate-path question. It is a live AOCI compression event with direct CET1 capital implications, as Fifth Third's Q3 experience demonstrates. The finance function owns the measurement, the disclosure, and the hedging strategy.
+
+**Theme 3 (New): The Williams speech tonight resets the fifty-basis-point probability curve.** Markets have been trading the fifty-basis-point risk as a thirteen percent tail since Waller's comments. Williams, as vice chair and permanent voter, has not yet spoken post-CPI. His framing tonight -- whether he treats fifty as theoretical or plausible -- will either compress or widen that tail going into the weekend. Scenario planning for December must now explicitly model both lanes.
+
+---
+
+### Banking Finance-Function
+
+**NIM and Deposit Dynamics:** The re-emerging rate-hike cycle is reintroducing an asymmetry CFOs thought they had escaped. Asset-sensitive banks with meaningful variable-rate loan portfolios stand to benefit: Atlantic Union's CFO quantified the relationship at approximately three basis points of NIM expansion per twenty-five-basis-point hike in a quarter. But the benefit is offset by deposit repricing lag and by mix shift pressure as customers continue moving into higher-yielding products. Super-regionals must now separately model the asset-sensitivity benefit against the AOCI and funding-cost drag.
+
+**Capital and AOCI:** The long-end yield spike is creating a widening gap between book capital and tangible common equity as securities portfolios reprice lower. When longer-term rates rise, the bonds a bank holds lose value on paper, and higher rates reduced Fifth Third's accumulated other comprehensive income by one point six billion dollars in the third quarter. With the ten-year now above five percent and threatening to move further, Q4 marks will be worse for any bank carrying a sizable held-to-maturity or available-for-sale portfolio. CFOs need to stress-test their AOCI buffer against a fifty-basis-point December scenario today.
+
+**Super-Regional Cohort Update:** Morningstar rates Fifth Third as on track to integrate Comerica, raising its fair value estimate to fifty-seven dollars from fifty-six. Fifth Third now operates approximately one thousand four hundred twenty-nine banking centers and two thousand five hundred forty-nine ATMs following its Comerica acquisition, and raised its quarterly dividend to forty-two cents from forty cents in September 2026. The integration is a live finance-function event: two general ledgers, two planning cycles, two sets of regulatory reporting obligations converging simultaneously against a rising-rate backdrop.
+
+UBS Group cut its price target on PNC Financial Services Group from two hundred eighty-six dollars to two hundred seventy-eight dollars while maintaining a buy rating, in a report on November second. KeyCorp declared its Q4 2026 preferred dividends payable December fifteenth, confirming capital distribution stability even as the rate environment tightens.
+
+---
+
+### Regulatory Radar
+
+**Basel III Endgame:** As of September thirty, 2026, no final rule has appeared in the Federal Register. Compliance and finance teams at covered banks should treat the endgame as a proposal whose scope, calibration, and dates can still change, and track it through the consultation and final-rule stages rather than planning against the 2023 text. Based on the agencies' own estimates, CET1 requirements would fall by roughly five point two percent for regional banks in Category III and IV, largely through elimination of certain deductions. Category III and IV banks can choose whether to adopt the external ratings-based approach or continue under a revised standardized approach, giving mid-sized regional banks more flexibility than the largest GSIBs. The practical implication for finance transformation: capital planning models must maintain dual-scenario capability until the final rule actually lands.
+
+**Federal Reserve AI Governance (SR 26-2):** US Federal SR 26-2, effective April 2026, extends SR 11-7 model risk management requirements explicitly to AI and ML systems in banking, requiring model inventory and classification, independent validation, performance monitoring, documentation, and board-level governance for all material banking AI systems. This is the exam-ready obligation that converts every agentic finance deployment into a model risk management event. Any bank piloting AI in regulatory reporting, stress testing, or treasury has a governance gap to close before the next exam cycle.
+
+---
+
+### AI in Finance
+
+**The ROI Reality Check:** Roughly half of financial services firms cannot consistently demonstrate a return on their agentic AI initiatives and lack clear frameworks for assessing whether those initiatives deliver sufficient value to justify continued investment. Only about five percent of financial institutions surveyed have institutionalized the capabilities required to operate agentic AI at enterprise scale. For finance transformation consultants, this is the single most important data point in the room: the gap between vendor promise and enterprise reality remains enormous, and clients who have not yet built governance frameworks, model inventories, and clean data foundations are not close to that five percent.
+
+**Where Real Deployments Are Happening:** In one documented deployment, a finance insight agent automated more than ninety percent of business intelligence work in nine months, compressing a transformation that had previously taken three years. As much as eighty percent of FP&A work is still spent extracting and packaging data and performing simple calculations, which is precisely why FP&A is the highest-ROI entry point. Organizations report thirty to fifty percent faster planning cycles and a structural shift from annual budgeting to continuous rolling forecasts within twelve months of deployment, with AP/AR automation delivering the fastest payback at thirty to sixty days.
+
+**Vendor Moves:** OneStream recently announced the general availability of its Finance Agentic Layer, allowing CFO offices to deploy AI agents that interact directly with financial data models. This is a real product release, not a roadmap item, and positions OneStream directly against Oracle EPM and Workday Adaptive for the agentic FP&A budget at banks.
+
+**CFO Agenda Connection:** CFOs deploying AI across three or more finance functions achieve close cycles seven days faster and reduce compliance costs forty to sixty percent, per Gartner 2026. For bank CFOs facing rising workloads in regulatory reporting and stress testing against flat or shrinking headcount, that compliance cost reduction is the investment thesis, not the FP&A efficiency story.
+
+**Buying Pattern Signal:** Firms are converging on a hybrid sourcing model that balances building capabilities in-house for differentiation, buying packaged agentic solutions to accelerate deployment at scale, and working with partners for ecosystem depth. Banks are increasingly not choosing between build and buy -- they are doing both, which means the finance technology budget is bifurcating between platform spend (OneStream, Workday, Oracle, SAP) and point-solution spend on agentic workflow tools.
+
+---
+
+### CFO Agenda, FP&A, and Transformation Signals
+
+**The AOCI Disclosure Urgency:** With the ten-year at five point one two and PPI dropping this morning, controllers at every bank with a sizable securities portfolio face an immediate Q4 disclosure planning question. The finance function must quantify the impact, assess the hedging posture, and prepare board-level communication before year-end. This is a near-term workload spike that is not in most transformation roadmaps.
+
+**Integration Finance at Fifth Third:** The Comerica integration is the live case study for finance transformation demand creation. Merging two planning cycles, two chart-of-accounts structures, and two regulatory reporting platforms against a rising-rate backdrop while managing a significant AOCI hit is exactly the kind of cost-versus-workload squeeze that drives outsized investment in EPM consolidation, close automation, and regulatory reporting platforms. The consultants in this space should be in those conversations now.
+
+**November Twenty-Fifth PCE as the CFO's True Decision Point:** The October PCE, releasing November twenty-fifth, is the last major data input before December ninth. If today's PPI feeds through at or above consensus, the PCE pipeline gets hotter. CFOs who have not yet built the fifty-basis-point December scenario into their Q4 and 2027 planning models are behind the data.
+
+---
+
+### Contrarian Insight
+
+The consensus framing treats the fifty-basis-point December scenario as a tail risk to be monitored. But look at it from the Fed's communication posture: Governor Waller explicitly said fifty should be "considered," Chicago Fed's Goolsbee called the inflation data "borderline disturbing," and Cleveland Fed's Hammack dissented in favor of moving faster at the last meeting. Williams speaks tonight. If he does not explicitly close the door on fifty, markets will move the probability from thirteen percent toward twenty or above over the weekend. Bank CFOs running scenario planning only against twenty-five basis points are not planning -- they are hoping.
+
+---
+
+### Client Conversation Hooks
+
+1. **"Your Q4 AOCI stress test: have you sized the fifty-basis-point scenario?"** The ten-year is at five point one two and climbing. What does a further thirty-basis-point move do to your held-to-maturity and AFS portfolio, and does your capital ratio stay above your internal trigger?
+
+2. **"The five percent problem in agentic AI: where does your bank land?"** Only one in twenty financial institutions has institutionalized agentic AI at enterprise scale. Before your next AI investment decision, can you demonstrate ROI on the pilots you already have running?
+
+3. **"The Basel Endgame is still a proposal -- but it is redesigning your capital planning model today."** Category III and IV banks have optionality on the ratings-based approach that the largest GSIBs do not. Are you modeling both paths, or are you waiting for finalization to run the analysis?]]></description>
+      <itunes:summary>I now have comprehensive fresh data across all required domains. Let me compile both outputs with what is genuinely new for November 13, 2026.
+
+---
+
+## Finance Pulse | Friday, November 13, 2026
+
+**Bottom line: Today&#x27;s October PPI release, arriving with a consensus forecast of six point six percent year-over-year and sitting squarely on the Fed&#x27;s desk before December ninth, is the week&#x27;s closing data punch; New York Fed President Williams speaks this evening as the first permanent FOMC voter to address markets after the hot CPI, and what he says about the fifty-basis-point door will define the weekend rate narrative -- meanwhile the super-regional cohort is absorbing a new and underappreciated balance-sheet shock as rising long-end yields drove a one point six billion dollar AOCI hit at Fifth Third alone, a harbinger of the Q4 mark-to-market pressure CFOs across the cohort are quietly modeling right now.**
+
+---
+
+### Top Takeaways
+
+1. **Today&#x27;s October PPI is the week&#x27;s last inflation data point before the December ninth Fed decision.** Consensus expects headline producer prices at six point six percent year-over-year, up from six point three in September, following a September month-over-month that shocked at one point three percent. Even at consensus, this would be the highest annual PPI since November 2022, compressing any residual hope of a Fed pause.
+
+2. **NY Fed President Williams speaks tonight -- and his remarks carry decisive weight.** Williams is a permanent FOMC voter and the Committee&#x27;s vice chair. He speaks two days after the hot CPI, making this the first scheduled opportunity for a core policymaker to either ratify or push back on the fifty-basis-point scenario that Waller opened. CFOs need to listen.
+
+3. **Fifth Third&#x27;s post-Comerica integration is producing a new rate-sensitivity signal.** Rising long-end yields drove a one point six billion dollar reduction in Fifth Third&#x27;s accumulated other comprehensive income in Q3, a direct consequence of combining a larger securities portfolio at a moment of yield volatility. This is a live and underappreciated integration risk that is not fully priced into super-regional comps.
+
+4. **Roughly half of financial services firms cannot consistently demonstrate ROI on agentic AI**, according to a November five report from Paris. Only five percent have institutionalized agentic AI at enterprise scale. This is the most credible current data point on the gap between vendor marketing and actual bank finance deployments.
+
+5. **Basel III Endgame: still not finalized.** As of September thirty, no final rule has appeared in the Federal Register. Finalization is targeted for Q4 2026, but the clock is tight, and finance teams at Category I through III banks should continue treating this as a proposal in flux.
+
+---
+
+### Key Themes
+
+**Theme 1 (New): The PPI-to-PCE pipeline and what it means for bank CFO December assumptions.** October PPI data, releasing this morning, feeds directly into the PCE price index -- the Fed&#x27;s preferred inflation gauge -- which arrives November twenty-fifth. That PCE read is the last major data point before the December ninth decision. If PPI comes in at or above consensus, the PCE pipeline becomes hotter, reinforcing the case for a faster move. CFOs who are still planning against a single twenty-five-basis-point December hike are running a scenario that the data is steadily dismantling.
+
+**Theme 2 (Evolving): The long-end yield shock is now a balance-sheet event, not just a planning assumption.** The ten-year Treasury crossed five point one two percent this morning, up more than thirteen basis points in a single session on Thursday. For bank treasurers and controllers, this is not an abstract rate-path question. It is a live AOCI compression event with direct CET1 capital implications, as Fifth Third&#x27;s Q3 experience demonstrates. The finance function owns the measurement, the disclosure, and the hedging strategy.
+
+**Theme 3 (New): The Williams speech tonight resets the fifty-basis-point probability curve.** Markets have been trading the fifty-basis-point risk as a thirteen percent tail since Waller&#x27;s comments. Williams, as vice chair and permanent voter, has not yet spoken post-CPI. His framing tonight -- whether he treats fifty as theoretical or plausible -- will either compress or widen that tail going into the weekend. Scenario planning for December must now explicitly model both lanes.
+
+---
+
+### Banking Finance-Function
+
+**NIM and Deposit Dynamics:** The re-emerging rate-hike cycle is reintroducing an asymmetry CFOs thought they had escaped. Asset-sensitive banks with meaningful variable-rate loan portfolios stand to benefit: Atlantic Union&#x27;s CFO quantified the relationship at approximately three basis points of NIM expansion per twenty-five-basis-point hike in a quarter. But the benefit is offset by deposit repricing lag and by mix shift pressure as customers continue moving into higher-yielding products. Super-regionals must now separately model the asset-sensitivity benefit against the AOCI and funding-cost drag.
+
+**Capital and AOCI:** The long-end yield spike is creating a widening gap between book capital and tangible common equity as securities portfolios reprice lower. When longer-term rates rise, the bonds a bank holds lose value on paper, and higher rates reduced Fifth Third&#x27;s accumulated other comprehensive income by one point six billion dollars in the third quarter. With the ten-year now above five percent and threatening to move further, Q4 marks will be worse for any bank carrying a sizable held-to-maturity or available-for-sale portfolio. CFOs need to stress-test their AOCI buffer against a fifty-basis-point December scenario today.
+
+**Super-Regional Cohort Update:** Morningstar rates Fifth Third as on track to integrate Comerica, raising its fair value estimate to fifty-seven dollars from fifty-six. Fifth Third now operates approximately one thousand four hundred twenty-nine banking centers and two thousand five hundred forty-nine ATMs following its Comerica acquisition, and raised its quarterly dividend to forty-two cents from forty cents in September 2026. The integration is a live finance-function event: two general ledgers, two planning cycles, two sets of regulatory reporting obligations converging simultaneously against a rising-rate backdrop.
+
+UBS Group cut its price target on PNC Financial Services Group from two hundred eighty-six dollars to two hundred seventy-eight dollars while maintaining a buy rating, in a report on November second. KeyCorp declared its Q4 2026 preferred dividends payable December fifteenth, confirming capital distribution stability even as the rate environment tightens.
+
+---
+
+### Regulatory Radar
+
+**Basel III Endgame:** As of September thirty, 2026, no final rule has appeared in the Federal Register. Compliance and finance teams at covered banks should treat the endgame as a proposal whose scope, calibration, and dates can still change, and track it through the consultation and final-rule stages rather than planning against the 2023 text. Based on the agencies&#x27; own estimates, CET1 requirements would fall by roughly five point two percent for regional banks in Category III and IV, largely through elimination of certain deductions. Category III and IV banks can choose whether to adopt the external ratings-based approach or continue under a revised standardized approach, giving mid-sized regional banks more flexibility than the largest GSIBs. The practical implication for finance transformation: capital planning models must maintain dual-scenario capability until the final rule actually lands.
+
+**Federal Reserve AI Governance (SR 26-2):** US Federal SR 26-2, effective April 2026, extends SR 11-7 model risk management requirements explicitly to AI and ML systems in banking, requiring model inventory and classification, independent validation, performance monitoring, documentation, and board-level governance for all material banking AI systems. This is the exam-ready obligation that converts every agentic finance deployment into a model risk management event. Any bank piloting AI in regulatory reporting, stress testing, or treasury has a governance gap to close before the next exam cycle.
+
+---
+
+### AI in Finance
+
+**The ROI Reality Check:** Roughly half of financial services firms cannot consistently demonstrate a return on their agentic AI initiatives and lack clear frameworks for assessing whether those initiatives deliver sufficient value to justify continued investment. Only about five percent of financial institutions surveyed have institutionalized the capabilities required to operate agentic AI at enterprise scale. For finance transformation consultants, this is the single most important data point in the room: the gap between vendor promise and enterprise reality remains enormous, and clients who have not yet built governance frameworks, model inventories, and clean data foundations are not close to that five percent.
+
+**Where Real Deployments Are Happening:** In one documented deployment, a finance insight agent automated more than ninety percent of business intelligence work in nine months, compressing a transformation that had previously taken three years. As much as eighty percent of FP&amp;A work is still spent extracting and packaging data and performing simple calculations, which is precisely why FP&amp;A is the highest-ROI entry point. Organizations report thirty to fifty percent faster planning cycles and a structural shift from annual budgeting to continuous rolling forecasts within twelve months of deployment, with AP/AR automation delivering the fastest payback at thirty to sixty days.
+
+**Vendor Moves:** OneStream recently announced the general availability of its Finance Agentic Layer, allowing CFO offices to deploy AI agents that interact directly with financial data models. This is a real product release, not a roadmap item, and positions OneStream directly against Oracle EPM and Workday Adaptive for the agentic FP&amp;A budget at banks.
+
+**CFO Agenda Connection:** CFOs deploying AI across three or more finance functions achieve close cycles seven days faster and reduce compliance costs forty to sixty percent, per Gartner 2026. For bank CFOs facing rising workloads in regulatory reporting and stress testing against flat or shrinking headcount, that compliance cost reduction is the investment thesis, not the FP&amp;A efficiency story.
+
+**Buying Pattern Signal:** Firms are converging on a hybrid sourcing model that balances building capabilities in-house for differentiation, buying packaged agentic solutions to accelerate deployment at scale, and working with partners for ecosystem depth. Banks are increasingly not choosing between build and buy -- they are doing both, which means the finance technology budget is bifurcating between platform spend (OneStream, Workday, Oracle, SAP) and point-solution spend on agentic workflow tools.
+
+---
+
+### CFO Agenda, FP&amp;A, and Transformation Signals
+
+**The AOCI Disclosure Urgency:** With the ten-year at five point one two and PPI dropping this morning, controllers at every bank with a sizable securities portfolio face an immediate Q4 disclosure planning question. The finance function must quantify the impact, assess the hedging posture, and prepare board-level communication before year-end. This is a near-term workload spike that is not in most transformation roadmaps.
+
+**Integration Finance at Fifth Third:** The Comerica integration is the live case study for finance transformation demand creation. Merging two planning cycles, two chart-of-accounts structures, and two regulatory reporting platforms against a rising-rate backdrop while managing a significant AOCI hit is exactly the kind of cost-versus-workload squeeze that drives outsized investment in EPM consolidation, close automation, and regulatory reporting platforms. The consultants in this space should be in those conversations now.
+
+**November Twenty-Fifth PCE as the CFO&#x27;s True Decision Point:** The October PCE, releasing November twenty-fifth, is the last major data input before December ninth. If today&#x27;s PPI feeds through at or above consensus, the PCE pipeline gets hotter. CFOs who have not yet built the fifty-basis-point December scenario into their Q4 and 2027 planning models are behind the data.
+
+---
+
+### Contrarian Insight
+
+The consensus framing treats the fifty-basis-point December scenario as a tail risk to be monitored. But look at it from the Fed&#x27;s communication posture: Governor Waller explicitly said fifty should be &quot;considered,&quot; Chicago Fed&#x27;s Goolsbee called the inflation data &quot;borderline disturbing,&quot; and Cleveland Fed&#x27;s Hammack dissented in favor of moving faster at the last meeting. Williams speaks tonight. If he does not explicitly close the door on fifty, markets will move the probability from thirteen percent toward twenty or above over the weekend. Bank CFOs running scenario planning only against twenty-five basis points are not planning -- they are hoping.
+
+---
+
+### Client Conversation Hooks
+
+1. **&quot;Your Q4 AOCI stress test: have you sized the fifty-basis-point scenario?&quot;** The ten-year is at five point one two and climbing. What does a further thirty-basis-point move do to your held-to-maturity and AFS portfolio, and does your capital ratio stay above your internal trigger?
+
+2. **&quot;The five percent problem in agentic AI: where does your bank land?&quot;** Only one in twenty financial institutions has institutionalized agentic AI at enterprise scale. Before your next AI investment decision, can you demonstrate ROI on the pilots you already have running?
+
+3. **&quot;The Basel Endgame is still a proposal -- but it is redesigning your capital planning model today.&quot;** Category III and IV banks have optionality on the ratings-based approach that the largest GSIBs do not. Are you modeling both paths, or are you waiting for finalization to run the analysis?</itunes:summary>
+      <pubDate>Fri, 13 Nov 2026 04:46:22 -0500</pubDate>
+      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-11-13.mp3" length="6579116" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-13.mp3</guid>
+      <itunes:duration>6:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Finance Pulse - Nov 12, 2026</title>
       <description><![CDATA[I'll run all major searches simultaneously across macro, rates, banking, regulatory, and AI-in-finance domains to capture the freshest developments as of November 12, 2026.I now have strong, sourced material across all required domains. Let me compile both outputs with what is genuinely new for November 12, 2026, avoiding all recycled themes from prior episodes.
@@ -5960,190 +6150,6 @@ The consensus framing is that a capital-lighter Basel III final rule is unambigu
       <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-08-27.mp3" length="7821741" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-08-27.mp3</guid>
       <itunes:duration>8:08</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Finance Pulse - Aug 26, 2026</title>
-      <description><![CDATA[I now have sufficient sourced material to produce today's fully fresh two-part briefing. Let me synthesize it now.
-
----
-
-## Finance Pulse | Wednesday, August 26, 2026
-
-**Bottom line: Today is the day PCE prints -- the BEA's July release, due this morning, is consensus-pegged at three point six percent headline and three point three percent core, which if it matches would leave the September hike debate precisely unresolved; but the genuinely new story this Wednesday is not the print itself, it is what sits beneath the surface of the July commercial lending data: fixed-rate NIM expanded fourteen basis points in a single month after narrowing for six consecutive months, a reversal that reshapes how CFOs should frame second-half NII guidance, while the Basel III re-proposal's comment record quietly closed in June, moving the rule toward a final phase that will force every bank's treasury, risk, and finance teams to rearchitect capital calculations -- a workload the March 2026 proposals explicitly extended to regional banks for the first time.**
-
----
-
-### Top Takeaways
-
-1. **PCE prints today (August 26):** Economists project that inflation slowed a touch in July, with the PCE price gauge seen climbing three point six percent on a yearly basis; the core reading, which strips out food and energy, is forecast to hold steady at a three point three percent annual pace. If the numbers match those estimates, the debate over whether the Federal Reserve should lift its benchmark interest rate in September will remain unresolved.
-
-2. **Fixed-rate NIM reversal is the most actionable new fact for bank CFOs:** The August analysis of the Q2 PrecisionLender commercial loan and deposit pricing database, covering July 2026 activity, shows the picture is broadly positive for the first time in several months -- spreads expanded across all three rate structures and fixed-rate spreads, which had been narrowing since January, reversed that trend in July for the first time. Fixed NIM rose fourteen basis points, from one point seven zero percent to one point eight four percent, with essentially the full spread expansion flowing through to margin.
-
-3. **Basel III re-proposal now in its final approach -- and regional banks are newly in scope:** The March 2026 proposals revisit Basel III Endgame for the largest firms, introduce a separate approach for regional and smaller banks, and revise the GSIB surcharge framework. Taken together, the package lowers capital requirements overall, reduces duplication across the framework, and improves the economics of traditional lending -- but also creates new strategic and operational questions for treasury, risk, finance, reporting, and data teams as firms assess the impact and prepare for implementation.
-
----
-
-### Key Themes
-
-**1. The July PCE print as a September pivot moment (New)**
-A Wednesday release of the PCE index is anticipated to show a three point six percent rise over the twelve months ending in July, based on a Dow Jones Newswires and Wall Street Journal survey of economists -- that would represent a slight cooling from June's three point seven percent annual gain. PCE methodology is set to be revised on September 30 to eliminate the distortion created by portfolio management services prices, which means the September FOMC will be the last one to interpret inflation under the current measurement construct. This is a rarely-discussed planning assumption wrinkle: the metric the Fed is hiking or holding against changes immediately after the September decision.
-
-**2. The fixed-rate NIM reversal -- a genuine mid-year signal (New)**
-SOFR funding costs have remained relatively stable year-to-date, ending July at four point three five percent, and the divergence between fixed and floating funding costs is one of the more significant structural shifts in the pricing equation this year. For CFOs: the single-month fixed NIM reversal after six months of compression is a material development for second-half NII guidance, but it arrives against a funding curve that keeps steepening -- making the durability of the improvement the core uncertainty.
-
-**3. Agentic AI crossing from pilots to production governance (Evolving)**
-JPMorgan Chase now runs more than four hundred production AI use cases on an enterprise machine learning platform, and Goldman Sachs has twelve thousand engineers paired with AI agents handling accounting, compliance, and operational finance. The 2026 conversation among banking CIOs is about production architecture, regulatory load-bearing controls, and which functions ship to autonomous agents next -- with the EU AI Act's high-risk-system obligations now fully enforceable as of August 2, 2026.
-
----
-
-### Banking Finance-Function
-
-**NIM and Funding Costs:** With costs rising but revenue rising faster, NIM improved in July across both deal types; fixed NIM rose fourteen basis points. The Federal Reserve cut short-term rates by seventy-five basis points last fall, but deposit rates in the Q2 PrecisionLender portfolio have not followed that move lower by anything close to that magnitude. The Citizens Financial (CFG) Q2 filing confirms a related pattern: interest-bearing deposit costs outperformed a mid-thirty-percent beta, with the expectation that full-year 2026 net interest income will grow between two point five and four percent, with fixed-rate asset turnover, funding cost management, and loan growth as the key drivers.
-
-**Credit and Provisioning:** At Enterprise Financial, the positive NIM trend was offset by a sharp increase in credit costs -- the provision for credit losses more than doubled to fourteen point two million dollars from seven point two million in Q1, driven by two significant commercial charge-offs occurring late in the period. This pattern -- NIM improving while credit costs spike episodically -- is the core tension in second-half CFO planning.
-
-**Efficiency:** Headline inflation eased to three point four percent year-over-year in July while core inflation fell to two point five percent, giving the labor market enough cover to hold cost structures flat in nominal terms -- but finance functions facing rising regulatory workloads cannot hold headcount flat without automation.
-
----
-
-### Regulatory Radar
-
-**Basel III Endgame (Evolving -- comment period closed, moving toward finalization):**
-On March 19, 2026, the Federal Reserve Board, OCC, and FDIC issued three proposals that would comprehensively overhaul the existing U.S. bank capital framework and implement the Basel Committee's 2017 revisions. A primary change in the updated proposal is the removal of the dual-stack framework, where banks calculate capital ratios using both standardized and internal models -- the updated proposal emphasizes a simpler structure to reduce complexity and improve transparency. In the UK, the Prudential Regulation Authority finalized the wider Basel 3.1 package for January 1, 2027, deferring the FRTB Internal Model Approach to January 1, 2028. The jurisdictional divergence is now the dominant implementation planning problem for internationally active banks: rules are live in the UK in 2027, the EU in the same window, and the U.S. timeline remains subject to finalization.
-
-**September 30 PCE Methodology Change:** As noted above, the portfolio management services component of PPI feeds directly into the PCE price index that the Fed targets, and creates misleading swings in reported inflation because higher asset prices mechanically translate into higher prices; PCE methodology is set to be revised on September 30 to eliminate the distortion. Finance teams building Fed-dependent rate path scenarios must account for a one-time measurement shift at that date.
-
----
-
-### AI in Finance
-
-**Where banks are actually deploying (not piloting):**
-Oracle launched a dedicated agentic banking platform in February, and FIS has shipped its first Anthropic-powered Financial Crimes Agent into pilot deployments at BMO and Amalgamated. Oracle Financial Services now offers an enterprise-class suite of AI-infused applications and pre-built AI agents for treasury, trade finance, credit, and lending -- automating mission-critical processes and speeding decision-making to help banks navigate market volatility and risk.
-
-**The CFO as buyer:** More than half of CFOs -- fifty-four percent, according to Deloitte's 2026 CFO Signals Survey -- have named integrating AI agents into their finance function as their single biggest digital transformation priority this year. The buying signal is sharpening: finance leaders at major enterprises are no longer asking whether agentic AI belongs in the office of the CFO -- they are asking how fast it can be deployed, which workflows to start with, and what results they should expect.
-
-**Workforce model shift:** Visionaries now anticipate the rise of the "ten-times bank," where a single individual leads a team of AI co-workers to deliver exponentially greater output -- growth is no longer constrained by headcount, but success depends on an organization's ability to reinvent work and shape a human-and-agent workforce, with people remaining in charge of deployment and governance.
-
-**Governance reality check:** The finance chiefs broadly expect AI, including agentic AI, to shift from experimentation to proven, enterprise-wide impact -- but stress that success will depend on factors such as strong governance, clean and trusted data, modernized architectures, and human judgment. For bank finance functions specifically, the EU AI Act enforcement as of August 2 is now the first hard external governance deadline for any AI system classified as high-risk.
-
-**CFO agenda connection:** Every AI deployment in treasury (liquidity forecasting), FP&A (rolling forecasts, scenario planning), and controllership (close automation) is being evaluated against capital allocation pressure. The ROI conversation has shifted from "will it pay back" to "when does it pay back faster than doing nothing while the regulatory workload grows."
-
----
-
-### CFO Agenda, FP&A, and Transformation Signals
-
-**The second-half planning reset:** The July fixed-rate NIM reversal, arriving alongside a PCE print that may or may not resolve the September hike question, means CFO planning teams need to run at least three rate scenarios simultaneously through the end of year: hold, plus twenty-five, and hold-then-hike in December. Markets are currently pricing in two twenty-five-basis-point hikes, the first in September and the second in December, followed by no further movement through 2027.
-
-**Basel as a transformation driver:** The regional bank inclusion in the March 2026 re-proposals is the most underappreciated driver of finance transformation demand in the super-regional cohort. Banks have approximately two years to interpret the new rules, assess their impact, address new data and technology needs, and adjust business strategies -- and Basel III Endgame is a chance to modernize capital infrastructure by updating technology, becoming more agile, and addressing inefficiencies to lower operating costs.
-
-**FP&A buying signal:** Real-time visibility has become table stakes -- the new frontier is agentic AI, meaning systems that do not just report on the past but actively simulate the future and recommend actions; one CFO describes this as creating a "digital twin" for the CFO role. Finance platform vendors (OneStream, Oracle EPM, Workday Adaptive) are all racing to embed this framing into their product roadmaps.
-
----
-
-### Contrarian Insight
-
-The market and most bank CFO communications treat the fixed-rate NIM reversal in July as unambiguously good news. But a one-month reversal after six months of compression, occurring in a month when the funding curve continued to steepen, is as easily explained by temporary competitive pricing relief as by durable structural improvement. July's NIM data point is described by Q2 PrecisionLender analysts as "a positive move at midyear 2026 -- but a single move," with the composition and movement of NIM measures requiring continued monitoring. CFOs who use July as validation for optimistic H2 NII guidance are building on a one-data-point foundation. The more conservative framing -- one reversal in a six-month deteriorating trend -- is the one that protects credibility if August data reverts.
-
----
-
-### Client Conversation Hooks
-
-1. **"How does your NII forecast change if July's fixed-rate NIM reversal is structural versus one-month noise -- and do you have separate scenarios for each?"**
-2. **"The March 2026 Basel re-proposal explicitly brings regionals into scope for the first time. Has your finance and risk data infrastructure been assessed against what that means for your capital calculation and reporting build?"**
-3. **"The PCE methodology changes on September 30 -- the same month as the FOMC meeting. Are your rate-path planning assumptions built on the pre- or post-revision inflation construct, and does your Fed watcher know which one the FOMC will be using to make the September decision?"**]]></description>
-      <itunes:summary>I now have sufficient sourced material to produce today&#x27;s fully fresh two-part briefing. Let me synthesize it now.
-
----
-
-## Finance Pulse | Wednesday, August 26, 2026
-
-**Bottom line: Today is the day PCE prints -- the BEA&#x27;s July release, due this morning, is consensus-pegged at three point six percent headline and three point three percent core, which if it matches would leave the September hike debate precisely unresolved; but the genuinely new story this Wednesday is not the print itself, it is what sits beneath the surface of the July commercial lending data: fixed-rate NIM expanded fourteen basis points in a single month after narrowing for six consecutive months, a reversal that reshapes how CFOs should frame second-half NII guidance, while the Basel III re-proposal&#x27;s comment record quietly closed in June, moving the rule toward a final phase that will force every bank&#x27;s treasury, risk, and finance teams to rearchitect capital calculations -- a workload the March 2026 proposals explicitly extended to regional banks for the first time.**
-
----
-
-### Top Takeaways
-
-1. **PCE prints today (August 26):** Economists project that inflation slowed a touch in July, with the PCE price gauge seen climbing three point six percent on a yearly basis; the core reading, which strips out food and energy, is forecast to hold steady at a three point three percent annual pace. If the numbers match those estimates, the debate over whether the Federal Reserve should lift its benchmark interest rate in September will remain unresolved.
-
-2. **Fixed-rate NIM reversal is the most actionable new fact for bank CFOs:** The August analysis of the Q2 PrecisionLender commercial loan and deposit pricing database, covering July 2026 activity, shows the picture is broadly positive for the first time in several months -- spreads expanded across all three rate structures and fixed-rate spreads, which had been narrowing since January, reversed that trend in July for the first time. Fixed NIM rose fourteen basis points, from one point seven zero percent to one point eight four percent, with essentially the full spread expansion flowing through to margin.
-
-3. **Basel III re-proposal now in its final approach -- and regional banks are newly in scope:** The March 2026 proposals revisit Basel III Endgame for the largest firms, introduce a separate approach for regional and smaller banks, and revise the GSIB surcharge framework. Taken together, the package lowers capital requirements overall, reduces duplication across the framework, and improves the economics of traditional lending -- but also creates new strategic and operational questions for treasury, risk, finance, reporting, and data teams as firms assess the impact and prepare for implementation.
-
----
-
-### Key Themes
-
-**1. The July PCE print as a September pivot moment (New)**
-A Wednesday release of the PCE index is anticipated to show a three point six percent rise over the twelve months ending in July, based on a Dow Jones Newswires and Wall Street Journal survey of economists -- that would represent a slight cooling from June&#x27;s three point seven percent annual gain. PCE methodology is set to be revised on September 30 to eliminate the distortion created by portfolio management services prices, which means the September FOMC will be the last one to interpret inflation under the current measurement construct. This is a rarely-discussed planning assumption wrinkle: the metric the Fed is hiking or holding against changes immediately after the September decision.
-
-**2. The fixed-rate NIM reversal -- a genuine mid-year signal (New)**
-SOFR funding costs have remained relatively stable year-to-date, ending July at four point three five percent, and the divergence between fixed and floating funding costs is one of the more significant structural shifts in the pricing equation this year. For CFOs: the single-month fixed NIM reversal after six months of compression is a material development for second-half NII guidance, but it arrives against a funding curve that keeps steepening -- making the durability of the improvement the core uncertainty.
-
-**3. Agentic AI crossing from pilots to production governance (Evolving)**
-JPMorgan Chase now runs more than four hundred production AI use cases on an enterprise machine learning platform, and Goldman Sachs has twelve thousand engineers paired with AI agents handling accounting, compliance, and operational finance. The 2026 conversation among banking CIOs is about production architecture, regulatory load-bearing controls, and which functions ship to autonomous agents next -- with the EU AI Act&#x27;s high-risk-system obligations now fully enforceable as of August 2, 2026.
-
----
-
-### Banking Finance-Function
-
-**NIM and Funding Costs:** With costs rising but revenue rising faster, NIM improved in July across both deal types; fixed NIM rose fourteen basis points. The Federal Reserve cut short-term rates by seventy-five basis points last fall, but deposit rates in the Q2 PrecisionLender portfolio have not followed that move lower by anything close to that magnitude. The Citizens Financial (CFG) Q2 filing confirms a related pattern: interest-bearing deposit costs outperformed a mid-thirty-percent beta, with the expectation that full-year 2026 net interest income will grow between two point five and four percent, with fixed-rate asset turnover, funding cost management, and loan growth as the key drivers.
-
-**Credit and Provisioning:** At Enterprise Financial, the positive NIM trend was offset by a sharp increase in credit costs -- the provision for credit losses more than doubled to fourteen point two million dollars from seven point two million in Q1, driven by two significant commercial charge-offs occurring late in the period. This pattern -- NIM improving while credit costs spike episodically -- is the core tension in second-half CFO planning.
-
-**Efficiency:** Headline inflation eased to three point four percent year-over-year in July while core inflation fell to two point five percent, giving the labor market enough cover to hold cost structures flat in nominal terms -- but finance functions facing rising regulatory workloads cannot hold headcount flat without automation.
-
----
-
-### Regulatory Radar
-
-**Basel III Endgame (Evolving -- comment period closed, moving toward finalization):**
-On March 19, 2026, the Federal Reserve Board, OCC, and FDIC issued three proposals that would comprehensively overhaul the existing U.S. bank capital framework and implement the Basel Committee&#x27;s 2017 revisions. A primary change in the updated proposal is the removal of the dual-stack framework, where banks calculate capital ratios using both standardized and internal models -- the updated proposal emphasizes a simpler structure to reduce complexity and improve transparency. In the UK, the Prudential Regulation Authority finalized the wider Basel 3.1 package for January 1, 2027, deferring the FRTB Internal Model Approach to January 1, 2028. The jurisdictional divergence is now the dominant implementation planning problem for internationally active banks: rules are live in the UK in 2027, the EU in the same window, and the U.S. timeline remains subject to finalization.
-
-**September 30 PCE Methodology Change:** As noted above, the portfolio management services component of PPI feeds directly into the PCE price index that the Fed targets, and creates misleading swings in reported inflation because higher asset prices mechanically translate into higher prices; PCE methodology is set to be revised on September 30 to eliminate the distortion. Finance teams building Fed-dependent rate path scenarios must account for a one-time measurement shift at that date.
-
----
-
-### AI in Finance
-
-**Where banks are actually deploying (not piloting):**
-Oracle launched a dedicated agentic banking platform in February, and FIS has shipped its first Anthropic-powered Financial Crimes Agent into pilot deployments at BMO and Amalgamated. Oracle Financial Services now offers an enterprise-class suite of AI-infused applications and pre-built AI agents for treasury, trade finance, credit, and lending -- automating mission-critical processes and speeding decision-making to help banks navigate market volatility and risk.
-
-**The CFO as buyer:** More than half of CFOs -- fifty-four percent, according to Deloitte&#x27;s 2026 CFO Signals Survey -- have named integrating AI agents into their finance function as their single biggest digital transformation priority this year. The buying signal is sharpening: finance leaders at major enterprises are no longer asking whether agentic AI belongs in the office of the CFO -- they are asking how fast it can be deployed, which workflows to start with, and what results they should expect.
-
-**Workforce model shift:** Visionaries now anticipate the rise of the &quot;ten-times bank,&quot; where a single individual leads a team of AI co-workers to deliver exponentially greater output -- growth is no longer constrained by headcount, but success depends on an organization&#x27;s ability to reinvent work and shape a human-and-agent workforce, with people remaining in charge of deployment and governance.
-
-**Governance reality check:** The finance chiefs broadly expect AI, including agentic AI, to shift from experimentation to proven, enterprise-wide impact -- but stress that success will depend on factors such as strong governance, clean and trusted data, modernized architectures, and human judgment. For bank finance functions specifically, the EU AI Act enforcement as of August 2 is now the first hard external governance deadline for any AI system classified as high-risk.
-
-**CFO agenda connection:** Every AI deployment in treasury (liquidity forecasting), FP&amp;A (rolling forecasts, scenario planning), and controllership (close automation) is being evaluated against capital allocation pressure. The ROI conversation has shifted from &quot;will it pay back&quot; to &quot;when does it pay back faster than doing nothing while the regulatory workload grows.&quot;
-
----
-
-### CFO Agenda, FP&amp;A, and Transformation Signals
-
-**The second-half planning reset:** The July fixed-rate NIM reversal, arriving alongside a PCE print that may or may not resolve the September hike question, means CFO planning teams need to run at least three rate scenarios simultaneously through the end of year: hold, plus twenty-five, and hold-then-hike in December. Markets are currently pricing in two twenty-five-basis-point hikes, the first in September and the second in December, followed by no further movement through 2027.
-
-**Basel as a transformation driver:** The regional bank inclusion in the March 2026 re-proposals is the most underappreciated driver of finance transformation demand in the super-regional cohort. Banks have approximately two years to interpret the new rules, assess their impact, address new data and technology needs, and adjust business strategies -- and Basel III Endgame is a chance to modernize capital infrastructure by updating technology, becoming more agile, and addressing inefficiencies to lower operating costs.
-
-**FP&amp;A buying signal:** Real-time visibility has become table stakes -- the new frontier is agentic AI, meaning systems that do not just report on the past but actively simulate the future and recommend actions; one CFO describes this as creating a &quot;digital twin&quot; for the CFO role. Finance platform vendors (OneStream, Oracle EPM, Workday Adaptive) are all racing to embed this framing into their product roadmaps.
-
----
-
-### Contrarian Insight
-
-The market and most bank CFO communications treat the fixed-rate NIM reversal in July as unambiguously good news. But a one-month reversal after six months of compression, occurring in a month when the funding curve continued to steepen, is as easily explained by temporary competitive pricing relief as by durable structural improvement. July&#x27;s NIM data point is described by Q2 PrecisionLender analysts as &quot;a positive move at midyear 2026 -- but a single move,&quot; with the composition and movement of NIM measures requiring continued monitoring. CFOs who use July as validation for optimistic H2 NII guidance are building on a one-data-point foundation. The more conservative framing -- one reversal in a six-month deteriorating trend -- is the one that protects credibility if August data reverts.
-
----
-
-### Client Conversation Hooks
-
-1. **&quot;How does your NII forecast change if July&#x27;s fixed-rate NIM reversal is structural versus one-month noise -- and do you have separate scenarios for each?&quot;**
-2. **&quot;The March 2026 Basel re-proposal explicitly brings regionals into scope for the first time. Has your finance and risk data infrastructure been assessed against what that means for your capital calculation and reporting build?&quot;**
-3. **&quot;The PCE methodology changes on September 30 -- the same month as the FOMC meeting. Are your rate-path planning assumptions built on the pre- or post-revision inflation construct, and does your Fed watcher know which one the FOMC will be using to make the September decision?&quot;**</itunes:summary>
-      <pubDate>Wed, 26 Aug 2026 04:46:11 -0400</pubDate>
-      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-08-26.mp3" length="7805613" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-08-26.mp3</guid>
-      <itunes:duration>8:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

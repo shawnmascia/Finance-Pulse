@@ -15,7 +15,213 @@
       <itunes:email>shawn.mascia@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://shawnmascia.github.io/Finance-Pulse/cover.jpg"/>
-    <lastBuildDate>Fri, 13 Nov 2026 09:49:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:49:42 +0000</lastBuildDate>
+    <item>
+      <title>Finance Pulse - Nov 16, 2026</title>
+      <description><![CDATA[I now have strong sourced material across all required domains. Here are the genuinely new angles for November 16, 2026, carefully distinguished from prior episodes:
+
+---
+
+## Finance Pulse | Monday, November 16, 2026
+
+**Bottom line: CME FedWatch now prices a ninety-one point three percent probability of a December hike, the highest conviction reading of the cycle, hardening the rate path to four point zero to four point two five percent and locking in a planning assumption that bank CFOs can no longer treat as a tail scenario; simultaneously, two new cohort-level developments demand attention this week: KeyCorp's Friday notice of preferred stock redemption introduces a fresh capital-structure signal worth watching across the super-regional peer group, and PNC's live stablecoin payments pilot for corporate clients marks the first real-money blockchain deployment by a super-regional that has direct implications for treasury operations and cash management architecture.**
+
+---
+
+### Top Takeaways
+
+1. CME FedWatch, as of November 15, 2026, prices a ninety-one point three percent probability of a twenty-five basis point hike at the December meeting, the most decisive reading of this tightening cycle, eliminating optionality for bank CFO planning and making a four to four point two five percent terminal rate the operative assumption.
+
+2. KeyCorp announced on November 13, 2026, its intention to redeem all twenty million depositary shares of its Series E Fixed-to-Floating Rate Perpetual Non-Cumulative Preferred Stock. This is a live capital structure action from a cohort member navigating rising rate pressure.
+
+3. PNC Bank launched incoming USDC payments for Corporate and Institutional Banking clients, using Coinbase payment infrastructure; clients can receive USDC on the Ethereum blockchain, with payments automatically converted one-to-one into U.S. dollars and deposited into a designated PNC account, with the service available through a limited pilot.
+
+4. Model Context Protocol (MCP) has emerged as a live buying criterion for finance platform selection as of November 2026; Aleph, Pigment, Cube, Planful, Datarails, Anaplan, OneStream, Vena, and Prophix now expose finance data to external AI tools through MCP, and Workday's MCP server moved to production on October 23, 2026 for certain Adaptive Planning SKUs.
+
+5. The 2026 FP&A Trends Survey found that ninety-eight percent of respondents expect AI to affect their role, while forty-one percent expect more capacity for value-added work and business partnering.
+
+---
+
+### Key Themes
+
+**Theme 1 (New): The December hike is now a near-certainty, and the planning debate has shifted to what comes after.**
+
+At its October twenty-seventh through twenty-eighth meeting, the FOMC voted ten to two to hold the federal funds target range at three point seventy-five to four percent; Governors Lisa Cook and Beth Hammack dissented, preferring a twenty-five basis point increase, and the Committee said inflation remains elevated and that additional information is needed to assess the outlook. The September summary shows the median projection for the federal funds rate to hold steady at four point one percent next year. The two dissents at October's hold are genuinely new information not previously covered: they signal the Fed's internal center of gravity has already moved, making December not a close call but a formality. The CFO planning question is no longer whether the December hike happens but whether the Fed holds at four point zero to four point two five percent through 2027 or adds further.
+
+**Theme 2 (New): CRE credit divergence inside the super-regional cohort is becoming a balance sheet management story, not just a credit story.**
+
+Super-regional banks reported commercial loan growth and higher net interest income in Q2 2026, per Trepp; net interest income rose sequentially at all eleven banks, with Citizens and PNC each up four percent. Citizens reduced its CRE charge-off rate to zero point three six percent from zero point six four percent and PNC cut nonperforming CRE balances by ten percent; however, Truist, U.S. Bancorp, and KeyCorp each recorded higher CRE nonperforming assets despite overall charge-off declines, suggesting uneven stress from legacy office and multifamily exposure. This divergence means finance transformation priorities are not uniform across the cohort: banks with rising CRE NPAs face heightened demands on CECL modeling, allowance adequacy review, and stressed scenario planning in ways that peers with declining NPAs do not.
+
+**Theme 3 (Evolving): The Basel III Endgame is in a legally ambiguous two-state existence with meaningful Category III and IV implications still unresolved.**
+
+The rulebook is currently in two states: the 2013 rule is binding law, and its Basel III Endgame replacement exists only as the March 2026 proposals; the public comment period closed on June 18, 2026 and no final rule has been issued as of mid-October. Fed staff estimate cumulative CET1 changes of negative four point eight percent for Categories I and II, and negative five point two percent for Categories III and IV; AOCI recognition for Categories III and IV adds a positive three point one percent impact with a five-year phase-in. The unresolved angle for super-regionals: the AOCI recognition requirement for Category III and IV firms is the hidden tightener inside a package that otherwise delivers capital relief. Banks in that category cannot model a clean relief scenario; they must run a net-of-AOCI scenario, which reshapes dividend capacity and buyback planning well into 2027.
+
+---
+
+### Banking Finance-Function Metrics
+
+**NIM and Funding Costs:** The rate environment described above is directionally favorable for asset repricing but increasingly problematic on the liability side. The ten-year Treasury note stood at four point eight eight percent and the thirty-year bond at five point two six percent as of early November. Those long-end levels mean banks with meaningful AFS or HTM portfolios are carrying unrealized losses into Q4 mark-to-market reviews. Truist carries the highest net charge-off ratio of the super-regional three at zero point six one percent.
+
+**Capital Actions:** PNC lifted the quarterly common dividend eighteen percent to two dollars per share from one dollar and seventy cents. Following the successful completion of the 2026 stress test, U.S. Bancorp announced a four percent hike in its quarterly dividend to fifty-four cents per share and continues to repurchase shares under its five billion dollar buyback program. Truist Financial has held its dividend frozen since 2022 while rivals PNC and U.S. Bancorp raised theirs. That frozen dividend, combined with the highest charge-off ratio in the peer group, is a CFO planning signal for Truist's finance transformation priorities.
+
+**M&A and Integration:** Fifth Third absorbed Comerica, Huntington added Veritex and Cadence, and PNC acquired FirstBank of Lakewood. Each of these creates a near-term finance integration workload that elevates demand for consolidation tools, chart-of-accounts harmonization, and regulatory reporting reconciliation.
+
+---
+
+### Regulatory Radar
+
+**Basel III Endgame:** The 2026 Basel III Endgame marked its biggest turn yet, rescinding the original 2023 proposal; Category III and IV banks can now choose whether to adopt ERBA or continue under a revised Standardized Approach, giving mid-sized regional banks more flexibility than the largest GSIBs. For Category I and II banks, the re-proposal is projected to require banks to hold one point six percent more capital. No final rule as of today.
+
+**Capital Framework and Stress Testing:** KPMG notes that the net capital relief from proposed revisions could create opportunities for banks to reassess binding constraints, release excess management buffers, and redeploy capital toward lending growth, balance sheet optimization, and M&A. For the finance transformation consultant, this is a demand trigger: banks redeploying capital into M&A or lending expansion will need upgraded integration and planning infrastructure.
+
+**SR 26-2 and AI Model Risk:** US Federal SR 26-2, effective April 2026, extends SR 11-7 model risk management requirements explicitly to AI and ML systems in banking, requiring model inventory and classification, independent validation, performance monitoring, documentation, and board-level governance for all material banking AI systems. This is the exam-ready obligation that converts every agentic AI pilot in finance into a model risk management item.
+
+---
+
+### AI in Finance
+
+**The MCP Protocol Shift in Buying Behavior:** The emergence of Model Context Protocol as a finance platform buying criterion is the week's freshest vendor-landscape development. OneStream's SensibleAI agents achieved MCP general availability in May 2026, and as of November 2026 Workday's MCP server moved to production for certain Adaptive Planning SKUs. What this means in practice: MCP allows finance platforms to expose structured financial data to external AI reasoning engines, so a bank's FP&A team can query plan-versus-actual data through a third-party large language model without manually extracting from the EPM system. For bank technology buyers, MCP readiness is now a shortlist criterion when evaluating CPM or FP&A platform replacement.
+
+**OneStream SensibleAI vs. Workday Illuminate:** OneStream SensibleAI Agents operate at autonomy level one to two, covering forecast Q&A, automated financial analysis and reporting, and ML forecast generation on the unified OneStream platform, with finance retaining control of outputs; Workday Illuminate operates at level two, covering planning data exploration, audit evidence collection, and payroll operations within the Workday finance and HR suite. The distinction matters for bank buyers: OneStream's strength is in close, consolidation, and regulatory reporting; Workday Illuminate's value proposition is cross-functional, spanning HR cost planning alongside finance.
+
+**Agentic Treasury:** As of November 16, 2026, TreasuryXL published analysis noting that the question for fund managers is no longer whether their portfolio companies can produce a cash forecast, but whether that forecast is live, accurate, and auditable; agentic AI offers an approach where AI agents can gather and reconcile information continuously, within defined controls, surfacing only what needs a human decision. For bank treasury departments, the same logic applies to intraday liquidity monitoring and LCR/NSFR management.
+
+**ROI Discipline Tightening:** Boards are supportive of AI investment but tougher, now expecting AI programs to prove ROI, cost savings, and productivity on a recurring cadence. CFOs deploying AI across three or more finance functions achieve close cycles seven days faster and reduce compliance costs forty to sixty percent, per Gartner 2026. The governance pressure from boards, combined with SR 26-2's model inventory requirements, is creating a two-sided forcing function for bank finance AI programs: prove the return and document the risk.
+
+**The AI ROI versus Cost Management Tension:** FP&A Trends published a piece on November 10, 2026 titled "What Should Finance Actually Cost in AI?" by Daniel Bryan, Transformation Project Manager at UBS. The existence of a UBS transformation practitioner writing publicly about AI cost management signals that the AI-in-finance conversation at large banks has matured from "can we do it" to "can we afford to scale it."
+
+---
+
+### CFO Agenda, FP&A, and Transformation Signals
+
+**Where Finance Budgets Are Moving:** Four in five finance leaders plan to increase AI investment in 2026; sixty-five percent already use predictive analytics and machine learning, and sixty-four percent use automation. The top AI use cases are close and consolidation at sixty-six percent, forecasting and planning at fifty-four percent, and risk and compliance at forty-five percent. For bank finance transformation consultants, the risk and compliance use case at forty-five percent is the most underpenetrated of the three given the regulatory workload banks carry relative to other industries.
+
+**MCP as Platform Selection Signal:** Banks evaluating CPM replacements in 2025 and early 2026 were choosing largely on consolidation capability and cloud migration readiness. The MCP readiness criterion introduced in Q4 2026 means banks that made recent platform selections may face a capability gap if their chosen vendor does not yet expose a production MCP server. This is a re-evaluation trigger and a conversation opener.
+
+**PNC's Stablecoin Move and Treasury Architecture:** PNC's USDC pilot is not just a payments story. For bank treasury and cash management architecture, it raises a question that no previous episode has examined: if corporate clients begin receiving settlement in USDC on-chain and converting to dollars at the bank level, the intraday cash position management requirement changes. Treasury systems that were built around end-of-day SWIFT reconciliation are architecturally mismatched with real-time on-chain settlement flows.
+
+**Transformation Demand Signals from M&A Wave:** KPMG's regulatory analysis notes that capital relief could allow banks to redeploy capital toward lending growth, balance sheet optimization, and M&A. Combined with the confirmed acquisitions already in progress at Fifth Third, Huntington, and PNC, the M&A pipeline into 2027 is a durable source of finance transformation demand: every acquisition requires chart-of-accounts harmonization, regulatory reporting integration, and stress test recalibration.
+
+---
+
+### Contrarian Insight
+
+The prevailing narrative is that the December hike is the terminal rate event and that bank NIMs will stabilize in 2027. But the two FOMC dissents at October's hold, combined with the September dot plot showing a median hold at four point one percent through 2027 and a thirty-year Treasury at five point two six percent, paint a different picture: the long end is already priced for a structurally higher neutral rate. If the neutral rate has permanently reset upward, the deposit repricing that most super-regional CFOs modeled as a 2026 problem persists into 2028 and the asset-liability management function needs not just a forecast update but an architectural rethink of its modeling infrastructure. The finance transformation implication is that ALM systems built for a world where rates mean-revert to three percent are now strategic liabilities.
+
+---
+
+### Client Conversation Hooks
+
+1. **The MCP protocol question:** When did your bank's FP&A or CPM vendor last tell you their MCP server status? Workday moved to production on October 23, 2026 for certain SKUs, and OneStream achieved MCP general availability in May. If your platform is not on that list, you have a capability gap in AI-to-finance integration that will widen as the rest of the market standardizes.
+
+2. **The KeyCorp preferred stock redemption and Truist's frozen dividend:** These are two different expressions of capital structure stress inside the same super-regional cohort. How is your client modeling the interaction between the AOCI recognition requirement in the Basel III Endgame re-proposal and their current dividend and buyback capacity? The net-of-AOCI scenario is still not in most banks' base case planning models.
+
+3. **The PNC USDC pilot and treasury architecture:** If a super-regional is now processing real-money on-chain settlement in a live corporate pilot, the question for your bank treasury client is not "should we evaluate stablecoin payments" but "is our intraday liquidity infrastructure capable of handling real-time on-chain cash flows, and what does SR 26-2 require us to document if we pilot this ourselves?"]]></description>
+      <itunes:summary>I now have strong sourced material across all required domains. Here are the genuinely new angles for November 16, 2026, carefully distinguished from prior episodes:
+
+---
+
+## Finance Pulse | Monday, November 16, 2026
+
+**Bottom line: CME FedWatch now prices a ninety-one point three percent probability of a December hike, the highest conviction reading of the cycle, hardening the rate path to four point zero to four point two five percent and locking in a planning assumption that bank CFOs can no longer treat as a tail scenario; simultaneously, two new cohort-level developments demand attention this week: KeyCorp&#x27;s Friday notice of preferred stock redemption introduces a fresh capital-structure signal worth watching across the super-regional peer group, and PNC&#x27;s live stablecoin payments pilot for corporate clients marks the first real-money blockchain deployment by a super-regional that has direct implications for treasury operations and cash management architecture.**
+
+---
+
+### Top Takeaways
+
+1. CME FedWatch, as of November 15, 2026, prices a ninety-one point three percent probability of a twenty-five basis point hike at the December meeting, the most decisive reading of this tightening cycle, eliminating optionality for bank CFO planning and making a four to four point two five percent terminal rate the operative assumption.
+
+2. KeyCorp announced on November 13, 2026, its intention to redeem all twenty million depositary shares of its Series E Fixed-to-Floating Rate Perpetual Non-Cumulative Preferred Stock. This is a live capital structure action from a cohort member navigating rising rate pressure.
+
+3. PNC Bank launched incoming USDC payments for Corporate and Institutional Banking clients, using Coinbase payment infrastructure; clients can receive USDC on the Ethereum blockchain, with payments automatically converted one-to-one into U.S. dollars and deposited into a designated PNC account, with the service available through a limited pilot.
+
+4. Model Context Protocol (MCP) has emerged as a live buying criterion for finance platform selection as of November 2026; Aleph, Pigment, Cube, Planful, Datarails, Anaplan, OneStream, Vena, and Prophix now expose finance data to external AI tools through MCP, and Workday&#x27;s MCP server moved to production on October 23, 2026 for certain Adaptive Planning SKUs.
+
+5. The 2026 FP&amp;A Trends Survey found that ninety-eight percent of respondents expect AI to affect their role, while forty-one percent expect more capacity for value-added work and business partnering.
+
+---
+
+### Key Themes
+
+**Theme 1 (New): The December hike is now a near-certainty, and the planning debate has shifted to what comes after.**
+
+At its October twenty-seventh through twenty-eighth meeting, the FOMC voted ten to two to hold the federal funds target range at three point seventy-five to four percent; Governors Lisa Cook and Beth Hammack dissented, preferring a twenty-five basis point increase, and the Committee said inflation remains elevated and that additional information is needed to assess the outlook. The September summary shows the median projection for the federal funds rate to hold steady at four point one percent next year. The two dissents at October&#x27;s hold are genuinely new information not previously covered: they signal the Fed&#x27;s internal center of gravity has already moved, making December not a close call but a formality. The CFO planning question is no longer whether the December hike happens but whether the Fed holds at four point zero to four point two five percent through 2027 or adds further.
+
+**Theme 2 (New): CRE credit divergence inside the super-regional cohort is becoming a balance sheet management story, not just a credit story.**
+
+Super-regional banks reported commercial loan growth and higher net interest income in Q2 2026, per Trepp; net interest income rose sequentially at all eleven banks, with Citizens and PNC each up four percent. Citizens reduced its CRE charge-off rate to zero point three six percent from zero point six four percent and PNC cut nonperforming CRE balances by ten percent; however, Truist, U.S. Bancorp, and KeyCorp each recorded higher CRE nonperforming assets despite overall charge-off declines, suggesting uneven stress from legacy office and multifamily exposure. This divergence means finance transformation priorities are not uniform across the cohort: banks with rising CRE NPAs face heightened demands on CECL modeling, allowance adequacy review, and stressed scenario planning in ways that peers with declining NPAs do not.
+
+**Theme 3 (Evolving): The Basel III Endgame is in a legally ambiguous two-state existence with meaningful Category III and IV implications still unresolved.**
+
+The rulebook is currently in two states: the 2013 rule is binding law, and its Basel III Endgame replacement exists only as the March 2026 proposals; the public comment period closed on June 18, 2026 and no final rule has been issued as of mid-October. Fed staff estimate cumulative CET1 changes of negative four point eight percent for Categories I and II, and negative five point two percent for Categories III and IV; AOCI recognition for Categories III and IV adds a positive three point one percent impact with a five-year phase-in. The unresolved angle for super-regionals: the AOCI recognition requirement for Category III and IV firms is the hidden tightener inside a package that otherwise delivers capital relief. Banks in that category cannot model a clean relief scenario; they must run a net-of-AOCI scenario, which reshapes dividend capacity and buyback planning well into 2027.
+
+---
+
+### Banking Finance-Function Metrics
+
+**NIM and Funding Costs:** The rate environment described above is directionally favorable for asset repricing but increasingly problematic on the liability side. The ten-year Treasury note stood at four point eight eight percent and the thirty-year bond at five point two six percent as of early November. Those long-end levels mean banks with meaningful AFS or HTM portfolios are carrying unrealized losses into Q4 mark-to-market reviews. Truist carries the highest net charge-off ratio of the super-regional three at zero point six one percent.
+
+**Capital Actions:** PNC lifted the quarterly common dividend eighteen percent to two dollars per share from one dollar and seventy cents. Following the successful completion of the 2026 stress test, U.S. Bancorp announced a four percent hike in its quarterly dividend to fifty-four cents per share and continues to repurchase shares under its five billion dollar buyback program. Truist Financial has held its dividend frozen since 2022 while rivals PNC and U.S. Bancorp raised theirs. That frozen dividend, combined with the highest charge-off ratio in the peer group, is a CFO planning signal for Truist&#x27;s finance transformation priorities.
+
+**M&amp;A and Integration:** Fifth Third absorbed Comerica, Huntington added Veritex and Cadence, and PNC acquired FirstBank of Lakewood. Each of these creates a near-term finance integration workload that elevates demand for consolidation tools, chart-of-accounts harmonization, and regulatory reporting reconciliation.
+
+---
+
+### Regulatory Radar
+
+**Basel III Endgame:** The 2026 Basel III Endgame marked its biggest turn yet, rescinding the original 2023 proposal; Category III and IV banks can now choose whether to adopt ERBA or continue under a revised Standardized Approach, giving mid-sized regional banks more flexibility than the largest GSIBs. For Category I and II banks, the re-proposal is projected to require banks to hold one point six percent more capital. No final rule as of today.
+
+**Capital Framework and Stress Testing:** KPMG notes that the net capital relief from proposed revisions could create opportunities for banks to reassess binding constraints, release excess management buffers, and redeploy capital toward lending growth, balance sheet optimization, and M&amp;A. For the finance transformation consultant, this is a demand trigger: banks redeploying capital into M&amp;A or lending expansion will need upgraded integration and planning infrastructure.
+
+**SR 26-2 and AI Model Risk:** US Federal SR 26-2, effective April 2026, extends SR 11-7 model risk management requirements explicitly to AI and ML systems in banking, requiring model inventory and classification, independent validation, performance monitoring, documentation, and board-level governance for all material banking AI systems. This is the exam-ready obligation that converts every agentic AI pilot in finance into a model risk management item.
+
+---
+
+### AI in Finance
+
+**The MCP Protocol Shift in Buying Behavior:** The emergence of Model Context Protocol as a finance platform buying criterion is the week&#x27;s freshest vendor-landscape development. OneStream&#x27;s SensibleAI agents achieved MCP general availability in May 2026, and as of November 2026 Workday&#x27;s MCP server moved to production for certain Adaptive Planning SKUs. What this means in practice: MCP allows finance platforms to expose structured financial data to external AI reasoning engines, so a bank&#x27;s FP&amp;A team can query plan-versus-actual data through a third-party large language model without manually extracting from the EPM system. For bank technology buyers, MCP readiness is now a shortlist criterion when evaluating CPM or FP&amp;A platform replacement.
+
+**OneStream SensibleAI vs. Workday Illuminate:** OneStream SensibleAI Agents operate at autonomy level one to two, covering forecast Q&amp;A, automated financial analysis and reporting, and ML forecast generation on the unified OneStream platform, with finance retaining control of outputs; Workday Illuminate operates at level two, covering planning data exploration, audit evidence collection, and payroll operations within the Workday finance and HR suite. The distinction matters for bank buyers: OneStream&#x27;s strength is in close, consolidation, and regulatory reporting; Workday Illuminate&#x27;s value proposition is cross-functional, spanning HR cost planning alongside finance.
+
+**Agentic Treasury:** As of November 16, 2026, TreasuryXL published analysis noting that the question for fund managers is no longer whether their portfolio companies can produce a cash forecast, but whether that forecast is live, accurate, and auditable; agentic AI offers an approach where AI agents can gather and reconcile information continuously, within defined controls, surfacing only what needs a human decision. For bank treasury departments, the same logic applies to intraday liquidity monitoring and LCR/NSFR management.
+
+**ROI Discipline Tightening:** Boards are supportive of AI investment but tougher, now expecting AI programs to prove ROI, cost savings, and productivity on a recurring cadence. CFOs deploying AI across three or more finance functions achieve close cycles seven days faster and reduce compliance costs forty to sixty percent, per Gartner 2026. The governance pressure from boards, combined with SR 26-2&#x27;s model inventory requirements, is creating a two-sided forcing function for bank finance AI programs: prove the return and document the risk.
+
+**The AI ROI versus Cost Management Tension:** FP&amp;A Trends published a piece on November 10, 2026 titled &quot;What Should Finance Actually Cost in AI?&quot; by Daniel Bryan, Transformation Project Manager at UBS. The existence of a UBS transformation practitioner writing publicly about AI cost management signals that the AI-in-finance conversation at large banks has matured from &quot;can we do it&quot; to &quot;can we afford to scale it.&quot;
+
+---
+
+### CFO Agenda, FP&amp;A, and Transformation Signals
+
+**Where Finance Budgets Are Moving:** Four in five finance leaders plan to increase AI investment in 2026; sixty-five percent already use predictive analytics and machine learning, and sixty-four percent use automation. The top AI use cases are close and consolidation at sixty-six percent, forecasting and planning at fifty-four percent, and risk and compliance at forty-five percent. For bank finance transformation consultants, the risk and compliance use case at forty-five percent is the most underpenetrated of the three given the regulatory workload banks carry relative to other industries.
+
+**MCP as Platform Selection Signal:** Banks evaluating CPM replacements in 2025 and early 2026 were choosing largely on consolidation capability and cloud migration readiness. The MCP readiness criterion introduced in Q4 2026 means banks that made recent platform selections may face a capability gap if their chosen vendor does not yet expose a production MCP server. This is a re-evaluation trigger and a conversation opener.
+
+**PNC&#x27;s Stablecoin Move and Treasury Architecture:** PNC&#x27;s USDC pilot is not just a payments story. For bank treasury and cash management architecture, it raises a question that no previous episode has examined: if corporate clients begin receiving settlement in USDC on-chain and converting to dollars at the bank level, the intraday cash position management requirement changes. Treasury systems that were built around end-of-day SWIFT reconciliation are architecturally mismatched with real-time on-chain settlement flows.
+
+**Transformation Demand Signals from M&amp;A Wave:** KPMG&#x27;s regulatory analysis notes that capital relief could allow banks to redeploy capital toward lending growth, balance sheet optimization, and M&amp;A. Combined with the confirmed acquisitions already in progress at Fifth Third, Huntington, and PNC, the M&amp;A pipeline into 2027 is a durable source of finance transformation demand: every acquisition requires chart-of-accounts harmonization, regulatory reporting integration, and stress test recalibration.
+
+---
+
+### Contrarian Insight
+
+The prevailing narrative is that the December hike is the terminal rate event and that bank NIMs will stabilize in 2027. But the two FOMC dissents at October&#x27;s hold, combined with the September dot plot showing a median hold at four point one percent through 2027 and a thirty-year Treasury at five point two six percent, paint a different picture: the long end is already priced for a structurally higher neutral rate. If the neutral rate has permanently reset upward, the deposit repricing that most super-regional CFOs modeled as a 2026 problem persists into 2028 and the asset-liability management function needs not just a forecast update but an architectural rethink of its modeling infrastructure. The finance transformation implication is that ALM systems built for a world where rates mean-revert to three percent are now strategic liabilities.
+
+---
+
+### Client Conversation Hooks
+
+1. **The MCP protocol question:** When did your bank&#x27;s FP&amp;A or CPM vendor last tell you their MCP server status? Workday moved to production on October 23, 2026 for certain SKUs, and OneStream achieved MCP general availability in May. If your platform is not on that list, you have a capability gap in AI-to-finance integration that will widen as the rest of the market standardizes.
+
+2. **The KeyCorp preferred stock redemption and Truist&#x27;s frozen dividend:** These are two different expressions of capital structure stress inside the same super-regional cohort. How is your client modeling the interaction between the AOCI recognition requirement in the Basel III Endgame re-proposal and their current dividend and buyback capacity? The net-of-AOCI scenario is still not in most banks&#x27; base case planning models.
+
+3. **The PNC USDC pilot and treasury architecture:** If a super-regional is now processing real-money on-chain settlement in a live corporate pilot, the question for your bank treasury client is not &quot;should we evaluate stablecoin payments&quot; but &quot;is our intraday liquidity infrastructure capable of handling real-time on-chain cash flows, and what does SR 26-2 require us to document if we pilot this ourselves?&quot;</itunes:summary>
+      <pubDate>Mon, 16 Nov 2026 04:46:02 -0500</pubDate>
+      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-11-16.mp3" length="7419308" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-16.mp3</guid>
+      <itunes:duration>7:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Finance Pulse - Nov 13, 2026</title>
       <description><![CDATA[I now have comprehensive fresh data across all required domains. Let me compile both outputs with what is genuinely new for November 13, 2026.
@@ -5954,202 +6160,6 @@ The market and vendor community are treating today&#x27;s Warsh speech as binary
       <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-08-28.mp3" length="6845997" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-08-28.mp3</guid>
       <itunes:duration>7:07</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Finance Pulse - Aug 27, 2026</title>
-      <description><![CDATA[I now have the live data needed to produce a fully sourced, fresh briefing for Thursday, August 27, 2026. All material is genuinely new or newly confirmed relative to the prior episode recaps. Let me synthesize both parts.
-
----
-
-## Finance Pulse | Thursday, August 27, 2026
-
-**Bottom line: Yesterday's PCE print resolved one debate and opened another -- headline came in at three point seven percent year over year, a tenth hotter than the Dow Jones consensus, while core held exactly in line at three point three percent for the fourth consecutive month, a four-month plateau that is now the single most important fact for bank CFO scenario planning; but the story entering this morning is not the data itself -- it is what that plateau means for how Warsh frames his Jackson Hole keynote in roughly twenty-four hours, and whether the most consequential new variable in banking finance -- the deepening K-shaped divergence in credit card delinquency -- finally forces provisioning models to separate lower-prime exposure from prime exposure rather than running a single blended reserve rate.**
-
----
-
-### Top Takeaways
-
-1. **PCE printed hotter on the headline, flat on the core.** July headline PCE came in at three point seven percent, one tenth above consensus; core held at three point three percent for the fourth straight month. Four months of near-zero progress on core is the planning anchor for every CFO building a second-half NII scenario.
-2. **Warsh speaks tomorrow; the market has already priced neutral.** With sixty-nine percent of fund managers surveyed by Bank of America expecting a neutral tone, a neutral speech is already in asset prices. The surprise risk is asymmetric toward hawkish, especially given Warsh's stated preference for regime reform and his criticism of the 2020 FAIT framework.
-3. **Credit card delinquency is bifurcating, not deteriorating uniformly.** The ninety-plus day credit card delinquency rate has risen from seven point six percent in Q3 2022 to twelve point eight percent by Q1 2026 -- but the flow rate into new delinquencies has been stable for nearly two years. This divergence demands separate provisioning treatment by segment, not blended reserve modeling.
-4. **Basel III re-proposal comment period closed June eighteenth; the next event is a final rule, potentially by Q4 2026.** The revised March 2026 proposal is expected to modestly lower aggregate capital -- not raise it -- but adds operational complexity that drives finance transformation demand.
-5. **Agentic AI is at a production inflection, but an ROI credibility gap persists.** Wolters Kluwer estimates forty-four percent of finance teams will use agentic AI in 2026, yet only seven percent of CFOs in a Gartner survey say AI investments are having a strong impact.
-
----
-
-### Key Themes
-
-**1. The Core PCE Plateau -- and Its Provisioning Corollary (New)**
-Four consecutive months at or near three point three percent core PCE is not a trend reversal; it is stagnation at a level one point three percentage points above the Fed's target. For bank CFOs, this means rate-cut scenarios continue to recede, deposit repricing relief remains deferred, and the NII recovery built on fixed-rate loan repricing must do more lifting than funding-cost relief. The new corollary: flat spending data, with real consumer spending flat month over month in July against a zero point four percent gain in June, means the loan-growth assumptions embedded in most H2 2026 plans are now at risk of downward revision.
-
-**2. Warsh's Jackson Hole as a Governance Signal for Bank ALM (Evolving)**
-Prior episodes covered the speech as a rate-path event. Today's new angle: regardless of whether Warsh signals hike or hold, his stated architecture preferences -- shorter statements, less forward guidance, potential regime reform -- structurally raise the volatility of the Fed's reaction function. That permanently increases the value of scenario-based planning over point-estimate forecasting in bank treasury and FP&A, which is a durable demand signal for planning platform investment.
-
-**3. The K-Shaped Credit Delinquency Divergence as a Finance-Function Forcing Function (New)**
-The delinquency spread between JPMorgan at two point three percent and Synchrony at four point eight percent is now two hundred fifty basis points -- the widest since 2010. The New York Fed's Q2 2026 data show total household debt declining slightly to eighteen point eight trillion dollars, with flow rates into serious delinquency largely stable, meaning the stock of impaired borrowers grew during tightening and has not yet resolved. This forces a rethink of how banks segment the allowance for credit losses: blended consumer reserve rates overstate stress at prime-focused institutions and understate it at lower-prime-exposed ones.
-
----
-
-### Banking Finance-Function Metrics
-
-**NIM and Rate Sensitivity:** With core PCE stubbornly at three point three percent and no Fed cut on the horizon before September at the earliest, the fixed-rate loan repricing tailwind remains intact. However, yesterday's flat real consumer spending creates a demand-side brake on new loan origination that limits how much volume can absorb improved pricing.
-
-**Credit and Provisioning:** The New York Fed Q2 report shows total household debt fell by thirteen billion dollars to eighteen point eight trillion dollars, a modest de-leveraging. The thirty-plus day credit card delinquency rate on all commercial bank cards actually declined to two point eight five percent in Q2 2026, the lowest since Q2 2023, suggesting the aggregate headline is less alarming than the stock of severely delinquent accounts built up since 2022 implies. For super-regionals with mixed consumer books, the provisioning signal is nuanced: segment matters more than aggregate.
-
-**Consumer Spending Transmission:** Real consumer spending was flat in July after a zero point four percent gain in June, with most discretionary categories contracting. Restaurant spending was the outlier, up four point six percent. For banks modeling fee income and card transaction volume, July's pullback is an early warning worth watching in August data.
-
-**Capital:** The Basel III Proposal's net direction is a modest capital decrease for most institutions, which should free CET1 -- but the operational complexity of new internal model reassessments, governance frameworks, and capital planning recalibration is a workload driver that cannot be absorbed without either headcount or technology.
-
----
-
-### Regulatory Radar
-
-Following extensive industry feedback, US regulators re-proposed the Basel III Endgame as the Basel III Proposal on March nineteenth, 2026. Comments were due by June eighteenth, 2026. The comment record is now closed. The March 2026 proposals revisit Basel III Endgame for the largest firms, introduce a separate approach for regional and smaller banks, and revise the GSIB surcharge framework -- and taken together the package lowers capital requirements overall, reduces duplication, and improves the economics of traditional lending. However, the 2026 capital rules also add complexity and will require careful implementation, and to capture the benefits of the updated operational risk framework, banks will need to reassess internal models, governance frameworks, and capital planning processes.
-
-The package also creates new strategic and operational questions for treasury, risk, finance, reporting, and data teams as firms assess the impact of the proposals and prepare for implementation. For a finance transformation consultant, that sentence from PwC is a direct buying signal: every bank treasury and regulatory reporting function now has a rules-driven mandate for process and data investment.
-
-On timing: if regulators release a final rule in Q1, it could be finalized in late 2026, with implementation beginning in 2027.
-
----
-
-### AI in Finance
-
-The production-versus-pilot gap is the sharpest signal this week. According to Wolters Kluwer, forty-four percent of finance teams will use agentic AI in 2026, representing an increase of over six hundred percent. Yet close to sixty percent of finance teams are piloting or implementing AI projects, while only seven percent of CFOs say those investments are having a strong impact.
-
-That gap has a structural explanation: the gap stems from architectural limitations -- most finance teams are adding AI inside existing functional lanes, and each system may improve a task but also carries its own data model, workflow logic, and audit trail.
-
-On the vendor side, Oracle Financial Services is embedding AI agents for treasury, trade finance, credit, and lending into an enterprise-class suite for corporate banks. Separately, JPMorgan Chase now runs more than four hundred production AI use cases on an enterprise ML platform processing roughly ten trillion dollars in daily transactions, while Goldman Sachs has twelve thousand engineers paired with AI agents handling accounting, compliance, and operational finance.
-
-For super-regionals, the CFO-agenda connection is direct: finance teams sit on a unique stack of structured data, recurring cycles, and material decisions -- making the function one of the highest-ROI surfaces for agentic AI when the controls hold. But the prerequisite is data hygiene: the most common failure mode is assuming the existing model is clean enough for agent invocation -- it is rarely true on first inspection, and a three-to-six-week model-hygiene pass before scenario-modeling workflows go live is typically required.
-
-The governance question is sharpening: ninety-nine percent of companies plan to put agents into production but only eleven percent have done so, due to implementation challenges related to data, governance, and security. For banks with heightened regulatory scrutiny, that governance gap is a risk, not just a delay.
-
----
-
-### CFO Agenda, FP&A, and Transformation Signals
-
-**Scenario planning over point estimates.** The Warsh communication regime -- deliberately ambiguous, less forward guidance, shorter statements -- means bank treasurers and FP&A teams operating on a single rate path are building plans on a foundation that the Fed is actively declining to reinforce. The demand signal is for multi-scenario NII modeling capability, not for refining a base case.
-
-**Provisioning segmentation.** The K-shaped delinquency data forces a segmentation rebuild in allowance models. Banks relying on blended consumer reserve rates need to isolate lower-prime portfolios; the New York Fed's own research now provides the academic framing for that conversation with auditors and regulators.
-
-**Basel complexity as a transformation catalyst.** A capital rule that lowers requirements but raises operational complexity is a net positive for finance transformation budgets: it removes the political argument against investment while creating a regulatory mandate for process change. Controllers and risk finance teams at institutions above one hundred billion dollars in assets face the most acute need for model and data infrastructure upgrades.
-
-**AI ROI credibility gap.** With only seven percent of CFOs reporting strong AI impact despite sixty percent piloting, the conversation has shifted from "should we do this" to "why aren't we seeing returns." The answer -- siloed deployment, poor data hygiene, no cross-functional integration -- is precisely the consulting engagement that finance transformation practices are positioned to deliver.
-
----
-
-### Contrarian Insight
-
-The consensus framing is that a capital-lighter Basel III final rule is unambiguously good for banks. It probably is for ROE. But the operational-complexity increase embedded in the same rule creates a multi-year finance-function workload that most super-regionals have not yet budgeted for. The banks most likely to outperform on capital efficiency post-implementation are the ones investing now in data infrastructure and model governance -- not the ones waiting for a final rule to plan their response. The contrarian bet is that the winners of Basel III relief will be determined by transformation investment decisions made in the next six months, not by the capital math itself.
-
----
-
-### Client Conversation Hooks
-
-1. **"The PCE plateau is your planning anchor -- not the September decision."** Four months of flat core at three point three percent means the rate path has less variance than the FOMC dissent votes suggest. Ask your client: has the FP&A team stress-tested NII under a scenario where rates do not move until Q1 2027?
-
-2. **"Your provisioning model may be lying to you."** The K-shaped delinquency divergence means blended consumer reserve rates systematically misprice risk at both ends of the quality spectrum. Ask: how does your allowance model treat lower-prime card exposure versus prime card exposure, and when was that segmentation last validated against actual flow-into-delinquency data?
-
-3. **"Basel III gives you budget cover for the data work you already needed to do."** The new capital rules lower requirements but raise modeling and governance complexity. For any client that has been deferring a data or reporting infrastructure build, this is the regulatory mandate that makes the business case.]]></description>
-      <itunes:summary>I now have the live data needed to produce a fully sourced, fresh briefing for Thursday, August 27, 2026. All material is genuinely new or newly confirmed relative to the prior episode recaps. Let me synthesize both parts.
-
----
-
-## Finance Pulse | Thursday, August 27, 2026
-
-**Bottom line: Yesterday&#x27;s PCE print resolved one debate and opened another -- headline came in at three point seven percent year over year, a tenth hotter than the Dow Jones consensus, while core held exactly in line at three point three percent for the fourth consecutive month, a four-month plateau that is now the single most important fact for bank CFO scenario planning; but the story entering this morning is not the data itself -- it is what that plateau means for how Warsh frames his Jackson Hole keynote in roughly twenty-four hours, and whether the most consequential new variable in banking finance -- the deepening K-shaped divergence in credit card delinquency -- finally forces provisioning models to separate lower-prime exposure from prime exposure rather than running a single blended reserve rate.**
-
----
-
-### Top Takeaways
-
-1. **PCE printed hotter on the headline, flat on the core.** July headline PCE came in at three point seven percent, one tenth above consensus; core held at three point three percent for the fourth straight month. Four months of near-zero progress on core is the planning anchor for every CFO building a second-half NII scenario.
-2. **Warsh speaks tomorrow; the market has already priced neutral.** With sixty-nine percent of fund managers surveyed by Bank of America expecting a neutral tone, a neutral speech is already in asset prices. The surprise risk is asymmetric toward hawkish, especially given Warsh&#x27;s stated preference for regime reform and his criticism of the 2020 FAIT framework.
-3. **Credit card delinquency is bifurcating, not deteriorating uniformly.** The ninety-plus day credit card delinquency rate has risen from seven point six percent in Q3 2022 to twelve point eight percent by Q1 2026 -- but the flow rate into new delinquencies has been stable for nearly two years. This divergence demands separate provisioning treatment by segment, not blended reserve modeling.
-4. **Basel III re-proposal comment period closed June eighteenth; the next event is a final rule, potentially by Q4 2026.** The revised March 2026 proposal is expected to modestly lower aggregate capital -- not raise it -- but adds operational complexity that drives finance transformation demand.
-5. **Agentic AI is at a production inflection, but an ROI credibility gap persists.** Wolters Kluwer estimates forty-four percent of finance teams will use agentic AI in 2026, yet only seven percent of CFOs in a Gartner survey say AI investments are having a strong impact.
-
----
-
-### Key Themes
-
-**1. The Core PCE Plateau -- and Its Provisioning Corollary (New)**
-Four consecutive months at or near three point three percent core PCE is not a trend reversal; it is stagnation at a level one point three percentage points above the Fed&#x27;s target. For bank CFOs, this means rate-cut scenarios continue to recede, deposit repricing relief remains deferred, and the NII recovery built on fixed-rate loan repricing must do more lifting than funding-cost relief. The new corollary: flat spending data, with real consumer spending flat month over month in July against a zero point four percent gain in June, means the loan-growth assumptions embedded in most H2 2026 plans are now at risk of downward revision.
-
-**2. Warsh&#x27;s Jackson Hole as a Governance Signal for Bank ALM (Evolving)**
-Prior episodes covered the speech as a rate-path event. Today&#x27;s new angle: regardless of whether Warsh signals hike or hold, his stated architecture preferences -- shorter statements, less forward guidance, potential regime reform -- structurally raise the volatility of the Fed&#x27;s reaction function. That permanently increases the value of scenario-based planning over point-estimate forecasting in bank treasury and FP&amp;A, which is a durable demand signal for planning platform investment.
-
-**3. The K-Shaped Credit Delinquency Divergence as a Finance-Function Forcing Function (New)**
-The delinquency spread between JPMorgan at two point three percent and Synchrony at four point eight percent is now two hundred fifty basis points -- the widest since 2010. The New York Fed&#x27;s Q2 2026 data show total household debt declining slightly to eighteen point eight trillion dollars, with flow rates into serious delinquency largely stable, meaning the stock of impaired borrowers grew during tightening and has not yet resolved. This forces a rethink of how banks segment the allowance for credit losses: blended consumer reserve rates overstate stress at prime-focused institutions and understate it at lower-prime-exposed ones.
-
----
-
-### Banking Finance-Function Metrics
-
-**NIM and Rate Sensitivity:** With core PCE stubbornly at three point three percent and no Fed cut on the horizon before September at the earliest, the fixed-rate loan repricing tailwind remains intact. However, yesterday&#x27;s flat real consumer spending creates a demand-side brake on new loan origination that limits how much volume can absorb improved pricing.
-
-**Credit and Provisioning:** The New York Fed Q2 report shows total household debt fell by thirteen billion dollars to eighteen point eight trillion dollars, a modest de-leveraging. The thirty-plus day credit card delinquency rate on all commercial bank cards actually declined to two point eight five percent in Q2 2026, the lowest since Q2 2023, suggesting the aggregate headline is less alarming than the stock of severely delinquent accounts built up since 2022 implies. For super-regionals with mixed consumer books, the provisioning signal is nuanced: segment matters more than aggregate.
-
-**Consumer Spending Transmission:** Real consumer spending was flat in July after a zero point four percent gain in June, with most discretionary categories contracting. Restaurant spending was the outlier, up four point six percent. For banks modeling fee income and card transaction volume, July&#x27;s pullback is an early warning worth watching in August data.
-
-**Capital:** The Basel III Proposal&#x27;s net direction is a modest capital decrease for most institutions, which should free CET1 -- but the operational complexity of new internal model reassessments, governance frameworks, and capital planning recalibration is a workload driver that cannot be absorbed without either headcount or technology.
-
----
-
-### Regulatory Radar
-
-Following extensive industry feedback, US regulators re-proposed the Basel III Endgame as the Basel III Proposal on March nineteenth, 2026. Comments were due by June eighteenth, 2026. The comment record is now closed. The March 2026 proposals revisit Basel III Endgame for the largest firms, introduce a separate approach for regional and smaller banks, and revise the GSIB surcharge framework -- and taken together the package lowers capital requirements overall, reduces duplication, and improves the economics of traditional lending. However, the 2026 capital rules also add complexity and will require careful implementation, and to capture the benefits of the updated operational risk framework, banks will need to reassess internal models, governance frameworks, and capital planning processes.
-
-The package also creates new strategic and operational questions for treasury, risk, finance, reporting, and data teams as firms assess the impact of the proposals and prepare for implementation. For a finance transformation consultant, that sentence from PwC is a direct buying signal: every bank treasury and regulatory reporting function now has a rules-driven mandate for process and data investment.
-
-On timing: if regulators release a final rule in Q1, it could be finalized in late 2026, with implementation beginning in 2027.
-
----
-
-### AI in Finance
-
-The production-versus-pilot gap is the sharpest signal this week. According to Wolters Kluwer, forty-four percent of finance teams will use agentic AI in 2026, representing an increase of over six hundred percent. Yet close to sixty percent of finance teams are piloting or implementing AI projects, while only seven percent of CFOs say those investments are having a strong impact.
-
-That gap has a structural explanation: the gap stems from architectural limitations -- most finance teams are adding AI inside existing functional lanes, and each system may improve a task but also carries its own data model, workflow logic, and audit trail.
-
-On the vendor side, Oracle Financial Services is embedding AI agents for treasury, trade finance, credit, and lending into an enterprise-class suite for corporate banks. Separately, JPMorgan Chase now runs more than four hundred production AI use cases on an enterprise ML platform processing roughly ten trillion dollars in daily transactions, while Goldman Sachs has twelve thousand engineers paired with AI agents handling accounting, compliance, and operational finance.
-
-For super-regionals, the CFO-agenda connection is direct: finance teams sit on a unique stack of structured data, recurring cycles, and material decisions -- making the function one of the highest-ROI surfaces for agentic AI when the controls hold. But the prerequisite is data hygiene: the most common failure mode is assuming the existing model is clean enough for agent invocation -- it is rarely true on first inspection, and a three-to-six-week model-hygiene pass before scenario-modeling workflows go live is typically required.
-
-The governance question is sharpening: ninety-nine percent of companies plan to put agents into production but only eleven percent have done so, due to implementation challenges related to data, governance, and security. For banks with heightened regulatory scrutiny, that governance gap is a risk, not just a delay.
-
----
-
-### CFO Agenda, FP&amp;A, and Transformation Signals
-
-**Scenario planning over point estimates.** The Warsh communication regime -- deliberately ambiguous, less forward guidance, shorter statements -- means bank treasurers and FP&amp;A teams operating on a single rate path are building plans on a foundation that the Fed is actively declining to reinforce. The demand signal is for multi-scenario NII modeling capability, not for refining a base case.
-
-**Provisioning segmentation.** The K-shaped delinquency data forces a segmentation rebuild in allowance models. Banks relying on blended consumer reserve rates need to isolate lower-prime portfolios; the New York Fed&#x27;s own research now provides the academic framing for that conversation with auditors and regulators.
-
-**Basel complexity as a transformation catalyst.** A capital rule that lowers requirements but raises operational complexity is a net positive for finance transformation budgets: it removes the political argument against investment while creating a regulatory mandate for process change. Controllers and risk finance teams at institutions above one hundred billion dollars in assets face the most acute need for model and data infrastructure upgrades.
-
-**AI ROI credibility gap.** With only seven percent of CFOs reporting strong AI impact despite sixty percent piloting, the conversation has shifted from &quot;should we do this&quot; to &quot;why aren&#x27;t we seeing returns.&quot; The answer -- siloed deployment, poor data hygiene, no cross-functional integration -- is precisely the consulting engagement that finance transformation practices are positioned to deliver.
-
----
-
-### Contrarian Insight
-
-The consensus framing is that a capital-lighter Basel III final rule is unambiguously good for banks. It probably is for ROE. But the operational-complexity increase embedded in the same rule creates a multi-year finance-function workload that most super-regionals have not yet budgeted for. The banks most likely to outperform on capital efficiency post-implementation are the ones investing now in data infrastructure and model governance -- not the ones waiting for a final rule to plan their response. The contrarian bet is that the winners of Basel III relief will be determined by transformation investment decisions made in the next six months, not by the capital math itself.
-
----
-
-### Client Conversation Hooks
-
-1. **&quot;The PCE plateau is your planning anchor -- not the September decision.&quot;** Four months of flat core at three point three percent means the rate path has less variance than the FOMC dissent votes suggest. Ask your client: has the FP&amp;A team stress-tested NII under a scenario where rates do not move until Q1 2027?
-
-2. **&quot;Your provisioning model may be lying to you.&quot;** The K-shaped delinquency divergence means blended consumer reserve rates systematically misprice risk at both ends of the quality spectrum. Ask: how does your allowance model treat lower-prime card exposure versus prime card exposure, and when was that segmentation last validated against actual flow-into-delinquency data?
-
-3. **&quot;Basel III gives you budget cover for the data work you already needed to do.&quot;** The new capital rules lower requirements but raise modeling and governance complexity. For any client that has been deferring a data or reporting infrastructure build, this is the regulatory mandate that makes the business case.</itunes:summary>
-      <pubDate>Thu, 27 Aug 2026 04:46:13 -0400</pubDate>
-      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-08-27.mp3" length="7821741" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-08-27.mp3</guid>
-      <itunes:duration>8:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>

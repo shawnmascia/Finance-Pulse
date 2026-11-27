@@ -15,7 +15,209 @@
       <itunes:email>shawn.mascia@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:image href="https://shawnmascia.github.io/Finance-Pulse/cover.jpg"/>
-    <lastBuildDate>Thu, 26 Nov 2026 09:49:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:49:09 +0000</lastBuildDate>
+    <item>
+      <title>Finance Pulse - Nov 27, 2026</title>
+      <description><![CDATA[I'll run all major searches simultaneously to capture the freshest developments as of November 27, 2026.I now have strong, fresh, sourced material across all required domains. Let me compile both outputs carefully, surfacing angles that are genuinely new as of November 27, 2026, and avoiding all recycled themes from prior episodes.
+
+---
+
+## Finance Pulse | Friday, November 27, 2026
+
+**Bottom line: With the December ninth hike now priced as near-certain at ninety-three to ninety-nine percent across prediction markets, the question that actually matters for bank CFOs this weekend is not whether the Fed hikes, but what the January 2027 signal will be -- because futures already price a sixty-nine percent chance of a second consecutive hike in January -- creating a multi-meeting tightening path that breaks every planning assumption built on a "one-and-done" December consensus; simultaneously, fresh tariff escalation reported this morning adds an entirely new cost-of-credit and credit-quality variable that did not appear in any recent episode, and the Basel III Endgame rule's formal submission to the White House on November thirteenth resolves a year of ambiguity with a capital-relief outcome that reshapes how Category III and IV banks should frame their capital planning and finance transformation investment cases.**
+
+---
+
+### Top Takeaways
+
+1. **Tariffs are the new inflation wildcard.** A WSJ report published today, November twenty-seventh, reveals the US is preparing to raise tariffs on China, the EU, Japan, and South Korea. This is a fresh macro shock that feeds directly into bank credit modeling and provisioning assumptions.
+2. **Post-hike January path is now the dominant planning variable.** Futures markets already price a sixty-nine percent probability of another hike in January 2027, implying a terminal rate near four point fifty percent by mid-2027. This is a materially different budgeting horizon than any planning assumption built in the last two weeks.
+3. **Basel III Endgame submitted to White House OIRA on November thirteenth.** This formal submission is new confirmation the rule is in its final phase. The capital reduction numbers -- four point eight percent for Category I and II banks, five point two percent for Category III and IV, and seven point eight percent for smaller institutions -- have concrete implications for balance-sheet strategy and finance function investment capacity.
+
+---
+
+### Key Themes
+
+| Theme | Tag | Why It Matters |
+|---|---|---|
+| Tariff escalation as a credit and provisioning disruptor | **New** | New tariff headlines this morning create an underappreciated scenario for bank scenario planning: higher trade costs flow through to commercial borrower stress, particularly in manufacturing and import-dependent sectors. CFOs must model this in allowance for credit loss frameworks immediately. |
+| January 2027 as the real Fed decision point | **New** | The sixty-nine percent probability of a January hike converts the December meeting from an endpoint to a waypoint. For bank treasury teams, this fundamentally changes interest-rate risk positioning, hedge tenor decisions, and 2027 NII guidance ranges. |
+| Basel III Endgame capital relief finalization | **Evolving** | The OIRA submission on November thirteenth is the furthest this rule has progressed toward becoming law. For super-regionals in Category III and IV, the choice between ERBA and the revised Standardized Approach is now an active capital planning decision, not a theoretical one. |
+
+---
+
+### Banking Finance-Function Metrics
+
+**NIM and Funding Costs:**
+Regions Financial's Q3 2026 net interest income reached 1.3 billion dollars, with NIM on a taxable-equivalent basis at three point sixty-eight percent, up nine basis points from Q3 2025, driven primarily by lower total funding costs that overcame a modest decline in loan yields. Regions is guiding to a Q4 2026 NIM of approximately three point seventy percent, with interest-bearing deposit costs down over the cycle and a terminal rising-rate deposit beta of mid-to-high thirties percent.
+
+The key pricing tension at the loan level: the fixed-rate coupon on new commercial originations rose thirty-nine basis points since October; SOFR NIM rose seven basis points to one point seventy-eight percent; but fixed-rate NIM edged up only two basis points to one point seventy percent and remains twelve basis points below its August peak.
+
+**Industry NIM Context:**
+The FDIC-reported industry NIM for Q2 2026 stood at three point thirty-two percent, up one basis point, though that number predates the Fed's September 2026 rate increase and therefore understates current margin dynamics.
+
+**Deposit Franchise Quality:**
+South State's analysis of top-performing banks found that the top twenty-five institutions posted a median NIM of four point eleven percent versus three point fifty-seven percent for the rest, with the outperformers funded in part by cheaper deposits averaging one point fifty-two percent cost versus one point ninety-four percent for everyone else. The implication is direct: cost of funding, not asset yield, is where a bank builds a durable NIM advantage, and deposit franchise quality matters more than spread on any single loan. This is the finance transformation signal embedded in that data: banks that are investing in deposit platform modernization today are building the structural NIM protection that shows up in peer comparisons three to five years out.
+
+---
+
+### Regulatory Radar
+
+**Basel III Endgame -- Now in OIRA:**
+U.S. banking regulators submitted revised capital rules to the White House Office of Information and Regulatory Affairs on November thirteenth, marking a key step toward finalizing the Basel III Endgame framework. Combined with proposed changes to the Fed's stress-testing framework, the package would lower Common Equity Tier 1 requirements by four point eight percent for Category I and II firms, five point two percent for Category III and IV, and seven point eight percent for smaller banks.
+
+Category III and IV banks can choose whether to adopt the Expanded Risk-Based Approach or continue under a revised Standardized Approach, giving mid-sized regional banks more flexibility than the largest GSIBs. This optionality is an active decision that now has a time horizon.
+
+**Basel Committee -- AI and Cyber Added to Risk Taxonomy:**
+At its November 2026 meeting, the Basel Committee highlighted cyber and operational resilience, interest rate risk, commercial real estate refinancing, non-bank financial sector links, and exposures related to data centres and AI as key risks facing the global banking system. The explicit inclusion of AI-related exposures in the BCBS risk taxonomy is new and signals that model risk governance for AI tools will carry a regulatory capital dimension.
+
+**Global Implementation Divergence:**
+The 2026 US re-proposal widens the gap between US and international implementations of the Basel III framework, creating a competitive positioning implication for banks operating across multiple jurisdictions.
+
+---
+
+### AI in Finance
+
+**The FP&A Automation Ceiling:**
+As much as eighty percent of FP&A work is still spent extracting and packaging data and performing simple calculations; agentic AI will move finance teams from producing reports to interpreting performance and advising the business. The BCG finding is not new, but its CFO implication now has a concrete data point: one deployed finance insight agent automated more than ninety percent of business intelligence work in nine months -- a task that previously took three years.
+
+**The Human Accountability Question:**
+The 2026 FP&A Trends Survey found that ninety-eight percent of respondents expect AI to affect their role, while forty-one percent expect more capacity for value-added work and business partnering. The practical governance principle emerging: FP&A's responsibility is to validate the evidence, challenge assumptions, and work with business partners on the response. For bank CFOs navigating SR 26-2 model risk requirements, this validation layer is the difference between compliant and non-compliant AI use in finance.
+
+**What Banks Are Actually Buying:**
+The 2026 shift in FP&A platform design is generative AI plus retrieval-augmented generation over governed financial data, moving FP&A from spreadsheet assembly to narrated intelligence with automated commentary, scenario packs, and risk signals the CFO can challenge in minutes. Finance teams are increasingly exposing ledger and planning functions through Model Context Protocol servers rather than bespoke integrations per LLM vendor. MCP as a purchasing threshold, flagged in earlier episodes, is now embedded in how platforms are architected for production.
+
+**Tariff Uncertainty and AI Scenario Planning:**
+The tariff news this morning creates an immediate demand signal for multi-scenario AI modeling in bank credit and treasury functions. Banks that have invested in agentic scenario planning tools are better positioned to run trade-shock scenarios across loan portfolios in hours rather than weeks.
+
+---
+
+### CFO Agenda, FP&A, and Transformation Signals
+
+**The January-or-not question changes the planning frame entirely.** Futures show approximately a sixty-nine percent chance of another hike in January 2027, which would lift the target range to four point twenty-five percent, with market expectations pointing toward a rate near four point fifty percent by mid-2027. A CFO who built their 2027 NII model on a December-only hike now has a material planning gap. This is a scenario modeling demand signal for FP&A platforms with dynamic rate path capabilities.
+
+**Capital relief creates investment capacity.** The Basel III capital reduction for Category III and IV banks -- if the final rule follows the submission -- frees RWA headroom. For finance transformation leaders, this is the opening to redirect that freed capital into platform modernization investment cases that previously faced a "too expensive" objection from the board.
+
+**Regions as a live transformation proxy.** Regions Financial is actively advancing a cloud-based deposit platform implementation and broader modernization efforts while simultaneously posting record Capital Markets and Treasury Management revenues in Q3. The simultaneity is the point: transformation investment and revenue performance are not in tension when the finance function is properly sequenced.
+
+**Tariff-driven provisioning work is an underappreciated workload driver.** New tariffs on China, the EU, Japan, and South Korea will require bank credit teams to re-run macroeconomic scenarios underlying their CECL allowances. This is exactly the kind of unplanned workload spike that makes the cost-versus-workload squeeze acute and creates urgent demand for automated scenario tools.
+
+---
+
+### Contrarian Insight
+
+The Basel III capital relief story is being reported as good news for banks, and it is -- but the CFO-level implication is more complicated than "freed capital equals buybacks." Banks that use the released RWA headroom to accelerate lending rather than invest in finance function infrastructure will face a governance paradox: the same OIRA submission that frees the capital also advances stress-testing reforms that raise the analytical bar for capital planning and scenario documentation. The finance function that cannot model and report against a more sophisticated stress framework will be penalized precisely when regulators expect more rigor. Capital relief and finance capability investment are not alternatives; they are a package.
+
+---
+
+### Client Conversation Hooks
+
+1. **"Your Q4 NIM guide assumes December is the last hike -- but futures say sixty-nine percent chance of January too. Have you stress-tested NII against a four-point-fifty percent terminal rate by mid-2027, and does your FP&A platform let you run that scenario dynamically?"**
+2. **"The Basel III OIRA submission gives Category III and IV banks the first real optionality on ERBA versus the Standardized Approach. Which path is your capital planning team modeling, and have you mapped the reporting infrastructure requirements of each choice?"**
+3. **"This morning's tariff headlines will require re-running CECL scenarios for trade-exposed commercial portfolios. How long does that take your finance team today, and is that a manual or automated workflow?"**]]></description>
+      <itunes:summary>I&#x27;ll run all major searches simultaneously to capture the freshest developments as of November 27, 2026.I now have strong, fresh, sourced material across all required domains. Let me compile both outputs carefully, surfacing angles that are genuinely new as of November 27, 2026, and avoiding all recycled themes from prior episodes.
+
+---
+
+## Finance Pulse | Friday, November 27, 2026
+
+**Bottom line: With the December ninth hike now priced as near-certain at ninety-three to ninety-nine percent across prediction markets, the question that actually matters for bank CFOs this weekend is not whether the Fed hikes, but what the January 2027 signal will be -- because futures already price a sixty-nine percent chance of a second consecutive hike in January -- creating a multi-meeting tightening path that breaks every planning assumption built on a &quot;one-and-done&quot; December consensus; simultaneously, fresh tariff escalation reported this morning adds an entirely new cost-of-credit and credit-quality variable that did not appear in any recent episode, and the Basel III Endgame rule&#x27;s formal submission to the White House on November thirteenth resolves a year of ambiguity with a capital-relief outcome that reshapes how Category III and IV banks should frame their capital planning and finance transformation investment cases.**
+
+---
+
+### Top Takeaways
+
+1. **Tariffs are the new inflation wildcard.** A WSJ report published today, November twenty-seventh, reveals the US is preparing to raise tariffs on China, the EU, Japan, and South Korea. This is a fresh macro shock that feeds directly into bank credit modeling and provisioning assumptions.
+2. **Post-hike January path is now the dominant planning variable.** Futures markets already price a sixty-nine percent probability of another hike in January 2027, implying a terminal rate near four point fifty percent by mid-2027. This is a materially different budgeting horizon than any planning assumption built in the last two weeks.
+3. **Basel III Endgame submitted to White House OIRA on November thirteenth.** This formal submission is new confirmation the rule is in its final phase. The capital reduction numbers -- four point eight percent for Category I and II banks, five point two percent for Category III and IV, and seven point eight percent for smaller institutions -- have concrete implications for balance-sheet strategy and finance function investment capacity.
+
+---
+
+### Key Themes
+
+| Theme | Tag | Why It Matters |
+|---|---|---|
+| Tariff escalation as a credit and provisioning disruptor | **New** | New tariff headlines this morning create an underappreciated scenario for bank scenario planning: higher trade costs flow through to commercial borrower stress, particularly in manufacturing and import-dependent sectors. CFOs must model this in allowance for credit loss frameworks immediately. |
+| January 2027 as the real Fed decision point | **New** | The sixty-nine percent probability of a January hike converts the December meeting from an endpoint to a waypoint. For bank treasury teams, this fundamentally changes interest-rate risk positioning, hedge tenor decisions, and 2027 NII guidance ranges. |
+| Basel III Endgame capital relief finalization | **Evolving** | The OIRA submission on November thirteenth is the furthest this rule has progressed toward becoming law. For super-regionals in Category III and IV, the choice between ERBA and the revised Standardized Approach is now an active capital planning decision, not a theoretical one. |
+
+---
+
+### Banking Finance-Function Metrics
+
+**NIM and Funding Costs:**
+Regions Financial&#x27;s Q3 2026 net interest income reached 1.3 billion dollars, with NIM on a taxable-equivalent basis at three point sixty-eight percent, up nine basis points from Q3 2025, driven primarily by lower total funding costs that overcame a modest decline in loan yields. Regions is guiding to a Q4 2026 NIM of approximately three point seventy percent, with interest-bearing deposit costs down over the cycle and a terminal rising-rate deposit beta of mid-to-high thirties percent.
+
+The key pricing tension at the loan level: the fixed-rate coupon on new commercial originations rose thirty-nine basis points since October; SOFR NIM rose seven basis points to one point seventy-eight percent; but fixed-rate NIM edged up only two basis points to one point seventy percent and remains twelve basis points below its August peak.
+
+**Industry NIM Context:**
+The FDIC-reported industry NIM for Q2 2026 stood at three point thirty-two percent, up one basis point, though that number predates the Fed&#x27;s September 2026 rate increase and therefore understates current margin dynamics.
+
+**Deposit Franchise Quality:**
+South State&#x27;s analysis of top-performing banks found that the top twenty-five institutions posted a median NIM of four point eleven percent versus three point fifty-seven percent for the rest, with the outperformers funded in part by cheaper deposits averaging one point fifty-two percent cost versus one point ninety-four percent for everyone else. The implication is direct: cost of funding, not asset yield, is where a bank builds a durable NIM advantage, and deposit franchise quality matters more than spread on any single loan. This is the finance transformation signal embedded in that data: banks that are investing in deposit platform modernization today are building the structural NIM protection that shows up in peer comparisons three to five years out.
+
+---
+
+### Regulatory Radar
+
+**Basel III Endgame -- Now in OIRA:**
+U.S. banking regulators submitted revised capital rules to the White House Office of Information and Regulatory Affairs on November thirteenth, marking a key step toward finalizing the Basel III Endgame framework. Combined with proposed changes to the Fed&#x27;s stress-testing framework, the package would lower Common Equity Tier 1 requirements by four point eight percent for Category I and II firms, five point two percent for Category III and IV, and seven point eight percent for smaller banks.
+
+Category III and IV banks can choose whether to adopt the Expanded Risk-Based Approach or continue under a revised Standardized Approach, giving mid-sized regional banks more flexibility than the largest GSIBs. This optionality is an active decision that now has a time horizon.
+
+**Basel Committee -- AI and Cyber Added to Risk Taxonomy:**
+At its November 2026 meeting, the Basel Committee highlighted cyber and operational resilience, interest rate risk, commercial real estate refinancing, non-bank financial sector links, and exposures related to data centres and AI as key risks facing the global banking system. The explicit inclusion of AI-related exposures in the BCBS risk taxonomy is new and signals that model risk governance for AI tools will carry a regulatory capital dimension.
+
+**Global Implementation Divergence:**
+The 2026 US re-proposal widens the gap between US and international implementations of the Basel III framework, creating a competitive positioning implication for banks operating across multiple jurisdictions.
+
+---
+
+### AI in Finance
+
+**The FP&amp;A Automation Ceiling:**
+As much as eighty percent of FP&amp;A work is still spent extracting and packaging data and performing simple calculations; agentic AI will move finance teams from producing reports to interpreting performance and advising the business. The BCG finding is not new, but its CFO implication now has a concrete data point: one deployed finance insight agent automated more than ninety percent of business intelligence work in nine months -- a task that previously took three years.
+
+**The Human Accountability Question:**
+The 2026 FP&amp;A Trends Survey found that ninety-eight percent of respondents expect AI to affect their role, while forty-one percent expect more capacity for value-added work and business partnering. The practical governance principle emerging: FP&amp;A&#x27;s responsibility is to validate the evidence, challenge assumptions, and work with business partners on the response. For bank CFOs navigating SR 26-2 model risk requirements, this validation layer is the difference between compliant and non-compliant AI use in finance.
+
+**What Banks Are Actually Buying:**
+The 2026 shift in FP&amp;A platform design is generative AI plus retrieval-augmented generation over governed financial data, moving FP&amp;A from spreadsheet assembly to narrated intelligence with automated commentary, scenario packs, and risk signals the CFO can challenge in minutes. Finance teams are increasingly exposing ledger and planning functions through Model Context Protocol servers rather than bespoke integrations per LLM vendor. MCP as a purchasing threshold, flagged in earlier episodes, is now embedded in how platforms are architected for production.
+
+**Tariff Uncertainty and AI Scenario Planning:**
+The tariff news this morning creates an immediate demand signal for multi-scenario AI modeling in bank credit and treasury functions. Banks that have invested in agentic scenario planning tools are better positioned to run trade-shock scenarios across loan portfolios in hours rather than weeks.
+
+---
+
+### CFO Agenda, FP&amp;A, and Transformation Signals
+
+**The January-or-not question changes the planning frame entirely.** Futures show approximately a sixty-nine percent chance of another hike in January 2027, which would lift the target range to four point twenty-five percent, with market expectations pointing toward a rate near four point fifty percent by mid-2027. A CFO who built their 2027 NII model on a December-only hike now has a material planning gap. This is a scenario modeling demand signal for FP&amp;A platforms with dynamic rate path capabilities.
+
+**Capital relief creates investment capacity.** The Basel III capital reduction for Category III and IV banks -- if the final rule follows the submission -- frees RWA headroom. For finance transformation leaders, this is the opening to redirect that freed capital into platform modernization investment cases that previously faced a &quot;too expensive&quot; objection from the board.
+
+**Regions as a live transformation proxy.** Regions Financial is actively advancing a cloud-based deposit platform implementation and broader modernization efforts while simultaneously posting record Capital Markets and Treasury Management revenues in Q3. The simultaneity is the point: transformation investment and revenue performance are not in tension when the finance function is properly sequenced.
+
+**Tariff-driven provisioning work is an underappreciated workload driver.** New tariffs on China, the EU, Japan, and South Korea will require bank credit teams to re-run macroeconomic scenarios underlying their CECL allowances. This is exactly the kind of unplanned workload spike that makes the cost-versus-workload squeeze acute and creates urgent demand for automated scenario tools.
+
+---
+
+### Contrarian Insight
+
+The Basel III capital relief story is being reported as good news for banks, and it is -- but the CFO-level implication is more complicated than &quot;freed capital equals buybacks.&quot; Banks that use the released RWA headroom to accelerate lending rather than invest in finance function infrastructure will face a governance paradox: the same OIRA submission that frees the capital also advances stress-testing reforms that raise the analytical bar for capital planning and scenario documentation. The finance function that cannot model and report against a more sophisticated stress framework will be penalized precisely when regulators expect more rigor. Capital relief and finance capability investment are not alternatives; they are a package.
+
+---
+
+### Client Conversation Hooks
+
+1. **&quot;Your Q4 NIM guide assumes December is the last hike -- but futures say sixty-nine percent chance of January too. Have you stress-tested NII against a four-point-fifty percent terminal rate by mid-2027, and does your FP&amp;A platform let you run that scenario dynamically?&quot;**
+2. **&quot;The Basel III OIRA submission gives Category III and IV banks the first real optionality on ERBA versus the Standardized Approach. Which path is your capital planning team modeling, and have you mapped the reporting infrastructure requirements of each choice?&quot;**
+3. **&quot;This morning&#x27;s tariff headlines will require re-running CECL scenarios for trade-exposed commercial portfolios. How long does that take your finance team today, and is that a manual or automated workflow?&quot;**</itunes:summary>
+      <pubDate>Fri, 27 Nov 2026 04:46:00 -0500</pubDate>
+      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-11-27.mp3" length="7198124" type="audio/mpeg"/>
+      <guid isPermaLink="false">2026-11-27.mp3</guid>
+      <itunes:duration>7:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Finance Pulse - Nov 26, 2026</title>
       <description><![CDATA[I now have strong, fresh, sourced material for today's Thanksgiving Day episode. The genuinely new developments are: (1) October PCE landed today, Thanksgiving, with headline at three point eight percent and core at three point three percent, beating the three point two percent forecast -- the highest core reading in nearly three years; (2) Kalshi markets have firmed the December hike back to ninety-three percent probability after the Bessent-driven uncertainty from the Nov 24 episode; (3) the Q2/November deposit pricing data showing fixed-rate cost-of-funds rising sharply with the twelve-month funding rate up fourteen basis points since October; (4) the federal SR 26-2 guidance replacing SR 11-7 as the AI model risk standard for banks; (5) Anaplan's Agentic Enterprise still not in general availability despite an October promise; (6) Truist's Q3 2026 efficiency ratio improving to fifty-four point five percent and CET1 at twelve point zero six percent; (7) the Basel III endgame still pending no final rule as of OIRA review. Let me compile both outputs carefully.
@@ -5864,220 +6066,6 @@ The conventional wisdom is that the Basel III reproposal is good news for banks 
       <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-09-10.mp3" length="6712749" type="audio/mpeg"/>
       <guid isPermaLink="false">2026-09-10.mp3</guid>
       <itunes:duration>6:59</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Finance Pulse - Sep 9, 2026</title>
-      <description><![CDATA[I'll run all searches simultaneously to capture the freshest developments as of September 9, 2026.I now have sufficient sourced material to produce today's briefing. The genuinely new angles today versus prior episodes are: (1) the September 16 hike probability has modestly softened back to fifty-seven percent from the fifty-eight point seven percent recorded yesterday, introducing a small but real directional shift to track; (2) Bloomberg Surveillance's September 8 episode surfaces the specific macro framing from Morgan Stanley's Jim Caron on duration and JPMorgan's Oksana Aronov on higher debt costs as a structural force, not a cyclical one, a distinct angle from prior Waller/Warsh coverage; (3) the PNC Q3 earnings date is now confirmed for October 15 with analysts projecting sixteen percent EPS growth for 2026, and PNC's post-stress-test eighteen percent dividend increase is a fresh capital deployment signal; (4) the governance gap in agentic AI is the sharpest new angle: NVIDIA's 2026 State of AI in Financial Services report shows forty-two percent of respondents are already using or assessing agentic AI, yet Gartner/SAS data shows only seven percent of CFOs say AI investments are having strong impact, and PwC's 2026 Digital Trends in Operations Survey finds eighty-three percent believe agents will break down functional silos but only twenty-seven percent have a fully embedded AI strategy; (5) the "finance engineer" job title emergence is a fresh talent angle; (6) the UK Basel 3.1 final policy statement confirmed January 1, 2027 start date is a new jurisdiction signal not yet covered; and (7) the J.P. Morgan wealth management note on energy-linked supply-chain shocks as the structural driver behind the rate hike case, separate from the labor data, is a new causal framing.
-
----
-
-## Finance Pulse | Wednesday, September 9, 2026
-
-**Bottom line: With seven days to the September 16 FOMC decision and hike odds now ticking slightly back to fifty-seven percent after touching nearly fifty-nine percent yesterday, the market is no longer debating the hike itself but the structural aftermath: a rate environment where higher debt costs are being called permanent rather than cyclical, the UK has locked in Basel 3.1 for January 2027, and a growing CFO governance crisis around agentic AI is widening the gap between adoption velocity and control infrastructure.**
-
----
-
-### Top Takeaways
-
-1. Market-implied probability of a twenty-five basis point hike at the September 16 FOMC meeting has eased to fifty-seven percent, a modest step back from yesterday's fifty-eight point seven percent, introducing the first small directional softening since the August payroll shock.
-
-2. Bloomberg Surveillance on September 8 featured Oksana Aronov of JPMorgan Asset Management discussing the macro backdrop and higher debt costs, framing elevated borrowing costs as a structural condition rather than a passing rate cycle. This is the framing a bank CFO should be anchoring long-range planning assumptions to.
-
-3. Close to sixty percent of finance teams are piloting or implementing AI projects, while only seven percent of CFOs say those investments are having a strong impact, according to Gartner data cited by Financial Management Magazine. That gap is the defining CFO problem in AI right now.
-
-4. PNC Financial is set to increase its quarterly dividend by eighteen percent to two dollars following successful results from the 2026 Fed stress test, and analysts forecast sixteen percent growth in earnings per share for 2026, with Q3 earnings scheduled for October 15.
-
-5. On January 20, 2026, the UK Prudential Regulation Authority published its final policy statement for the implementation of Basel 3.1, confirming a general start date of January 1, 2027, a concrete jurisdiction deadline that has not featured in prior episodes and is now a live planning clock.
-
----
-
-### Three Key Themes
-
-**Theme 1 (Evolving): Structural versus cyclical rate framing**
-
-The September 8 Bloomberg Surveillance conversation with JPMorgan's Aronov on higher debt costs as a structural macro feature is a meaningful shift from the episodic framing of prior weeks. Two drivers lowered the bar for a September hike: continued supply-chain shocks tied to the ongoing Iran conflict that are keeping energy costs elevated, and increased investor doubt about the Fed's willingness to keep inflation contained after it left rates unchanged in July. For a bank CFO, the distinction matters enormously: a cyclical hike scenario allows a two to three year planning horizon toward normalization, but a structural higher-for-longer framing locks in deposit repricing pressure, wholesale funding costs, and securities portfolio drag for a full budget cycle or more.
-
-**Theme 2 (New): The UK Basel 3.1 clock and cross-border capital strategy**
-
-The PRA confirmed a January 1, 2027 start date for Basel 3.1 in the UK, while in the US, finalization is expected in Q4 2026 with implementation beginning in 2027. For global and super-regional banks with any UK or European presence, two Basel implementation timelines are now running simultaneously. Banks have approximately two years to interpret the new rules, assess their impact, address new data and tech needs, and adjust business strategies, and Basel III Endgame is a chance to modernize capital infrastructure: updating technology, becoming more agile, and addressing inefficiencies to lower operating costs. The cross-border simultaneity is the new pressure: finance functions have to run two capital calculation regimes in parallel, with different output floors, different operational risk treatments, and different transition paths.
-
-**Theme 3 (New): The agentic AI governance crisis**
-
-What makes agentic AI genuinely thought-provoking for finance leaders is that it does not just change how work gets done but might change who or what is accountable for it. When an agent books a journal entry, flags a vendor for review, or adjusts a forecast assumption, the action is real. The downstream effects are real. But the judgment that produced it was not a human's. This is manageable with the right governance frameworks, but most finance functions have not built them yet. PwC's 2026 Digital Trends in Operations Survey found that eighty-three percent of respondents believe AI agents and automation will accelerate the breakdown of traditional functional silos, yet only twenty-seven percent have fully embedded an AI strategy. The gap between deployment velocity and control infrastructure is the most underexplored CFO agenda risk in the AI story.
-
----
-
-### Banking Finance-Function
-
-**NIM and deposit repricing:** The deposit repricing cycle is bifurcating. Some banks are actively managing deposit mix downward in cost: deposit betas for rate cuts targeted around fifty percent are being used to protect profitability as interest rates ease, though this dynamic runs in reverse if the September hike lands. Average cost of funds increased to three percent for Q2 2026, with interest-bearing deposit costs decreasing to three point three four percent, showing that deposit repricing is still directionally easing but losing momentum at precisely the wrong moment before a potential hike.
-
-**Capital and stress tests:** PNC's post-stress-test eighteen percent dividend increase reflects strong capital generation capacity from the 2026 CCAR cycle. Agencies anticipate that overall capital in the banking system would modestly decrease under the March 2026 proposals, with the Fed voting six to one to advance all three proposals. Capital relief, if confirmed in finalization, frees treasurer bandwidth for buybacks and lending but also removes the urgency that was driving technology investment in capital calculation infrastructure.
-
-**Super-regional context:** PNC's Q3 results on October 15 will be a bellwether, with sixteen percent EPS growth forecast for full year 2026. Super-regional cohort stocks reflect the hike pricing: Truist at 52.35, KeyCorp at 22.73, Regions at 31.43, Citizens at 72.67, Fifth Third at 57.05, and M&T at 250.45, suggesting markets are differentiating within the cohort on funding mix and credit exposure rather than treating all super-regionals as rate-equivalent.
-
----
-
-### Regulatory Radar
-
-**Basel III Endgame (US):** The comment period closed June 18. The March 2026 reproposal delivers net capital relief of approximately eighty-seven point seven billion dollars, with finalization expected in late 2026 and implementation in 2027. No material new development since the June close, but the finalization timeline is tightening.
-
-**Basel 3.1 (UK):** Fresh this week. The PRA confirmed January 1, 2027 as the Basel 3.1 implementation date. For any bank with a UK subsidiary or branch, the finance function now has a hard deadline running in parallel to the US finalization process.
-
-**FOMC:** Seven days to September 16. Rate unchanged as of today at three point five to three point seventy-five percent, with fifty-seven percent market-implied probability of a hike.
-
-**Fed Chair posture:** New Fed Chair Kevin Warsh launched five new policy task forces and in his first press conference reiterated his aversion to forward guidance, which analysts expect to translate to greater rate volatility. That anti-guidance posture means bank CFOs cannot rely on dot-plot anchoring for multi-year rate assumptions.
-
----
-
-### AI in Finance
-
-**The governance gap is the story:** By 2026, Gartner predicts that ninety percent of finance functions will deploy at least one AI-enabled technology solution, yet close to sixty percent of teams are piloting or implementing AI projects while only seven percent of CFOs say those investments are having strong impact. The gap is not about adoption; it is about integration depth and control.
-
-**Why: Architectural fragmentation.** The gap stems from architectural limitations. Most finance teams are adding AI inside existing functional lanes: AP gets invoice automation, FP&A gets forecasting tools, close teams get reconciliation support. Each system may improve a task, but each also carries its own data model, workflow logic, and audit trail. For banks operating under SOX, model risk management rules, and regulatory reporting obligations, this fragmentation is a control problem, not just an efficiency problem.
-
-**Agentic AI maturity:** NVIDIA's 2026 State of AI in Financial Services report found that forty-two percent of respondents are already using or assessing agentic AI, especially for internal process optimization. But the real governance requirement is establishing a named human reviewer, a system-of-record write boundary, and an evidence artifact for SOX compliance for every agentic action, with the controller holding disposition authority over agent journal flags and reconciliation anomalies.
-
-**The emerging "finance engineer" role:** Looking toward the end of 2026 and beyond, the role of finance engineering will become central to the success of the modern enterprise. As AI agents become more sophisticated, the focus will shift from simply using the software to engineering the financial environment for optimal AI performance, involving designing data pipelines that are inherently machine-readable and developing governance frameworks that account for the speed of AI-driven transactions. This represents a genuine new talent demand signal for bank finance functions.
-
-**Vendor signals:** Established finance software players are utilizing their stockpiles of data and existing machine learning models to build their own agents within their ecosystems. The platform consolidation angle is accelerating: banks purchasing OneStream, SAP, Oracle, or Workday now face the question of whether to build agent layers on their existing platform or acquire point solutions that interoperate. The buyer's decision is increasingly about data architecture, not feature lists.
-
-**CFO agenda connection:** The FP&A function is being redefined around agent orchestration, governance, and strategic interpretation rather than operational reporting. For a bank CFO facing regulatory reporting demands, Basel implementation, and stress testing, the ROI case for AI is clearest where it reduces the volume of manual regulatory data assembly, not where it adds another forecasting dashboard.
-
----
-
-### CFO Agenda, FP&A, and Transformation Signals
-
-**The October 15 PNC earnings call is the next hard data point** for super-regional finance benchmarking. With sixteen percent EPS growth forecast, the read-through question is whether that growth is being driven by NII resilience or by cost discipline, since those have very different implications for finance function investment and headcount.
-
-**The dual Basel clock** (US Q4 2026 finalization plus UK January 1, 2027 implementation) is creating a genuine vendor selection urgency for regulatory capital technology. Finance transformation programs at banks that have deferred capital infrastructure decisions now face two hard walls simultaneously.
-
-**The agentic AI governance investment case:** The seven percent CFO satisfaction rate with AI investments is not an argument against AI spend; it is an argument for rearchitecting how it is deployed. Banks that treat AI as a point solution within each finance sub-function will continue to hit the fragmentation ceiling. The transformation demand is shifting toward integrated data platforms with embedded governance rails, which is where buying patterns are moving even if vendor marketing has not caught up.
-
-**FP&A talent:** Wolters Kluwer's research on FP&A roles in the agentic era frames the shift directly: routine work in FP&A will decline as agents take on recurring analysis and planning tasks. The implication for bank finance operating models is a hiring mix shift from analysts who produce variance reports to analysts who govern, interpret, and challenge agent output.
-
----
-
-### Contrarian Insight
-
-The conventional read is that Basel capital relief (the eighty-seven point seven billion dollar net benefit from the March reproposal) reduces the urgency of finance technology investment because it lowers capital calculation complexity. The contrarian case is the opposite: capital relief without implementation certainty is actually a planning liability. Banks that have delayed capital infrastructure investment waiting for the re-proposal have now accumulated two years of deferred modernization. The finalization window is compressing to roughly twelve weeks. Those that have not already built the data architecture to run parallel capital calculations under the new standardized approach, the current framework, and UK Basel 3.1 simultaneously will face a compressed catch-up spend that is more expensive and more disruptive than a phased multi-year investment would have been.
-
----
-
-### Three Client Conversation Hooks
-
-1. **The structural versus cyclical rate question:** Ask your client whether their NII planning model and deposit cost assumptions are built on a cyclical mean-reversion view or a structural higher-for-longer view. The JPMorgan Asset Management framing of higher debt costs as structural, not cyclical, means the former is increasingly a modeling error, not just a conservative assumption.
-
-2. **The dual Basel implementation window:** For any client with UK operations or European ambitions, ask when they last updated their capital calculation technology roadmap. With the US finalization expected in Q4 and UK Basel 3.1 live January 1, 2027, the window for a considered vendor selection has essentially closed and they are now in implementation execution, whether or not they have made a decision.
-
-3. **The seven percent CFO satisfaction problem:** Present this number to your client and ask them to diagnose it for their own organization. Is the gap a data architecture problem, a governance and control gap, a vendor fragmentation problem, or an unrealistic expectation problem? The answer will tell you where the transformation investment needs to go next.]]></description>
-      <itunes:summary>I&#x27;ll run all searches simultaneously to capture the freshest developments as of September 9, 2026.I now have sufficient sourced material to produce today&#x27;s briefing. The genuinely new angles today versus prior episodes are: (1) the September 16 hike probability has modestly softened back to fifty-seven percent from the fifty-eight point seven percent recorded yesterday, introducing a small but real directional shift to track; (2) Bloomberg Surveillance&#x27;s September 8 episode surfaces the specific macro framing from Morgan Stanley&#x27;s Jim Caron on duration and JPMorgan&#x27;s Oksana Aronov on higher debt costs as a structural force, not a cyclical one, a distinct angle from prior Waller/Warsh coverage; (3) the PNC Q3 earnings date is now confirmed for October 15 with analysts projecting sixteen percent EPS growth for 2026, and PNC&#x27;s post-stress-test eighteen percent dividend increase is a fresh capital deployment signal; (4) the governance gap in agentic AI is the sharpest new angle: NVIDIA&#x27;s 2026 State of AI in Financial Services report shows forty-two percent of respondents are already using or assessing agentic AI, yet Gartner/SAS data shows only seven percent of CFOs say AI investments are having strong impact, and PwC&#x27;s 2026 Digital Trends in Operations Survey finds eighty-three percent believe agents will break down functional silos but only twenty-seven percent have a fully embedded AI strategy; (5) the &quot;finance engineer&quot; job title emergence is a fresh talent angle; (6) the UK Basel 3.1 final policy statement confirmed January 1, 2027 start date is a new jurisdiction signal not yet covered; and (7) the J.P. Morgan wealth management note on energy-linked supply-chain shocks as the structural driver behind the rate hike case, separate from the labor data, is a new causal framing.
-
----
-
-## Finance Pulse | Wednesday, September 9, 2026
-
-**Bottom line: With seven days to the September 16 FOMC decision and hike odds now ticking slightly back to fifty-seven percent after touching nearly fifty-nine percent yesterday, the market is no longer debating the hike itself but the structural aftermath: a rate environment where higher debt costs are being called permanent rather than cyclical, the UK has locked in Basel 3.1 for January 2027, and a growing CFO governance crisis around agentic AI is widening the gap between adoption velocity and control infrastructure.**
-
----
-
-### Top Takeaways
-
-1. Market-implied probability of a twenty-five basis point hike at the September 16 FOMC meeting has eased to fifty-seven percent, a modest step back from yesterday&#x27;s fifty-eight point seven percent, introducing the first small directional softening since the August payroll shock.
-
-2. Bloomberg Surveillance on September 8 featured Oksana Aronov of JPMorgan Asset Management discussing the macro backdrop and higher debt costs, framing elevated borrowing costs as a structural condition rather than a passing rate cycle. This is the framing a bank CFO should be anchoring long-range planning assumptions to.
-
-3. Close to sixty percent of finance teams are piloting or implementing AI projects, while only seven percent of CFOs say those investments are having a strong impact, according to Gartner data cited by Financial Management Magazine. That gap is the defining CFO problem in AI right now.
-
-4. PNC Financial is set to increase its quarterly dividend by eighteen percent to two dollars following successful results from the 2026 Fed stress test, and analysts forecast sixteen percent growth in earnings per share for 2026, with Q3 earnings scheduled for October 15.
-
-5. On January 20, 2026, the UK Prudential Regulation Authority published its final policy statement for the implementation of Basel 3.1, confirming a general start date of January 1, 2027, a concrete jurisdiction deadline that has not featured in prior episodes and is now a live planning clock.
-
----
-
-### Three Key Themes
-
-**Theme 1 (Evolving): Structural versus cyclical rate framing**
-
-The September 8 Bloomberg Surveillance conversation with JPMorgan&#x27;s Aronov on higher debt costs as a structural macro feature is a meaningful shift from the episodic framing of prior weeks. Two drivers lowered the bar for a September hike: continued supply-chain shocks tied to the ongoing Iran conflict that are keeping energy costs elevated, and increased investor doubt about the Fed&#x27;s willingness to keep inflation contained after it left rates unchanged in July. For a bank CFO, the distinction matters enormously: a cyclical hike scenario allows a two to three year planning horizon toward normalization, but a structural higher-for-longer framing locks in deposit repricing pressure, wholesale funding costs, and securities portfolio drag for a full budget cycle or more.
-
-**Theme 2 (New): The UK Basel 3.1 clock and cross-border capital strategy**
-
-The PRA confirmed a January 1, 2027 start date for Basel 3.1 in the UK, while in the US, finalization is expected in Q4 2026 with implementation beginning in 2027. For global and super-regional banks with any UK or European presence, two Basel implementation timelines are now running simultaneously. Banks have approximately two years to interpret the new rules, assess their impact, address new data and tech needs, and adjust business strategies, and Basel III Endgame is a chance to modernize capital infrastructure: updating technology, becoming more agile, and addressing inefficiencies to lower operating costs. The cross-border simultaneity is the new pressure: finance functions have to run two capital calculation regimes in parallel, with different output floors, different operational risk treatments, and different transition paths.
-
-**Theme 3 (New): The agentic AI governance crisis**
-
-What makes agentic AI genuinely thought-provoking for finance leaders is that it does not just change how work gets done but might change who or what is accountable for it. When an agent books a journal entry, flags a vendor for review, or adjusts a forecast assumption, the action is real. The downstream effects are real. But the judgment that produced it was not a human&#x27;s. This is manageable with the right governance frameworks, but most finance functions have not built them yet. PwC&#x27;s 2026 Digital Trends in Operations Survey found that eighty-three percent of respondents believe AI agents and automation will accelerate the breakdown of traditional functional silos, yet only twenty-seven percent have fully embedded an AI strategy. The gap between deployment velocity and control infrastructure is the most underexplored CFO agenda risk in the AI story.
-
----
-
-### Banking Finance-Function
-
-**NIM and deposit repricing:** The deposit repricing cycle is bifurcating. Some banks are actively managing deposit mix downward in cost: deposit betas for rate cuts targeted around fifty percent are being used to protect profitability as interest rates ease, though this dynamic runs in reverse if the September hike lands. Average cost of funds increased to three percent for Q2 2026, with interest-bearing deposit costs decreasing to three point three four percent, showing that deposit repricing is still directionally easing but losing momentum at precisely the wrong moment before a potential hike.
-
-**Capital and stress tests:** PNC&#x27;s post-stress-test eighteen percent dividend increase reflects strong capital generation capacity from the 2026 CCAR cycle. Agencies anticipate that overall capital in the banking system would modestly decrease under the March 2026 proposals, with the Fed voting six to one to advance all three proposals. Capital relief, if confirmed in finalization, frees treasurer bandwidth for buybacks and lending but also removes the urgency that was driving technology investment in capital calculation infrastructure.
-
-**Super-regional context:** PNC&#x27;s Q3 results on October 15 will be a bellwether, with sixteen percent EPS growth forecast for full year 2026. Super-regional cohort stocks reflect the hike pricing: Truist at 52.35, KeyCorp at 22.73, Regions at 31.43, Citizens at 72.67, Fifth Third at 57.05, and M&amp;T at 250.45, suggesting markets are differentiating within the cohort on funding mix and credit exposure rather than treating all super-regionals as rate-equivalent.
-
----
-
-### Regulatory Radar
-
-**Basel III Endgame (US):** The comment period closed June 18. The March 2026 reproposal delivers net capital relief of approximately eighty-seven point seven billion dollars, with finalization expected in late 2026 and implementation in 2027. No material new development since the June close, but the finalization timeline is tightening.
-
-**Basel 3.1 (UK):** Fresh this week. The PRA confirmed January 1, 2027 as the Basel 3.1 implementation date. For any bank with a UK subsidiary or branch, the finance function now has a hard deadline running in parallel to the US finalization process.
-
-**FOMC:** Seven days to September 16. Rate unchanged as of today at three point five to three point seventy-five percent, with fifty-seven percent market-implied probability of a hike.
-
-**Fed Chair posture:** New Fed Chair Kevin Warsh launched five new policy task forces and in his first press conference reiterated his aversion to forward guidance, which analysts expect to translate to greater rate volatility. That anti-guidance posture means bank CFOs cannot rely on dot-plot anchoring for multi-year rate assumptions.
-
----
-
-### AI in Finance
-
-**The governance gap is the story:** By 2026, Gartner predicts that ninety percent of finance functions will deploy at least one AI-enabled technology solution, yet close to sixty percent of teams are piloting or implementing AI projects while only seven percent of CFOs say those investments are having strong impact. The gap is not about adoption; it is about integration depth and control.
-
-**Why: Architectural fragmentation.** The gap stems from architectural limitations. Most finance teams are adding AI inside existing functional lanes: AP gets invoice automation, FP&amp;A gets forecasting tools, close teams get reconciliation support. Each system may improve a task, but each also carries its own data model, workflow logic, and audit trail. For banks operating under SOX, model risk management rules, and regulatory reporting obligations, this fragmentation is a control problem, not just an efficiency problem.
-
-**Agentic AI maturity:** NVIDIA&#x27;s 2026 State of AI in Financial Services report found that forty-two percent of respondents are already using or assessing agentic AI, especially for internal process optimization. But the real governance requirement is establishing a named human reviewer, a system-of-record write boundary, and an evidence artifact for SOX compliance for every agentic action, with the controller holding disposition authority over agent journal flags and reconciliation anomalies.
-
-**The emerging &quot;finance engineer&quot; role:** Looking toward the end of 2026 and beyond, the role of finance engineering will become central to the success of the modern enterprise. As AI agents become more sophisticated, the focus will shift from simply using the software to engineering the financial environment for optimal AI performance, involving designing data pipelines that are inherently machine-readable and developing governance frameworks that account for the speed of AI-driven transactions. This represents a genuine new talent demand signal for bank finance functions.
-
-**Vendor signals:** Established finance software players are utilizing their stockpiles of data and existing machine learning models to build their own agents within their ecosystems. The platform consolidation angle is accelerating: banks purchasing OneStream, SAP, Oracle, or Workday now face the question of whether to build agent layers on their existing platform or acquire point solutions that interoperate. The buyer&#x27;s decision is increasingly about data architecture, not feature lists.
-
-**CFO agenda connection:** The FP&amp;A function is being redefined around agent orchestration, governance, and strategic interpretation rather than operational reporting. For a bank CFO facing regulatory reporting demands, Basel implementation, and stress testing, the ROI case for AI is clearest where it reduces the volume of manual regulatory data assembly, not where it adds another forecasting dashboard.
-
----
-
-### CFO Agenda, FP&amp;A, and Transformation Signals
-
-**The October 15 PNC earnings call is the next hard data point** for super-regional finance benchmarking. With sixteen percent EPS growth forecast, the read-through question is whether that growth is being driven by NII resilience or by cost discipline, since those have very different implications for finance function investment and headcount.
-
-**The dual Basel clock** (US Q4 2026 finalization plus UK January 1, 2027 implementation) is creating a genuine vendor selection urgency for regulatory capital technology. Finance transformation programs at banks that have deferred capital infrastructure decisions now face two hard walls simultaneously.
-
-**The agentic AI governance investment case:** The seven percent CFO satisfaction rate with AI investments is not an argument against AI spend; it is an argument for rearchitecting how it is deployed. Banks that treat AI as a point solution within each finance sub-function will continue to hit the fragmentation ceiling. The transformation demand is shifting toward integrated data platforms with embedded governance rails, which is where buying patterns are moving even if vendor marketing has not caught up.
-
-**FP&amp;A talent:** Wolters Kluwer&#x27;s research on FP&amp;A roles in the agentic era frames the shift directly: routine work in FP&amp;A will decline as agents take on recurring analysis and planning tasks. The implication for bank finance operating models is a hiring mix shift from analysts who produce variance reports to analysts who govern, interpret, and challenge agent output.
-
----
-
-### Contrarian Insight
-
-The conventional read is that Basel capital relief (the eighty-seven point seven billion dollar net benefit from the March reproposal) reduces the urgency of finance technology investment because it lowers capital calculation complexity. The contrarian case is the opposite: capital relief without implementation certainty is actually a planning liability. Banks that have delayed capital infrastructure investment waiting for the re-proposal have now accumulated two years of deferred modernization. The finalization window is compressing to roughly twelve weeks. Those that have not already built the data architecture to run parallel capital calculations under the new standardized approach, the current framework, and UK Basel 3.1 simultaneously will face a compressed catch-up spend that is more expensive and more disruptive than a phased multi-year investment would have been.
-
----
-
-### Three Client Conversation Hooks
-
-1. **The structural versus cyclical rate question:** Ask your client whether their NII planning model and deposit cost assumptions are built on a cyclical mean-reversion view or a structural higher-for-longer view. The JPMorgan Asset Management framing of higher debt costs as structural, not cyclical, means the former is increasingly a modeling error, not just a conservative assumption.
-
-2. **The dual Basel implementation window:** For any client with UK operations or European ambitions, ask when they last updated their capital calculation technology roadmap. With the US finalization expected in Q4 and UK Basel 3.1 live January 1, 2027, the window for a considered vendor selection has essentially closed and they are now in implementation execution, whether or not they have made a decision.
-
-3. **The seven percent CFO satisfaction problem:** Present this number to your client and ask them to diagnose it for their own organization. Is the gap a data architecture problem, a governance and control gap, a vendor fragmentation problem, or an unrealistic expectation problem? The answer will tell you where the transformation investment needs to go next.</itunes:summary>
-      <pubDate>Wed, 09 Sep 2026 04:46:24 -0400</pubDate>
-      <enclosure url="https://shawnmascia.github.io/Finance-Pulse/episodes/2026-09-09.mp3" length="6875181" type="audio/mpeg"/>
-      <guid isPermaLink="false">2026-09-09.mp3</guid>
-      <itunes:duration>7:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
